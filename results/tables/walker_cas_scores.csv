@@ -1,0 +1,231 @@
+sample,dataset,gsm,region_name,self_administration,challenge,region,animal_id,group,drug,withdrawal,cas
+BLA-011,walker,GSM2987694,Basolateral amygdala,Saline,Saline,BLA,011,SS,Saline,30d,-3.043619633926838
+BLA-012,walker,GSM2987695,Basolateral amygdala,Cocaine,Cocaine,BLA,012,CC,Cocaine,30d,-2.5501622712993934
+BLA-014,walker,GSM2987696,Basolateral amygdala,Cocaine,Saline,BLA,014,CS,Cocaine,30d,-2.774456484586193
+BLA-031,walker,GSM2987697,Basolateral amygdala,Cocaine,Cocaine,BLA,031,CC,Cocaine,30d,-3.1842599081827196
+BLA-035,walker,GSM2987698,Basolateral amygdala,Saline,Saline,BLA,035,SS,Saline,30d,-3.15759770311021
+BLA-043,walker,GSM2987699,Basolateral amygdala,Saline,Cocaine,BLA,043,SC,Saline,30d,-3.2453367386107637
+BLA-052,walker,GSM2987700,Basolateral amygdala,Saline,Saline,BLA,052,SS,Saline,30d,-2.8866751536271904
+BLA-065,walker,GSM2987701,Basolateral amygdala,Saline,Cocaine,BLA,065,SC,Saline,30d,-2.6760814292006714
+BLA-072,walker,GSM2987702,Basolateral amygdala,Cocaine,Saline,BLA,072,CS,Cocaine,30d,-2.97367698542673
+BLA-073,walker,GSM2987703,Basolateral amygdala,Saline,Saline,BLA,073,SS,Saline,30d,-3.3184826148663515
+BLA-074,walker,GSM2987704,Basolateral amygdala,Cocaine,Cocaine,BLA,074,CC,Cocaine,30d,-3.45471168413389
+BLA-083,walker,GSM2987705,Basolateral amygdala,Saline,Cocaine,BLA,083,SC,Saline,30d,-2.469353755443104
+BLA-085,walker,GSM2987706,Basolateral amygdala,Cocaine,Cocaine,BLA,085,CC,Cocaine,30d,-3.4485860154648003
+BLA-091,walker,GSM2987707,Basolateral amygdala,Cocaine,Saline,BLA,091,CS,Cocaine,30d,-3.5671247284794054
+BLA-105,walker,GSM2987708,Basolateral amygdala,Saline,Cocaine,BLA,105,SC,Saline,30d,-3.692901142823915
+BLA-111,walker,GSM2987709,Basolateral amygdala,Cocaine,Saline,BLA,111,CS,Cocaine,30d,-2.9881203684374142
+BLA-115,walker,GSM2987710,Basolateral amygdala,Cocaine,Cocaine,BLA,115,CC,Cocaine,30d,-1.7731004206820968
+BLA-122,walker,GSM2987711,Basolateral amygdala,Saline,Saline,BLA,122,SS,Saline,30d,-3.810848980869928
+BLA-125,walker,GSM2987712,Basolateral amygdala,Saline,Cocaine,BLA,125,SC,Saline,30d,-3.291748144020168
+BLA-143,walker,GSM2987713,Basolateral amygdala,Saline,Saline,BLA,143,SS,Saline,30d,-3.9717622353134847
+BLA-144,walker,GSM2987714,Basolateral amygdala,Saline,Cocaine,BLA,144,SC,Saline,30d,-2.9935159910259954
+BLA-145,walker,GSM2987715,Basolateral amygdala,Cocaine,Cocaine,BLA,145,CC,Cocaine,30d,-3.4750940342364234
+BLA-151,walker,GSM2987716,Basolateral amygdala,Cocaine,Saline,BLA,151,CS,Cocaine,30d,-2.10798920367513
+BLA-161,walker,GSM2987717,Basolateral amygdala,Saline,Cocaine,BLA,161,SC,Saline,30d,-2.7165048343469964
+BLA-162,walker,GSM2987718,Basolateral amygdala,Saline,Saline,BLA,162,SS,Saline,30d,-3.5363282060356576
+BLA-171,walker,GSM2987719,Basolateral amygdala,Cocaine,None,BLA,171,C24,Cocaine,24h,-3.2355250266243627
+BLA-175,walker,GSM2987720,Basolateral amygdala,Cocaine,None,BLA,175,C24,Cocaine,24h,-3.140873899481484
+BLA-182,walker,GSM2987721,Basolateral amygdala,Saline,None,BLA,182,S24,Saline,24h,-2.5050777956508075
+BLA-183,walker,GSM2987722,Basolateral amygdala,Cocaine,None,BLA,183,C24,Cocaine,24h,-2.3091680781163393
+BLA-185,walker,GSM2987723,Basolateral amygdala,Saline,None,BLA,185,S24,Saline,24h,-3.282925549165325
+BLA-191,walker,GSM2987724,Basolateral amygdala,Saline,None,BLA,191,S24,Saline,24h,-2.480451628381131
+BLA-193,walker,GSM2987725,Basolateral amygdala,Saline,None,BLA,193,S24,Saline,24h,-2.4736589958510673
+BLA-194,walker,GSM2987726,Basolateral amygdala,Cocaine,None,BLA,194,C24,Cocaine,24h,-2.939542218667541
+BLA-204,walker,GSM2987727,Basolateral amygdala,Saline,None,BLA,204,S24,Saline,24h,-3.3389028190801184
+BLA-205,walker,GSM2987728,Basolateral amygdala,Saline,None,BLA,205,S24,Saline,24h,-3.380758960802427
+BLA-214,walker,GSM2987729,Basolateral amygdala,Cocaine,None,BLA,214,C24,Cocaine,24h,-2.827959381399692
+BLA-223,walker,GSM2987730,Basolateral amygdala,Cocaine,None,BLA,223,C24,Cocaine,24h,-1.951323512492069
+BLA-225,walker,GSM2987731,Basolateral amygdala,Saline,None,BLA,225,S24,Saline,24h,-2.465877661864543
+Cpu-011,walker,GSM2987732,Dorsal striatum,Saline,Saline,Cpu,011,SS,Saline,30d,-2.3454127543038723
+Cpu-012,walker,GSM2987733,Dorsal striatum,Cocaine,Cocaine,Cpu,012,CC,Cocaine,30d,-2.4402914453031066
+Cpu-014,walker,GSM2987734,Dorsal striatum,Cocaine,Saline,Cpu,014,CS,Cocaine,30d,-2.7943630680550835
+Cpu-031,walker,GSM2987735,Dorsal striatum,Cocaine,Cocaine,Cpu,031,CC,Cocaine,30d,-3.044502639570707
+Cpu-035,walker,GSM2987736,Dorsal striatum,Saline,Saline,Cpu,035,SS,Saline,30d,-2.7857950430445158
+Cpu-052,walker,GSM2987737,Dorsal striatum,Saline,Saline,Cpu,052,SS,Saline,30d,-2.993058941445155
+Cpu-053,walker,GSM2987738,Dorsal striatum,Cocaine,Cocaine,Cpu,053,CC,Cocaine,30d,-2.7439345819208985
+Cpu-055,walker,GSM2987739,Dorsal striatum,Cocaine,Saline,Cpu,055,CS,Cocaine,30d,-2.9904130544497827
+Cpu-065,walker,GSM2987740,Dorsal striatum,Saline,Cocaine,Cpu,065,SC,Saline,30d,-2.8827353142649867
+Cpu-072,walker,GSM2987741,Dorsal striatum,Cocaine,Saline,Cpu,072,CS,Cocaine,30d,-3.105256435607057
+Cpu-073,walker,GSM2987742,Dorsal striatum,Saline,Saline,Cpu,073,SS,Saline,30d,-2.603296881898871
+Cpu-074,walker,GSM2987743,Dorsal striatum,Cocaine,Cocaine,Cpu,074,CC,Cocaine,30d,-2.8058105868500323
+Cpu-083,walker,GSM2987744,Dorsal striatum,Saline,Cocaine,Cpu,083,SC,Saline,30d,-2.887070957604925
+Cpu-085,walker,GSM2987745,Dorsal striatum,Cocaine,Cocaine,Cpu,085,CC,Cocaine,30d,-2.4064988476426583
+Cpu-091,walker,GSM2987746,Dorsal striatum,Cocaine,Saline,Cpu,091,CS,Cocaine,30d,-2.344656853567118
+Cpu-105,walker,GSM2987747,Dorsal striatum,Saline,Cocaine,Cpu,105,SC,Saline,30d,-2.5800272736250562
+Cpu-111,walker,GSM2987748,Dorsal striatum,Cocaine,Saline,Cpu,111,CS,Cocaine,30d,-2.503377550453495
+Cpu-113,walker,GSM2987749,Dorsal striatum,Saline,Cocaine,Cpu,113,SC,Saline,30d,-2.814828711681595
+Cpu-115,walker,GSM2987750,Dorsal striatum,Cocaine,Cocaine,Cpu,115,CC,Cocaine,30d,-2.426922319529093
+Cpu-122,walker,GSM2987751,Dorsal striatum,Saline,Saline,Cpu,122,SS,Saline,30d,-2.812332800485489
+Cpu-125,walker,GSM2987752,Dorsal striatum,Saline,Cocaine,Cpu,125,SC,Saline,30d,-2.729200259833506
+Cpu-143,walker,GSM2987753,Dorsal striatum,Saline,Saline,Cpu,143,SS,Saline,30d,-2.591062448151852
+Cpu-145,walker,GSM2987754,Dorsal striatum,Cocaine,Cocaine,Cpu,145,CC,Cocaine,30d,-2.8513317824049547
+Cpu-151,walker,GSM2987755,Dorsal striatum,Cocaine,Saline,Cpu,151,CS,Cocaine,30d,-3.14187928981697
+Cpu-161,walker,GSM2987756,Dorsal striatum,Saline,Cocaine,Cpu,161,SC,Saline,30d,-1.9237063162793229
+Cpu-162,walker,GSM2987757,Dorsal striatum,Saline,Saline,Cpu,162,SS,Saline,30d,-3.094695551439097
+Cpu-171,walker,GSM2987758,Dorsal striatum,Cocaine,None,Cpu,171,C24,Cocaine,24h,-2.021021872564676
+Cpu-175,walker,GSM2987759,Dorsal striatum,Cocaine,None,Cpu,175,C24,Cocaine,24h,-2.0389938699566375
+Cpu-182,walker,GSM2987760,Dorsal striatum,Saline,None,Cpu,182,S24,Saline,24h,-2.1909515568096016
+Cpu-183,walker,GSM2987761,Dorsal striatum,Cocaine,None,Cpu,183,C24,Cocaine,24h,-2.247236827340654
+Cpu-185,walker,GSM2987762,Dorsal striatum,Saline,None,Cpu,185,S24,Saline,24h,-3.0240125900598622
+Cpu-191,walker,GSM2987763,Dorsal striatum,Saline,None,Cpu,191,S24,Saline,24h,-2.3629405574509463
+Cpu-193,walker,GSM2987764,Dorsal striatum,Saline,None,Cpu,193,S24,Saline,24h,-2.528392538412491
+Cpu-194,walker,GSM2987765,Dorsal striatum,Cocaine,None,Cpu,194,C24,Cocaine,24h,-2.3779932160129413
+Cpu-195,walker,GSM2987766,Dorsal striatum,Cocaine,None,Cpu,195,C24,Cocaine,24h,-2.656176557032049
+Cpu-201,walker,GSM2987767,Dorsal striatum,Saline,None,Cpu,201,S24,Saline,24h,-2.8132827908824445
+Cpu-203,walker,GSM2987768,Dorsal striatum,Cocaine,None,Cpu,203,C24,Cocaine,24h,-0.8977047480997575
+Cpu-204,walker,GSM2987769,Dorsal striatum,Saline,None,Cpu,204,S24,Saline,24h,-2.717420910104441
+Cpu-205,walker,GSM2987770,Dorsal striatum,Saline,None,Cpu,205,S24,Saline,24h,-2.968798906281656
+Cpu-214,walker,GSM2987771,Dorsal striatum,Cocaine,None,Cpu,214,C24,Cocaine,24h,-2.16446382847119
+Cpu-223,walker,GSM2987772,Dorsal striatum,Cocaine,None,Cpu,223,C24,Cocaine,24h,-1.8747564271825128
+Cpu-225,walker,GSM2987773,Dorsal striatum,Saline,None,Cpu,225,S24,Saline,24h,-1.8188129139378515
+Hipp-014,walker,GSM2987774,Ventral hippocampus,Cocaine,Saline,Hipp,014,CS,Cocaine,30d,-3.984122543308773
+Hipp-031,walker,GSM2987775,Ventral hippocampus,Cocaine,Cocaine,Hipp,031,CC,Cocaine,30d,-3.7775780857242744
+Hipp-035,walker,GSM2987776,Ventral hippocampus,Saline,Saline,Hipp,035,SS,Saline,30d,-2.480882479649165
+Hipp-043,walker,GSM2987777,Ventral hippocampus,Saline,Cocaine,Hipp,043,SC,Saline,30d,-3.5641329097279777
+Hipp-052,walker,GSM2987778,Ventral hippocampus,Saline,Saline,Hipp,052,SS,Saline,30d,-2.9113185887762474
+Hipp-053,walker,GSM2987779,Ventral hippocampus,Cocaine,Cocaine,Hipp,053,CC,Cocaine,30d,-2.497433675246965
+Hipp-055,walker,GSM2987780,Ventral hippocampus,Cocaine,Saline,Hipp,055,CS,Cocaine,30d,-3.5368006529532177
+Hipp-065,walker,GSM2987781,Ventral hippocampus,Saline,Cocaine,Hipp,065,SC,Saline,30d,-3.9757085825700575
+Hipp-072,walker,GSM2987782,Ventral hippocampus,Cocaine,Saline,Hipp,072,CS,Cocaine,30d,-3.321903938419741
+Hipp-073,walker,GSM2987783,Ventral hippocampus,Saline,Saline,Hipp,073,SS,Saline,30d,-3.0731162834799157
+Hipp-074,walker,GSM2987784,Ventral hippocampus,Cocaine,Cocaine,Hipp,074,CC,Cocaine,30d,-3.52905151414673
+Hipp-085,walker,GSM2987785,Ventral hippocampus,Cocaine,Cocaine,Hipp,085,CC,Cocaine,30d,-3.9135338358889817
+Hipp-091,walker,GSM2987786,Ventral hippocampus,Cocaine,Saline,Hipp,091,CS,Cocaine,30d,-4.131066559862478
+Hipp-094,walker,GSM2987787,Ventral hippocampus,Saline,Saline,Hipp,094,SS,Saline,30d,-3.050773578983293
+Hipp-105,walker,GSM2987788,Ventral hippocampus,Saline,Cocaine,Hipp,105,SC,Saline,30d,-4.297446030000852
+Hipp-111,walker,GSM2987789,Ventral hippocampus,Cocaine,Saline,Hipp,111,CS,Cocaine,30d,-3.4519948361802184
+Hipp-113,walker,GSM2987790,Ventral hippocampus,Saline,Cocaine,Hipp,113,SC,Saline,30d,-4.155833667496634
+Hipp-115,walker,GSM2987791,Ventral hippocampus,Cocaine,Cocaine,Hipp,115,CC,Cocaine,30d,-3.0415226132460242
+Hipp-122,walker,GSM2987792,Ventral hippocampus,Saline,Saline,Hipp,122,SS,Saline,30d,-3.291810169075425
+Hipp-125,walker,GSM2987793,Ventral hippocampus,Saline,Cocaine,Hipp,125,SC,Saline,30d,-3.5689284858153085
+Hipp-144,walker,GSM2987794,Ventral hippocampus,Saline,Cocaine,Hipp,144,SC,Saline,30d,-2.5655108761729943
+Hipp-151,walker,GSM2987795,Ventral hippocampus,Cocaine,Saline,Hipp,151,CS,Cocaine,30d,-3.9659428827193928
+Hipp-161,walker,GSM2987796,Ventral hippocampus,Saline,Cocaine,Hipp,161,SC,Saline,30d,-2.3871479731617096
+Hipp-162,walker,GSM2987797,Ventral hippocampus,Saline,Saline,Hipp,162,SS,Saline,30d,-2.556096310018935
+Hipp-171,walker,GSM2987798,Ventral hippocampus,Cocaine,None,Hipp,171,C24,Cocaine,24h,-2.948527827332259
+Hipp-175,walker,GSM2987799,Ventral hippocampus,Cocaine,None,Hipp,175,C24,Cocaine,24h,-2.833263131276041
+Hipp-182,walker,GSM2987800,Ventral hippocampus,Saline,None,Hipp,182,S24,Saline,24h,-3.568667641620864
+Hipp-183,walker,GSM2987801,Ventral hippocampus,Cocaine,None,Hipp,183,C24,Cocaine,24h,-3.4528096920344824
+Hipp-185,walker,GSM2987802,Ventral hippocampus,Saline,None,Hipp,185,S24,Saline,24h,-3.897554833177679
+Hipp-191,walker,GSM2987803,Ventral hippocampus,Saline,None,Hipp,191,S24,Saline,24h,-2.6326121259527895
+Hipp-194,walker,GSM2987804,Ventral hippocampus,Cocaine,None,Hipp,194,C24,Cocaine,24h,-3.2843615589485
+Hipp-195,walker,GSM2987805,Ventral hippocampus,Cocaine,None,Hipp,195,C24,Cocaine,24h,-3.7730116392872404
+Hipp-201,walker,GSM2987806,Ventral hippocampus,Saline,None,Hipp,201,S24,Saline,24h,-4.250404895519172
+Hipp-203,walker,GSM2987807,Ventral hippocampus,Cocaine,None,Hipp,203,C24,Cocaine,24h,-1.898303412153439
+Hipp-204,walker,GSM2987808,Ventral hippocampus,Saline,None,Hipp,204,S24,Saline,24h,-3.400844321139341
+Hipp-205,walker,GSM2987809,Ventral hippocampus,Saline,None,Hipp,205,S24,Saline,24h,-3.641166597780928
+Hipp-214,walker,GSM2987810,Ventral hippocampus,Cocaine,None,Hipp,214,C24,Cocaine,24h,-2.7312946735991086
+Hipp-223,walker,GSM2987811,Ventral hippocampus,Cocaine,None,Hipp,223,C24,Cocaine,24h,-1.0832037177112643
+Hipp-225,walker,GSM2987812,Ventral hippocampus,Saline,None,Hipp,225,S24,Saline,24h,-3.3282356250763687
+NAc-012,walker,GSM2987813,Nucleus accumbens,Cocaine,Cocaine,NAc,012,CC,Cocaine,30d,-2.895192889912429
+NAc-014,walker,GSM2987814,Nucleus accumbens,Cocaine,Saline,NAc,014,CS,Cocaine,30d,-2.2178336201748334
+NAc-031,walker,GSM2987815,Nucleus accumbens,Cocaine,Cocaine,NAc,031,CC,Cocaine,30d,-2.9669957548743566
+NAc-035,walker,GSM2987816,Nucleus accumbens,Saline,Saline,NAc,035,SS,Saline,30d,-3.171333447414965
+NAc-052,walker,GSM2987817,Nucleus accumbens,Saline,Saline,NAc,052,SS,Saline,30d,-2.962717417829362
+NAc-053,walker,GSM2987818,Nucleus accumbens,Cocaine,Cocaine,NAc,053,CC,Cocaine,30d,-2.459516905407092
+NAc-055,walker,GSM2987819,Nucleus accumbens,Cocaine,Saline,NAc,055,CS,Cocaine,30d,-3.171596822958712
+NAc-073,walker,GSM2987820,Nucleus accumbens,Saline,Saline,NAc,073,SS,Saline,30d,-2.6981371367628078
+NAc-074,walker,GSM2987821,Nucleus accumbens,Cocaine,Cocaine,NAc,074,CC,Cocaine,30d,-2.933065059167146
+NAc-083,walker,GSM2987822,Nucleus accumbens,Saline,Cocaine,NAc,083,SC,Saline,30d,-2.8196427562379016
+NAc-085,walker,GSM2987823,Nucleus accumbens,Cocaine,Cocaine,NAc,085,CC,Cocaine,30d,-2.5461172464865593
+NAc-091,walker,GSM2987824,Nucleus accumbens,Cocaine,Saline,NAc,091,CS,Cocaine,30d,-2.9287742872007803
+NAc-094,walker,GSM2987825,Nucleus accumbens,Saline,Saline,NAc,094,SS,Saline,30d,-2.943696555376052
+NAc-105,walker,GSM2987826,Nucleus accumbens,Saline,Cocaine,NAc,105,SC,Saline,30d,-2.4936087439726418
+NAc-111,walker,GSM2987827,Nucleus accumbens,Cocaine,Saline,NAc,111,CS,Cocaine,30d,-2.725953197096173
+NAc-113,walker,GSM2987828,Nucleus accumbens,Saline,Cocaine,NAc,113,SC,Saline,30d,-3.0278325909549944
+NAc-115,walker,GSM2987829,Nucleus accumbens,Cocaine,Cocaine,NAc,115,CC,Cocaine,30d,-2.5345522495767328
+NAc-122,walker,GSM2987830,Nucleus accumbens,Saline,Saline,NAc,122,SS,Saline,30d,-2.498814879415319
+NAc-125,walker,GSM2987831,Nucleus accumbens,Saline,Cocaine,NAc,125,SC,Saline,30d,-2.9564785676270553
+NAc-145,walker,GSM2987832,Nucleus accumbens,Cocaine,Cocaine,NAc,145,CC,Cocaine,30d,-2.5704891706936457
+NAc-151,walker,GSM2987833,Nucleus accumbens,Cocaine,Saline,NAc,151,CS,Cocaine,30d,-2.9832009126504495
+NAc-161,walker,GSM2987834,Nucleus accumbens,Saline,Cocaine,NAc,161,SC,Saline,30d,-2.483241890735362
+NAc-162,walker,GSM2987835,Nucleus accumbens,Saline,Saline,NAc,162,SS,Saline,30d,-3.3727721979226386
+NAc-171,walker,GSM2987836,Nucleus accumbens,Cocaine,None,NAc,171,C24,Cocaine,24h,-1.9832741157086258
+NAc-175,walker,GSM2987837,Nucleus accumbens,Cocaine,None,NAc,175,C24,Cocaine,24h,-2.1526690074449273
+NAc-182,walker,GSM2987838,Nucleus accumbens,Saline,None,NAc,182,S24,Saline,24h,-2.37146867326492
+NAc-183,walker,GSM2987839,Nucleus accumbens,Cocaine,None,NAc,183,C24,Cocaine,24h,-1.7045275418119556
+NAc-185,walker,GSM2987840,Nucleus accumbens,Saline,None,NAc,185,S24,Saline,24h,-2.888789462482902
+NAc-191,walker,GSM2987841,Nucleus accumbens,Saline,None,NAc,191,S24,Saline,24h,-1.9736267063808002
+NAc-193,walker,GSM2987842,Nucleus accumbens,Saline,None,NAc,193,S24,Saline,24h,-2.548437756774731
+NAc-194,walker,GSM2987843,Nucleus accumbens,Cocaine,None,NAc,194,C24,Cocaine,24h,-2.8428524991581936
+NAc-195,walker,GSM2987844,Nucleus accumbens,Cocaine,None,NAc,195,C24,Cocaine,24h,-2.6786534415701873
+NAc-201,walker,GSM2987845,Nucleus accumbens,Saline,None,NAc,201,S24,Saline,24h,-3.219284849227575
+NAc-203,walker,GSM2987846,Nucleus accumbens,Cocaine,None,NAc,203,C24,Cocaine,24h,-1.6992701488554798
+NAc-204,walker,GSM2987847,Nucleus accumbens,Saline,None,NAc,204,S24,Saline,24h,-2.851847147617018
+NAc-205,walker,GSM2987848,Nucleus accumbens,Saline,None,NAc,205,S24,Saline,24h,-2.7613229682885496
+NAc-214,walker,GSM2987849,Nucleus accumbens,Cocaine,None,NAc,214,C24,Cocaine,24h,-2.505738958334213
+NAc-223,walker,GSM2987850,Nucleus accumbens,Cocaine,None,NAc,223,C24,Cocaine,24h,-1.0379028196231654
+NAc-225,walker,GSM2987851,Nucleus accumbens,Saline,None,NAc,225,S24,Saline,24h,-2.2100378564093606
+PFC-011,walker,GSM2987852,Prefrontal cortex,Saline,Saline,PFC,011,SS,Saline,30d,-3.1808693839209754
+PFC-012,walker,GSM2987853,Prefrontal cortex,Cocaine,Cocaine,PFC,012,CC,Cocaine,30d,-3.366620471734281
+PFC-014,walker,GSM2987854,Prefrontal cortex,Cocaine,Saline,PFC,014,CS,Cocaine,30d,-3.4531386897826186
+PFC-031,walker,GSM2987855,Prefrontal cortex,Cocaine,Cocaine,PFC,031,CC,Cocaine,30d,-3.9631044825559436
+PFC-035,walker,GSM2987856,Prefrontal cortex,Saline,Saline,PFC,035,SS,Saline,30d,-4.037932864509377
+PFC-043,walker,GSM2987857,Prefrontal cortex,Saline,Cocaine,PFC,043,SC,Saline,30d,-3.300810255060424
+PFC-053,walker,GSM2987858,Prefrontal cortex,Cocaine,Cocaine,PFC,053,CC,Cocaine,30d,-3.1544944154817873
+PFC-065,walker,GSM2987859,Prefrontal cortex,Saline,Cocaine,PFC,065,SC,Saline,30d,-3.6966491812769107
+PFC-072,walker,GSM2987860,Prefrontal cortex,Cocaine,Saline,PFC,072,CS,Cocaine,30d,-3.644188606525608
+PFC-073,walker,GSM2987861,Prefrontal cortex,Saline,Saline,PFC,073,SS,Saline,30d,-3.3330579790273953
+PFC-074,walker,GSM2987862,Prefrontal cortex,Cocaine,Cocaine,PFC,074,CC,Cocaine,30d,-3.8219842212976456
+PFC-083,walker,GSM2987863,Prefrontal cortex,Saline,Cocaine,PFC,083,SC,Saline,30d,-3.4503965947031356
+PFC-085,walker,GSM2987864,Prefrontal cortex,Cocaine,Cocaine,PFC,085,CC,Cocaine,30d,-3.3690054825114184
+PFC-091,walker,GSM2987865,Prefrontal cortex,Cocaine,Saline,PFC,091,CS,Cocaine,30d,-2.9925878916805946
+PFC-094,walker,GSM2987866,Prefrontal cortex,Saline,Saline,PFC,094,SS,Saline,30d,-3.0018996627031607
+PFC-105,walker,GSM2987867,Prefrontal cortex,Saline,Cocaine,PFC,105,SC,Saline,30d,-3.728203335628415
+PFC-111,walker,GSM2987868,Prefrontal cortex,Cocaine,Saline,PFC,111,CS,Cocaine,30d,-3.3308118135909788
+PFC-115,walker,GSM2987869,Prefrontal cortex,Cocaine,Cocaine,PFC,115,CC,Cocaine,30d,-3.322902153467557
+PFC-122,walker,GSM2987870,Prefrontal cortex,Saline,Saline,PFC,122,SS,Saline,30d,-3.2083020635315145
+PFC-125,walker,GSM2987871,Prefrontal cortex,Saline,Cocaine,PFC,125,SC,Saline,30d,-3.4056720384005703
+PFC-143,walker,GSM2987872,Prefrontal cortex,Saline,Saline,PFC,143,SS,Saline,30d,-3.894682020191769
+PFC-144,walker,GSM2987873,Prefrontal cortex,Saline,Cocaine,PFC,144,SC,Saline,30d,-3.113826684327613
+PFC-145,walker,GSM2987874,Prefrontal cortex,Cocaine,Cocaine,PFC,145,CC,Cocaine,30d,-3.8354074482312974
+PFC-151,walker,GSM2987875,Prefrontal cortex,Cocaine,Saline,PFC,151,CS,Cocaine,30d,-3.7416813304494023
+PFC-161,walker,GSM2987876,Prefrontal cortex,Saline,Cocaine,PFC,161,SC,Saline,30d,-2.7286081408622955
+PFC-162,walker,GSM2987877,Prefrontal cortex,Saline,Saline,PFC,162,SS,Saline,30d,-4.197950168791895
+PFC-171,walker,GSM2987878,Prefrontal cortex,Cocaine,None,PFC,171,C24,Cocaine,24h,-3.3051263712593686
+PFC-175,walker,GSM2987879,Prefrontal cortex,Cocaine,None,PFC,175,C24,Cocaine,24h,-2.8368201518514837
+PFC-182,walker,GSM2987880,Prefrontal cortex,Saline,None,PFC,182,S24,Saline,24h,-3.052419935859403
+PFC-183,walker,GSM2987881,Prefrontal cortex,Cocaine,None,PFC,183,C24,Cocaine,24h,-2.5648694553824423
+PFC-185,walker,GSM2987882,Prefrontal cortex,Saline,None,PFC,185,S24,Saline,24h,-4.123402985029634
+PFC-191,walker,GSM2987883,Prefrontal cortex,Saline,None,PFC,191,S24,Saline,24h,-2.525796169126137
+PFC-193,walker,GSM2987884,Prefrontal cortex,Saline,None,PFC,193,S24,Saline,24h,-3.694943060133853
+PFC-194,walker,GSM2987885,Prefrontal cortex,Cocaine,None,PFC,194,C24,Cocaine,24h,-3.0730189319016588
+PFC-195,walker,GSM2987886,Prefrontal cortex,Cocaine,None,PFC,195,C24,Cocaine,24h,-3.463435062221638
+PFC-201,walker,GSM2987887,Prefrontal cortex,Saline,None,PFC,201,S24,Saline,24h,-3.7344366185127176
+PFC-203,walker,GSM2987888,Prefrontal cortex,Cocaine,None,PFC,203,C24,Cocaine,24h,-2.1134824299424784
+PFC-204,walker,GSM2987889,Prefrontal cortex,Saline,None,PFC,204,S24,Saline,24h,-3.7087783836927173
+PFC-205,walker,GSM2987890,Prefrontal cortex,Saline,None,PFC,205,S24,Saline,24h,-3.7623792449334954
+PFC-214,walker,GSM2987891,Prefrontal cortex,Cocaine,None,PFC,214,C24,Cocaine,24h,-2.981147924783109
+PFC-223,walker,GSM2987892,Prefrontal cortex,Cocaine,None,PFC,223,C24,Cocaine,24h,-2.5523531260042787
+VTA-011,walker,GSM2987893,Ventral tegmental area,Saline,Saline,VTA,011,SS,Saline,30d,-2.9852958008153982
+VTA-035,walker,GSM2987894,Ventral tegmental area,Saline,Saline,VTA,035,SS,Saline,30d,-3.292427776835214
+VTA-043,walker,GSM2987895,Ventral tegmental area,Saline,Cocaine,VTA,043,SC,Saline,30d,-2.375975863615228
+VTA-053,walker,GSM2987896,Ventral tegmental area,Cocaine,Cocaine,VTA,053,CC,Cocaine,30d,-3.29808582554787
+VTA-055,walker,GSM2987897,Ventral tegmental area,Cocaine,Saline,VTA,055,CS,Cocaine,30d,-3.915689238796145
+VTA-065,walker,GSM2987898,Ventral tegmental area,Saline,Cocaine,VTA,065,SC,Saline,30d,-2.5888868254625783
+VTA-072,walker,GSM2987899,Ventral tegmental area,Cocaine,Saline,VTA,072,CS,Cocaine,30d,-3.5675008693034362
+VTA-074,walker,GSM2987900,Ventral tegmental area,Cocaine,Cocaine,VTA,074,CC,Cocaine,30d,-3.3922142283756442
+VTA-085,walker,GSM2987901,Ventral tegmental area,Cocaine,Cocaine,VTA,085,CC,Cocaine,30d,-3.212893819091904
+VTA-091,walker,GSM2987902,Ventral tegmental area,Cocaine,Saline,VTA,091,CS,Cocaine,30d,-3.524492138397514
+VTA-094,walker,GSM2987903,Ventral tegmental area,Saline,Saline,VTA,094,SS,Saline,30d,-3.4553129301291885
+VTA-113,walker,GSM2987904,Ventral tegmental area,Saline,Cocaine,VTA,113,SC,Saline,30d,-3.721374251433315
+VTA-115,walker,GSM2987905,Ventral tegmental area,Cocaine,Cocaine,VTA,115,CC,Cocaine,30d,-2.5057942655902536
+VTA-122,walker,GSM2987906,Ventral tegmental area,Saline,Saline,VTA,122,SS,Saline,30d,-2.997311784718165
+VTA-143,walker,GSM2987907,Ventral tegmental area,Saline,Saline,VTA,143,SS,Saline,30d,-2.0307136834921478
+VTA-144,walker,GSM2987908,Ventral tegmental area,Saline,Cocaine,VTA,144,SC,Saline,30d,-3.0353369765879226
+VTA-145,walker,GSM2987909,Ventral tegmental area,Cocaine,Cocaine,VTA,145,CC,Cocaine,30d,-3.687619336502988
+VTA-161,walker,GSM2987910,Ventral tegmental area,Saline,Cocaine,VTA,161,SC,Saline,30d,-2.542079171796734
+VTA-162,walker,GSM2987911,Ventral tegmental area,Saline,Saline,VTA,162,SS,Saline,30d,-3.1256912281431184
+VTA-171,walker,GSM2987912,Ventral tegmental area,Cocaine,None,VTA,171,C24,Cocaine,24h,-3.3926893053372624
+VTA-175,walker,GSM2987913,Ventral tegmental area,Cocaine,None,VTA,175,C24,Cocaine,24h,-2.5737230715195913
+VTA-182,walker,GSM2987914,Ventral tegmental area,Saline,None,VTA,182,S24,Saline,24h,-3.708473048604986
+VTA-191,walker,GSM2987915,Ventral tegmental area,Saline,None,VTA,191,S24,Saline,24h,-2.38792348254114
+VTA-193,walker,GSM2987916,Ventral tegmental area,Saline,None,VTA,193,S24,Saline,24h,-2.9041087391224654
+VTA-195,walker,GSM2987917,Ventral tegmental area,Cocaine,None,VTA,195,C24,Cocaine,24h,-3.6357962904293006
+VTA-201,walker,GSM2987918,Ventral tegmental area,Saline,None,VTA,201,S24,Saline,24h,-3.4095191973300416
+VTA-203,walker,GSM2987919,Ventral tegmental area,Cocaine,None,VTA,203,C24,Cocaine,24h,-1.9295038852237871
+VTA-204,walker,GSM2987920,Ventral tegmental area,Saline,None,VTA,204,S24,Saline,24h,-3.933522612985663
+VTA-205,walker,GSM2987921,Ventral tegmental area,Saline,None,VTA,205,S24,Saline,24h,-3.4526042939257278
+VTA-214,walker,GSM2987922,Ventral tegmental area,Cocaine,None,VTA,214,C24,Cocaine,24h,-3.2076391689612516
+VTA-223,walker,GSM2987923,Ventral tegmental area,Cocaine,None,VTA,223,C24,Cocaine,24h,-1.4900348477553795
