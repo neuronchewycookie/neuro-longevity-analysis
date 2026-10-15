@@ -1,0 +1,6 @@
+dataset,n_up,n_down,n_total,missing
+hahn,75,7,82,
+walker,75,7,82,
+heroin,75,7,82,
+rat,64,6,70,C4b;H2-Q6;Ftl1;H2-K1;H2-Q7;H2-D1;H2-DMb1;H2-M3;Neat1;Cd300c2;Hist3h2a;Mpeg1
+human,62,7,69,Pcdhb9;C4b;H2-Q6;Pcdhb14;Pcdhb6;Pcdhb8;Abca8a;H2-K1;H2-Q7;H2-D1;H2-DMb1;H2-M3;Ccl6

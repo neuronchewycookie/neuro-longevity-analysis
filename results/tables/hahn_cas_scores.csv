@@ -1,0 +1,1695 @@
+sample,dataset,gsm,region_name,sex,age_months,mouse_id,region,cas,n_up,n_down,method
+BulkSeq_cc_10,hahn,GSM6527049,Corpus callosum,Female,12,10,cc,-2.8830579146377766,73,7,vision
+BulkSeq_cc_11,hahn,GSM6527050,Corpus callosum,Male,26,11,cc,-0.6581892784408631,73,7,vision
+BulkSeq_cc_12,hahn,GSM6527051,Corpus callosum,Male,12,12,cc,-3.9255964707397566,73,7,vision
+BulkSeq_cc_13,hahn,GSM6527052,Corpus callosum,Female,12,13,cc,-4.07347616664543,73,7,vision
+BulkSeq_cc_14,hahn,GSM6527053,Corpus callosum,Male,26,14,cc,-0.5379758514056673,73,7,vision
+BulkSeq_cc_15,hahn,GSM6527055,Corpus callosum,Male,12,15,cc,-4.7991111928510835,73,7,vision
+BulkSeq_cc_16,hahn,GSM6527056,Corpus callosum,Male,21,16,cc,-2.550078956280458,73,7,vision
+BulkSeq_cc_17,hahn,GSM6527057,Corpus callosum,Male,3,17,cc,-5.6448207058807816,73,7,vision
+BulkSeq_cc_18,hahn,GSM6527058,Corpus callosum,Male,15,18,cc,-3.3124209675523213,73,7,vision
+BulkSeq_cc_19,hahn,GSM6527059,Corpus callosum,Male,18,19,cc,-3.8774411004878866,73,7,vision
+BulkSeq_cc_20,hahn,GSM6527060,Corpus callosum,Male,21,20,cc,-2.1407343535185874,73,7,vision
+BulkSeq_cc_21,hahn,GSM6527062,Corpus callosum,Male,3,21,cc,-5.321048986876473,73,7,vision
+BulkSeq_cc_22,hahn,GSM6527063,Corpus callosum,Male,15,22,cc,-3.457506039105591,73,7,vision
+BulkSeq_cc_23,hahn,GSM6527064,Corpus callosum,Male,18,23,cc,-2.356023977178477,73,7,vision
+BulkSeq_cc_24,hahn,GSM6527065,Corpus callosum,Male,21,24,cc,-1.937445885898293,73,7,vision
+BulkSeq_cc_25,hahn,GSM6527066,Corpus callosum,Male,3,25,cc,-5.610312829965889,73,7,vision
+BulkSeq_cc_26,hahn,GSM6527067,Corpus callosum,Male,15,26,cc,-2.6311126952225807,73,7,vision
+BulkSeq_cc_27,hahn,GSM6527069,Corpus callosum,Male,18,27,cc,-3.210436780395767,73,7,vision
+BulkSeq_cc_28,hahn,GSM6527070,Corpus callosum,Male,21,28,cc,-2.767077321039195,73,7,vision
+BulkSeq_cc_29,hahn,GSM6527071,Corpus callosum,Male,3,29,cc,-5.154135592057893,73,7,vision
+BulkSeq_cc_3,hahn,GSM6527072,Corpus callosum,Male,12,3,cc,-4.453412818938679,73,7,vision
+BulkSeq_cc_30,hahn,GSM6527073,Corpus callosum,Male,15,30,cc,-3.484791118154132,73,7,vision
+BulkSeq_cc_31,hahn,GSM6527075,Corpus callosum,Male,18,31,cc,-2.9484900757077424,73,7,vision
+BulkSeq_cc_32,hahn,GSM6527076,Corpus callosum,Male,21,32,cc,-1.4869204582085835,73,7,vision
+BulkSeq_cc_33,hahn,GSM6527077,Corpus callosum,Male,3,33,cc,-5.510631910408163,73,7,vision
+BulkSeq_cc_34,hahn,GSM6527078,Corpus callosum,Male,15,34,cc,-3.8263809964137505,73,7,vision
+BulkSeq_cc_35,hahn,GSM6527080,Corpus callosum,Male,18,35,cc,-2.422726258503459,73,7,vision
+BulkSeq_cc_36,hahn,GSM6527081,Corpus callosum,Male,21,36,cc,-1.8268153920780204,73,7,vision
+BulkSeq_cc_37,hahn,GSM6527082,Corpus callosum,Female,3,37,cc,-4.569213370644737,73,7,vision
+BulkSeq_cc_38,hahn,GSM6527083,Corpus callosum,Female,15,38,cc,-3.3281941225110065,73,7,vision
+BulkSeq_cc_39,hahn,GSM6527084,Corpus callosum,Female,18,39,cc,-1.7911432428039058,73,7,vision
+BulkSeq_cc_4,hahn,GSM6527086,Corpus callosum,Female,12,4,cc,-3.5931395358260088,73,7,vision
+BulkSeq_cc_40,hahn,GSM6527087,Corpus callosum,Female,21,40,cc,-1.753360949580279,73,7,vision
+BulkSeq_cc_41,hahn,GSM6527088,Corpus callosum,Female,3,41,cc,-5.25542638330938,73,7,vision
+BulkSeq_cc_42,hahn,GSM6527089,Corpus callosum,Female,15,42,cc,-2.5635745700007533,73,7,vision
+BulkSeq_cc_43,hahn,GSM6527090,Corpus callosum,Female,18,43,cc,-2.7672588883448905,73,7,vision
+BulkSeq_cc_44,hahn,GSM6527091,Corpus callosum,Female,21,44,cc,-1.5082266364310322,73,7,vision
+BulkSeq_cc_45,hahn,GSM6527093,Corpus callosum,Female,3,45,cc,-5.527883443072808,73,7,vision
+BulkSeq_cc_46,hahn,GSM6527094,Corpus callosum,Female,15,46,cc,-3.396120614392019,73,7,vision
+BulkSeq_cc_47,hahn,GSM6527095,Corpus callosum,Female,18,47,cc,-1.8156621174072365,73,7,vision
+BulkSeq_cc_48,hahn,GSM6527096,Corpus callosum,Female,21,48,cc,-0.8071319955282515,73,7,vision
+BulkSeq_cc_49,hahn,GSM6527097,Corpus callosum,Female,3,49,cc,-5.122870189356393,73,7,vision
+BulkSeq_cc_5,hahn,GSM6527098,Corpus callosum,Male,26,5,cc,-0.7778981263849133,73,7,vision
+BulkSeq_cc_50,hahn,GSM6527100,Corpus callosum,Female,15,50,cc,-3.318593752657611,73,7,vision
+BulkSeq_cc_51,hahn,GSM6527101,Corpus callosum,Female,18,51,cc,-1.3814866685080973,73,7,vision
+BulkSeq_cc_52,hahn,GSM6527102,Corpus callosum,Female,21,52,cc,-0.7646759558252538,73,7,vision
+BulkSeq_cc_53,hahn,GSM6527103,Corpus callosum,Female,3,53,cc,-5.086287177158933,73,7,vision
+BulkSeq_cc_54,hahn,GSM6527104,Corpus callosum,Female,15,54,cc,-3.5095320740524074,73,7,vision
+BulkSeq_cc_55,hahn,GSM6527106,Corpus callosum,Female,18,55,cc,-1.3952798319768995,73,7,vision
+BulkSeq_cc_56,hahn,GSM6527107,Corpus callosum,Female,21,56,cc,-1.4002461268356174,73,7,vision
+BulkSeq_cc_57,hahn,GSM6527108,Corpus callosum,Male,28,57,cc,-0.36640058337546744,73,7,vision
+BulkSeq_cc_58,hahn,GSM6527109,Corpus callosum,Male,28,58,cc,1.3371503596034682,73,7,vision
+BulkSeq_cc_59,hahn,GSM6527110,Corpus callosum,Male,28,59,cc,-0.10798628625153299,73,7,vision
+BulkSeq_cc_6,hahn,GSM6527112,Corpus callosum,Male,12,6,cc,-3.9061797293679708,73,7,vision
+BulkSeq_cc_7,hahn,GSM6527113,Corpus callosum,Female,12,7,cc,-4.297827434934767,73,7,vision
+BulkSeq_cc_8,hahn,GSM6527114,Corpus callosum,Male,26,8,cc,-1.2851514895239053,73,7,vision
+BulkSeq_cc_9,hahn,GSM6527115,Corpus callosum,Male,12,9,cc,-4.383140361940121,73,7,vision
+BulkSeq_cer_1,hahn,GSM6527116,Cerebellum,Female,12,1,cer,-5.830471973527779,68,7,vision
+BulkSeq_cer_10,hahn,GSM6527118,Cerebellum,Female,12,10,cer,-5.142452377957296,68,7,vision
+BulkSeq_cer_11,hahn,GSM6527119,Cerebellum,Male,26,11,cer,-2.225067412394622,68,7,vision
+BulkSeq_cer_12,hahn,GSM6527120,Cerebellum,Male,12,12,cer,-5.919045036521756,68,7,vision
+BulkSeq_cer_13,hahn,GSM6527121,Cerebellum,Female,12,13,cer,-5.059960992129352,68,7,vision
+BulkSeq_cer_14,hahn,GSM6527123,Cerebellum,Male,26,14,cer,-1.3397204314463986,68,7,vision
+BulkSeq_cer_15,hahn,GSM6527124,Cerebellum,Male,12,15,cer,-6.278553969089729,68,7,vision
+BulkSeq_cer_16,hahn,GSM6527125,Cerebellum,Male,21,16,cer,-2.3148388913431934,68,7,vision
+BulkSeq_cer_17,hahn,GSM6527126,Cerebellum,Male,3,17,cer,-6.94373538413299,68,7,vision
+BulkSeq_cer_18,hahn,GSM6527127,Cerebellum,Male,15,18,cer,-5.250524689068888,68,7,vision
+BulkSeq_cer_19,hahn,GSM6527128,Cerebellum,Male,18,19,cer,-4.093634250874655,68,7,vision
+BulkSeq_cer_2,hahn,GSM6527129,Cerebellum,Male,26,2,cer,-3.5759555099476805,68,7,vision
+BulkSeq_cer_20,hahn,GSM6527131,Cerebellum,Male,21,20,cer,-4.030362128225679,68,7,vision
+BulkSeq_cer_21,hahn,GSM6527132,Cerebellum,Male,3,21,cer,-7.238372974540336,68,7,vision
+BulkSeq_cer_22,hahn,GSM6527133,Cerebellum,Male,15,22,cer,-4.516359176870244,68,7,vision
+BulkSeq_cer_23,hahn,GSM6527134,Cerebellum,Male,18,23,cer,-1.299401660108683,68,7,vision
+BulkSeq_cer_24,hahn,GSM6527135,Cerebellum,Male,21,24,cer,-3.9503286073667363,68,7,vision
+BulkSeq_cer_25,hahn,GSM6527136,Cerebellum,Male,3,25,cer,-6.4864329985056814,68,7,vision
+BulkSeq_cer_26,hahn,GSM6527138,Cerebellum,Male,15,26,cer,-4.405862996826819,68,7,vision
+BulkSeq_cer_27,hahn,GSM6527139,Cerebellum,Male,18,27,cer,-4.690089294629226,68,7,vision
+BulkSeq_cer_28,hahn,GSM6527140,Cerebellum,Male,21,28,cer,-4.39901307231778,68,7,vision
+BulkSeq_cer_29,hahn,GSM6527141,Cerebellum,Male,3,29,cer,-7.428450261312922,68,7,vision
+BulkSeq_cer_3,hahn,GSM6527142,Cerebellum,Male,12,3,cer,-5.027327972056352,68,7,vision
+BulkSeq_cer_30,hahn,GSM6527143,Cerebellum,Male,15,30,cer,-4.03233011585254,68,7,vision
+BulkSeq_cer_31,hahn,GSM6527145,Cerebellum,Male,18,31,cer,-3.4954278029546098,68,7,vision
+BulkSeq_cer_32,hahn,GSM6527146,Cerebellum,Male,21,32,cer,-3.873380381065373,68,7,vision
+BulkSeq_cer_33,hahn,GSM6527147,Cerebellum,Male,3,33,cer,-6.918690099884467,68,7,vision
+BulkSeq_cer_34,hahn,GSM6527148,Cerebellum,Male,15,34,cer,-4.472903521639875,68,7,vision
+BulkSeq_cer_35,hahn,GSM6527149,Cerebellum,Male,18,35,cer,-3.4447977503308893,68,7,vision
+BulkSeq_cer_36,hahn,GSM6527151,Cerebellum,Male,21,36,cer,-2.834479177856983,68,7,vision
+BulkSeq_cer_37,hahn,GSM6527152,Cerebellum,Female,3,37,cer,-6.371178432818255,68,7,vision
+BulkSeq_cer_38,hahn,GSM6527153,Cerebellum,Female,15,38,cer,-5.287913006061005,68,7,vision
+BulkSeq_cer_39,hahn,GSM6527154,Cerebellum,Female,18,39,cer,-3.0240589376176112,68,7,vision
+BulkSeq_cer_40,hahn,GSM6527155,Cerebellum,Female,21,40,cer,-0.6754512572088507,68,7,vision
+BulkSeq_cer_41,hahn,GSM6527157,Cerebellum,Female,3,41,cer,-7.168352545194693,68,7,vision
+BulkSeq_cer_42,hahn,GSM6527158,Cerebellum,Female,15,42,cer,-4.117112281439456,68,7,vision
+BulkSeq_cer_43,hahn,GSM6527159,Cerebellum,Female,18,43,cer,-3.2553878602295288,68,7,vision
+BulkSeq_cer_44,hahn,GSM6527160,Cerebellum,Female,21,44,cer,-3.7368006036527546,68,7,vision
+BulkSeq_cer_45,hahn,GSM6527161,Cerebellum,Female,3,45,cer,-7.396025727588002,68,7,vision
+BulkSeq_cer_46,hahn,GSM6527163,Cerebellum,Female,15,46,cer,-4.235309542076908,68,7,vision
+BulkSeq_cer_47,hahn,GSM6527164,Cerebellum,Female,18,47,cer,-2.3614738653742244,68,7,vision
+BulkSeq_cer_48,hahn,GSM6527165,Cerebellum,Female,21,48,cer,-2.347896171574114,68,7,vision
+BulkSeq_cer_49,hahn,GSM6527166,Cerebellum,Female,3,49,cer,-7.131773289044693,68,7,vision
+BulkSeq_cer_5,hahn,GSM6527167,Cerebellum,Male,26,5,cer,-1.3899093459911498,68,7,vision
+BulkSeq_cer_50,hahn,GSM6527168,Cerebellum,Female,15,50,cer,-3.4754705977848848,68,7,vision
+BulkSeq_cer_51,hahn,GSM6527170,Cerebellum,Female,18,51,cer,-3.922283221652503,68,7,vision
+BulkSeq_cer_52,hahn,GSM6527171,Cerebellum,Female,21,52,cer,-2.3279379541539313,68,7,vision
+BulkSeq_cer_53,hahn,GSM6527172,Cerebellum,Female,3,53,cer,-6.259410819257807,68,7,vision
+BulkSeq_cer_54,hahn,GSM6527173,Cerebellum,Female,15,54,cer,-4.510871326167619,68,7,vision
+BulkSeq_cer_55,hahn,GSM6527174,Cerebellum,Female,18,55,cer,-2.7716748233479835,68,7,vision
+BulkSeq_cer_56,hahn,GSM6527175,Cerebellum,Female,21,56,cer,-3.1076257743752196,68,7,vision
+BulkSeq_cer_57,hahn,GSM6527176,Cerebellum,Male,28,57,cer,-1.2231946365444775,68,7,vision
+BulkSeq_cer_58,hahn,GSM6527177,Cerebellum,Male,28,58,cer,-1.9436989235262048,68,7,vision
+BulkSeq_cer_59,hahn,GSM6527179,Cerebellum,Male,28,59,cer,-2.7125259465778537,68,7,vision
+BulkSeq_cer_6,hahn,GSM6527180,Cerebellum,Male,12,6,cer,-5.196732137197168,68,7,vision
+BulkSeq_cer_7,hahn,GSM6527181,Cerebellum,Female,12,7,cer,-5.484489724475145,68,7,vision
+BulkSeq_cer_8,hahn,GSM6527182,Cerebellum,Male,26,8,cer,-2.57866909147953,68,7,vision
+BulkSeq_cer_9,hahn,GSM6527183,Cerebellum,Male,12,9,cer,-5.915369712160133,68,7,vision
+BulkSeq_cor_1,hahn,GSM6527184,Motor cortex,Female,12,1,cor,-5.324000172636167,68,7,vision
+BulkSeq_cor_10,hahn,GSM6527186,Motor cortex,Female,12,10,cor,-4.796258402235324,68,7,vision
+BulkSeq_cor_11,hahn,GSM6527187,Motor cortex,Male,26,11,cor,-4.160703559939589,68,7,vision
+BulkSeq_cor_12,hahn,GSM6527188,Motor cortex,Male,12,12,cor,-4.949924759840572,68,7,vision
+BulkSeq_cor_13,hahn,GSM6527189,Motor cortex,Female,12,13,cor,-5.23186602567036,68,7,vision
+BulkSeq_cor_14,hahn,GSM6527190,Motor cortex,Male,26,14,cor,-4.132463923385893,68,7,vision
+BulkSeq_cor_15,hahn,GSM6527191,Motor cortex,Male,12,15,cor,-5.380170413642869,68,7,vision
+BulkSeq_cor_16,hahn,GSM6527193,Motor cortex,Male,21,16,cor,-4.135085217062101,68,7,vision
+BulkSeq_cor_17,hahn,GSM6527194,Motor cortex,Male,3,17,cor,-5.9818380398387125,68,7,vision
+BulkSeq_cor_18,hahn,GSM6527195,Motor cortex,Male,15,18,cor,-5.269399983306387,68,7,vision
+BulkSeq_cor_19,hahn,GSM6527196,Motor cortex,Male,18,19,cor,-5.016747633937679,68,7,vision
+BulkSeq_cor_2,hahn,GSM6527197,Motor cortex,Male,26,2,cor,-4.2043746115249085,68,7,vision
+BulkSeq_cor_20,hahn,GSM6527199,Motor cortex,Male,21,20,cor,-4.397258334917387,68,7,vision
+BulkSeq_cor_21,hahn,GSM6527200,Motor cortex,Male,3,21,cor,-5.585043453910853,68,7,vision
+BulkSeq_cor_22,hahn,GSM6527201,Motor cortex,Male,15,22,cor,-5.459493936109205,68,7,vision
+BulkSeq_cor_23,hahn,GSM6527202,Motor cortex,Male,18,23,cor,-4.388418493866983,68,7,vision
+BulkSeq_cor_24,hahn,GSM6527203,Motor cortex,Male,21,24,cor,-4.868964371694739,68,7,vision
+BulkSeq_cor_25,hahn,GSM6527204,Motor cortex,Male,3,25,cor,-5.755818834813119,68,7,vision
+BulkSeq_cor_26,hahn,GSM6527206,Motor cortex,Male,15,26,cor,-4.915001864401806,68,7,vision
+BulkSeq_cor_27,hahn,GSM6527207,Motor cortex,Male,18,27,cor,-5.013435229555425,68,7,vision
+BulkSeq_cor_28,hahn,GSM6527208,Motor cortex,Male,21,28,cor,-4.5249050513578455,68,7,vision
+BulkSeq_cor_29,hahn,GSM6527209,Motor cortex,Male,3,29,cor,-5.794688344930146,68,7,vision
+BulkSeq_cor_3,hahn,GSM6527210,Motor cortex,Male,12,3,cor,-5.118108337388122,68,7,vision
+BulkSeq_cor_30,hahn,GSM6527211,Motor cortex,Male,15,30,cor,-5.058736218387351,68,7,vision
+BulkSeq_cor_31,hahn,GSM6527212,Motor cortex,Male,18,31,cor,-4.677863219277592,68,7,vision
+BulkSeq_cor_32,hahn,GSM6527214,Motor cortex,Male,21,32,cor,-4.35219969476295,68,7,vision
+BulkSeq_cor_33,hahn,GSM6527215,Motor cortex,Male,3,33,cor,-6.273851036191657,68,7,vision
+BulkSeq_cor_34,hahn,GSM6527216,Motor cortex,Male,15,34,cor,-5.249737240508734,68,7,vision
+BulkSeq_cor_35,hahn,GSM6527217,Motor cortex,Male,18,35,cor,-4.4285732517740195,68,7,vision
+BulkSeq_cor_36,hahn,GSM6527218,Motor cortex,Male,21,36,cor,-4.0413837261275525,68,7,vision
+BulkSeq_cor_37,hahn,GSM6527219,Motor cortex,Female,3,37,cor,-6.014495946784469,68,7,vision
+BulkSeq_cor_38,hahn,GSM6527221,Motor cortex,Female,15,38,cor,-4.533138897999302,68,7,vision
+BulkSeq_cor_39,hahn,GSM6527222,Motor cortex,Female,18,39,cor,-4.3217736138603,68,7,vision
+BulkSeq_cor_4,hahn,GSM6527223,Motor cortex,Female,12,4,cor,-4.81014869903786,68,7,vision
+BulkSeq_cor_40,hahn,GSM6527224,Motor cortex,Female,21,40,cor,-3.709632706313482,68,7,vision
+BulkSeq_cor_41,hahn,GSM6527225,Motor cortex,Female,3,41,cor,-5.9438883520794965,68,7,vision
+BulkSeq_cor_42,hahn,GSM6527227,Motor cortex,Female,15,42,cor,-4.721459651320275,68,7,vision
+BulkSeq_cor_43,hahn,GSM6527228,Motor cortex,Female,18,43,cor,-4.49713993296243,68,7,vision
+BulkSeq_cor_44,hahn,GSM6527229,Motor cortex,Female,21,44,cor,-4.5456465499006775,68,7,vision
+BulkSeq_cor_45,hahn,GSM6527231,Motor cortex,Female,3,45,cor,-5.9650512093062895,68,7,vision
+BulkSeq_cor_46,hahn,GSM6527232,Motor cortex,Female,15,46,cor,-4.784341985020154,68,7,vision
+BulkSeq_cor_47,hahn,GSM6527233,Motor cortex,Female,18,47,cor,-4.637628330696241,68,7,vision
+BulkSeq_cor_48,hahn,GSM6527234,Motor cortex,Female,21,48,cor,-4.303394159053685,68,7,vision
+BulkSeq_cor_49,hahn,GSM6527235,Motor cortex,Female,3,49,cor,-5.965096285911513,68,7,vision
+BulkSeq_cor_5,hahn,GSM6527236,Motor cortex,Male,26,5,cor,-4.054185012642104,68,7,vision
+BulkSeq_cor_50,hahn,GSM6527238,Motor cortex,Female,15,50,cor,-4.517260102861399,68,7,vision
+BulkSeq_cor_51,hahn,GSM6527239,Motor cortex,Female,18,51,cor,-3.9177225222456595,68,7,vision
+BulkSeq_cor_52,hahn,GSM6527240,Motor cortex,Female,21,52,cor,-3.4913031993832835,68,7,vision
+BulkSeq_cor_53,hahn,GSM6527241,Motor cortex,Female,3,53,cor,-5.690398222977246,68,7,vision
+BulkSeq_cor_54,hahn,GSM6527242,Motor cortex,Female,15,54,cor,-5.001555279956607,68,7,vision
+BulkSeq_cor_55,hahn,GSM6527243,Motor cortex,Female,18,55,cor,-4.428959247736354,68,7,vision
+BulkSeq_cor_56,hahn,GSM6527245,Motor cortex,Female,21,56,cor,-4.270801545390601,68,7,vision
+BulkSeq_cor_57,hahn,GSM6527246,Motor cortex,Male,28,57,cor,-3.72580494603277,68,7,vision
+BulkSeq_cor_58,hahn,GSM6527247,Motor cortex,Male,28,58,cor,-3.308710618162675,68,7,vision
+BulkSeq_cor_59,hahn,GSM6527248,Motor cortex,Male,28,59,cor,-3.691836345126988,68,7,vision
+BulkSeq_cor_6,hahn,GSM6527249,Motor cortex,Male,12,6,cor,-5.302927037607258,68,7,vision
+BulkSeq_cor_7,hahn,GSM6527250,Motor cortex,Female,12,7,cor,-5.397247765276134,68,7,vision
+BulkSeq_cor_8,hahn,GSM6527252,Motor cortex,Male,26,8,cor,-4.131810471158696,68,7,vision
+BulkSeq_cor_9,hahn,GSM6527253,Motor cortex,Male,12,9,cor,-5.520997283268952,68,7,vision
+BulkSeq_cp_1,hahn,GSM6527254,Caudate putamen,Female,12,1,cp,-3.799410285564935,71,7,vision
+BulkSeq_cp_10,hahn,GSM6527255,Caudate putamen,Female,12,10,cp,-4.684646321583632,71,7,vision
+BulkSeq_cp_11,hahn,GSM6527256,Caudate putamen,Male,26,11,cp,0.6249947272679318,71,7,vision
+BulkSeq_cp_12,hahn,GSM6527258,Caudate putamen,Male,12,12,cp,-4.576135909049581,71,7,vision
+BulkSeq_cp_13,hahn,GSM6527259,Caudate putamen,Female,12,13,cp,-3.723166682702853,71,7,vision
+BulkSeq_cp_14,hahn,GSM6527260,Caudate putamen,Male,26,14,cp,-0.9211647730547345,71,7,vision
+BulkSeq_cp_15,hahn,GSM6527261,Caudate putamen,Male,12,15,cp,-4.377691311011892,71,7,vision
+BulkSeq_cp_16,hahn,GSM6527262,Caudate putamen,Male,21,16,cp,-4.0525679187421355,71,7,vision
+BulkSeq_cp_17,hahn,GSM6527264,Caudate putamen,Male,3,17,cp,-5.0258256598038065,71,7,vision
+BulkSeq_cp_18,hahn,GSM6527265,Caudate putamen,Male,15,18,cp,-3.226361295793256,71,7,vision
+BulkSeq_cp_19,hahn,GSM6527266,Caudate putamen,Male,18,19,cp,-3.6800992965425015,71,7,vision
+BulkSeq_cp_2,hahn,GSM6527267,Caudate putamen,Male,26,2,cp,-2.872211448645121,71,7,vision
+BulkSeq_cp_20,hahn,GSM6527268,Caudate putamen,Male,21,20,cp,-3.077133881973261,71,7,vision
+BulkSeq_cp_21,hahn,GSM6527270,Caudate putamen,Male,3,21,cp,-5.122549384131948,71,7,vision
+BulkSeq_cp_22,hahn,GSM6527271,Caudate putamen,Male,15,22,cp,-2.316429721483269,71,7,vision
+BulkSeq_cp_23,hahn,GSM6527272,Caudate putamen,Male,18,23,cp,-3.438824705573767,71,7,vision
+BulkSeq_cp_24,hahn,GSM6527273,Caudate putamen,Male,21,24,cp,-1.5136064069688702,71,7,vision
+BulkSeq_cp_26,hahn,GSM6527274,Caudate putamen,Male,15,26,cp,-3.7320141386855465,71,7,vision
+BulkSeq_cp_27,hahn,GSM6527275,Caudate putamen,Male,18,27,cp,-2.5133366440250042,71,7,vision
+BulkSeq_cp_28,hahn,GSM6527277,Caudate putamen,Male,21,28,cp,-2.365214297796959,71,7,vision
+BulkSeq_cp_29,hahn,GSM6527278,Caudate putamen,Male,3,29,cp,-5.69819652030836,71,7,vision
+BulkSeq_cp_3,hahn,GSM6527279,Caudate putamen,Male,12,3,cp,-4.750326455474836,71,7,vision
+BulkSeq_cp_30,hahn,GSM6527280,Caudate putamen,Male,15,30,cp,-3.0408177918180166,71,7,vision
+BulkSeq_cp_31,hahn,GSM6527281,Caudate putamen,Male,18,31,cp,-3.637178474041357,71,7,vision
+BulkSeq_cp_32,hahn,GSM6527282,Caudate putamen,Male,21,32,cp,-2.3024716440064252,71,7,vision
+BulkSeq_cp_33,hahn,GSM6527284,Caudate putamen,Male,3,33,cp,-5.373363221944164,71,7,vision
+BulkSeq_cp_34,hahn,GSM6527285,Caudate putamen,Male,15,34,cp,-3.91939401444843,71,7,vision
+BulkSeq_cp_35,hahn,GSM6527286,Caudate putamen,Male,18,35,cp,-4.136421170701465,71,7,vision
+BulkSeq_cp_36,hahn,GSM6527287,Caudate putamen,Male,21,36,cp,-2.704845160689498,71,7,vision
+BulkSeq_cp_37,hahn,GSM6527288,Caudate putamen,Female,3,37,cp,-5.31824920830396,71,7,vision
+BulkSeq_cp_38,hahn,GSM6527289,Caudate putamen,Female,15,38,cp,-4.151611169751053,71,7,vision
+BulkSeq_cp_39,hahn,GSM6527291,Caudate putamen,Female,18,39,cp,-3.567200359858703,71,7,vision
+BulkSeq_cp_4,hahn,GSM6527292,Caudate putamen,Female,12,4,cp,-4.5557464050309155,71,7,vision
+BulkSeq_cp_40,hahn,GSM6527293,Caudate putamen,Female,21,40,cp,-2.303091764220546,71,7,vision
+BulkSeq_cp_41,hahn,GSM6527294,Caudate putamen,Female,3,41,cp,-5.2412291200142995,71,7,vision
+BulkSeq_cp_42,hahn,GSM6527295,Caudate putamen,Female,15,42,cp,-3.392803132815579,71,7,vision
+BulkSeq_cp_43,hahn,GSM6527296,Caudate putamen,Female,18,43,cp,-1.6694964859585815,71,7,vision
+BulkSeq_cp_44,hahn,GSM6527298,Caudate putamen,Female,21,44,cp,-2.3852974157622135,71,7,vision
+BulkSeq_cp_45,hahn,GSM6527299,Caudate putamen,Female,3,45,cp,-5.129054323864396,71,7,vision
+BulkSeq_cp_46,hahn,GSM6527300,Caudate putamen,Female,15,46,cp,-4.047669081933015,71,7,vision
+BulkSeq_cp_47,hahn,GSM6527301,Caudate putamen,Female,18,47,cp,-2.105628737712126,71,7,vision
+BulkSeq_cp_48,hahn,GSM6527302,Caudate putamen,Female,21,48,cp,-2.215468203488485,71,7,vision
+BulkSeq_cp_49,hahn,GSM6527304,Caudate putamen,Female,3,49,cp,-4.753108749964376,71,7,vision
+BulkSeq_cp_5,hahn,GSM6527305,Caudate putamen,Male,26,5,cp,-0.29397764525039966,71,7,vision
+BulkSeq_cp_50,hahn,GSM6527306,Caudate putamen,Female,15,50,cp,-3.937680450230622,71,7,vision
+BulkSeq_cp_51,hahn,GSM6527307,Caudate putamen,Female,18,51,cp,-3.1497208295062844,71,7,vision
+BulkSeq_cp_52,hahn,GSM6527308,Caudate putamen,Female,21,52,cp,-3.0006297301138725,71,7,vision
+BulkSeq_cp_53,hahn,GSM6527310,Caudate putamen,Female,3,53,cp,-5.443419963687221,71,7,vision
+BulkSeq_cp_54,hahn,GSM6527311,Caudate putamen,Female,15,54,cp,-3.3772868546633634,71,7,vision
+BulkSeq_cp_55,hahn,GSM6527312,Caudate putamen,Female,18,55,cp,-3.0674128780835637,71,7,vision
+BulkSeq_cp_56,hahn,GSM6527313,Caudate putamen,Female,21,56,cp,-2.4631816972314033,71,7,vision
+BulkSeq_cp_57,hahn,GSM6527314,Caudate putamen,Male,28,57,cp,-0.05670568725411247,71,7,vision
+BulkSeq_cp_58,hahn,GSM6527316,Caudate putamen,Male,28,58,cp,-0.3223057352191303,71,7,vision
+BulkSeq_cp_59,hahn,GSM6527317,Caudate putamen,Male,28,59,cp,0.47297013550077094,71,7,vision
+BulkSeq_cp_6,hahn,GSM6527318,Caudate putamen,Male,12,6,cp,-4.255240849943183,71,7,vision
+BulkSeq_cp_7,hahn,GSM6527319,Caudate putamen,Female,12,7,cp,-4.072181944316881,71,7,vision
+BulkSeq_cp_8,hahn,GSM6527320,Caudate putamen,Male,26,8,cp,-1.605740293492978,71,7,vision
+BulkSeq_cp_9,hahn,GSM6527321,Caudate putamen,Male,12,9,cp,-3.9027464420718956,71,7,vision
+BulkSeq_ent_1,hahn,GSM6527322,Entorhinal cortex,Female,12,1,ent,-5.337210612364611,72,7,vision
+BulkSeq_ent_10,hahn,GSM6527324,Entorhinal cortex,Female,12,10,ent,-5.440258772166764,72,7,vision
+BulkSeq_ent_12,hahn,GSM6527325,Entorhinal cortex,Male,12,12,ent,-5.3908250780095175,72,7,vision
+BulkSeq_ent_13,hahn,GSM6527326,Entorhinal cortex,Female,12,13,ent,-5.38172956120623,72,7,vision
+BulkSeq_ent_14,hahn,GSM6527328,Entorhinal cortex,Male,26,14,ent,-4.796032113157109,72,7,vision
+BulkSeq_ent_15,hahn,GSM6527329,Entorhinal cortex,Male,12,15,ent,-4.014029144088476,72,7,vision
+BulkSeq_ent_16,hahn,GSM6527330,Entorhinal cortex,Male,21,16,ent,-4.923732731092071,72,7,vision
+BulkSeq_ent_17,hahn,GSM6527332,Entorhinal cortex,Male,3,17,ent,-6.305341753952739,72,7,vision
+BulkSeq_ent_18,hahn,GSM6527333,Entorhinal cortex,Male,15,18,ent,-3.078989022165126,72,7,vision
+BulkSeq_ent_19,hahn,GSM6527334,Entorhinal cortex,Male,18,19,ent,-5.622302938466499,72,7,vision
+BulkSeq_ent_20,hahn,GSM6527335,Entorhinal cortex,Male,21,20,ent,-1.745924090118475,72,7,vision
+BulkSeq_ent_21,hahn,GSM6527336,Entorhinal cortex,Male,3,21,ent,-5.6991706777716695,72,7,vision
+BulkSeq_ent_22,hahn,GSM6527338,Entorhinal cortex,Male,15,22,ent,-5.655743985768296,72,7,vision
+BulkSeq_ent_23,hahn,GSM6527339,Entorhinal cortex,Male,18,23,ent,-4.047207249397944,72,7,vision
+BulkSeq_ent_24,hahn,GSM6527340,Entorhinal cortex,Male,21,24,ent,-4.613747852396306,72,7,vision
+BulkSeq_ent_25,hahn,GSM6527341,Entorhinal cortex,Male,3,25,ent,-6.892699553234999,72,7,vision
+BulkSeq_ent_26,hahn,GSM6527342,Entorhinal cortex,Male,15,26,ent,-5.120174699498022,72,7,vision
+BulkSeq_ent_28,hahn,GSM6527343,Entorhinal cortex,Male,21,28,ent,-5.681508230848651,72,7,vision
+BulkSeq_ent_29,hahn,GSM6527345,Entorhinal cortex,Male,3,29,ent,-5.769323980739404,72,7,vision
+BulkSeq_ent_30,hahn,GSM6527346,Entorhinal cortex,Male,15,30,ent,-5.07926009120614,72,7,vision
+BulkSeq_ent_32,hahn,GSM6527347,Entorhinal cortex,Male,21,32,ent,-5.001920357362274,72,7,vision
+BulkSeq_ent_34,hahn,GSM6527348,Entorhinal cortex,Male,15,34,ent,-5.440292319114204,72,7,vision
+BulkSeq_ent_35,hahn,GSM6527349,Entorhinal cortex,Male,18,35,ent,-5.1876859159842885,72,7,vision
+BulkSeq_ent_36,hahn,GSM6527350,Entorhinal cortex,Male,21,36,ent,-4.675773845648506,72,7,vision
+BulkSeq_ent_37,hahn,GSM6527352,Entorhinal cortex,Female,3,37,ent,-6.228441037392946,72,7,vision
+BulkSeq_ent_38,hahn,GSM6527353,Entorhinal cortex,Female,15,38,ent,-5.54661259800416,72,7,vision
+BulkSeq_ent_39,hahn,GSM6527354,Entorhinal cortex,Female,18,39,ent,-3.650004633443717,72,7,vision
+BulkSeq_ent_40,hahn,GSM6527355,Entorhinal cortex,Female,21,40,ent,-1.5800596642692653,72,7,vision
+BulkSeq_ent_41,hahn,GSM6527356,Entorhinal cortex,Female,3,41,ent,-5.850046007025242,72,7,vision
+BulkSeq_ent_42,hahn,GSM6527357,Entorhinal cortex,Female,15,42,ent,-2.259824268858625,72,7,vision
+BulkSeq_ent_43,hahn,GSM6527359,Entorhinal cortex,Female,18,43,ent,-5.6933010710227485,72,7,vision
+BulkSeq_ent_44,hahn,GSM6527360,Entorhinal cortex,Female,21,44,ent,-5.549804166889355,72,7,vision
+BulkSeq_ent_45,hahn,GSM6527361,Entorhinal cortex,Female,3,45,ent,-6.3778551991971755,72,7,vision
+BulkSeq_ent_46,hahn,GSM6527362,Entorhinal cortex,Female,15,46,ent,-5.6290337975908145,72,7,vision
+BulkSeq_ent_47,hahn,GSM6527363,Entorhinal cortex,Female,18,47,ent,-5.277767800969983,72,7,vision
+BulkSeq_ent_48,hahn,GSM6527365,Entorhinal cortex,Female,21,48,ent,-4.395710676984215,72,7,vision
+BulkSeq_ent_49,hahn,GSM6527366,Entorhinal cortex,Female,3,49,ent,-6.5710060363785905,72,7,vision
+BulkSeq_ent_5,hahn,GSM6527367,Entorhinal cortex,Male,26,5,ent,-4.097372433150006,72,7,vision
+BulkSeq_ent_50,hahn,GSM6527368,Entorhinal cortex,Female,15,50,ent,-5.72693429061804,72,7,vision
+BulkSeq_ent_51,hahn,GSM6527369,Entorhinal cortex,Female,18,51,ent,-3.2860195287348826,72,7,vision
+BulkSeq_ent_52,hahn,GSM6527371,Entorhinal cortex,Female,21,52,ent,-1.6902737479977437,72,7,vision
+BulkSeq_ent_53,hahn,GSM6527372,Entorhinal cortex,Female,3,53,ent,-6.311172964328152,72,7,vision
+BulkSeq_ent_54,hahn,GSM6527373,Entorhinal cortex,Female,15,54,ent,-3.169774774422667,72,7,vision
+BulkSeq_ent_55,hahn,GSM6527374,Entorhinal cortex,Female,18,55,ent,-5.031123089106104,72,7,vision
+BulkSeq_ent_56,hahn,GSM6527375,Entorhinal cortex,Female,21,56,ent,-4.73323855546562,72,7,vision
+BulkSeq_ent_57,hahn,GSM6527377,Entorhinal cortex,Male,28,57,ent,-5.01442197551736,72,7,vision
+BulkSeq_ent_58,hahn,GSM6527378,Entorhinal cortex,Male,28,58,ent,-4.14043400082407,72,7,vision
+BulkSeq_ent_59,hahn,GSM6527379,Entorhinal cortex,Male,28,59,ent,-4.38424449926396,72,7,vision
+BulkSeq_ent_7,hahn,GSM6527380,Entorhinal cortex,Female,12,7,ent,-4.6535408082929095,72,7,vision
+BulkSeq_ent_8,hahn,GSM6527381,Entorhinal cortex,Male,26,8,ent,-4.960543822076847,72,7,vision
+BulkSeq_ent_9,hahn,GSM6527382,Entorhinal cortex,Male,12,9,ent,-4.4900330571374765,72,7,vision
+BulkSeq_hi_1,hahn,GSM6527452,Hippocampus (anterior),Female,12,1,hi,-4.199387673988695,68,7,vision
+BulkSeq_hi_10,hahn,GSM6527453,Hippocampus (anterior),Female,12,10,hi,-3.774907333484635,68,7,vision
+BulkSeq_hi_11,hahn,GSM6527455,Hippocampus (anterior),Male,26,11,hi,-2.3306606244022463,68,7,vision
+BulkSeq_hi_12,hahn,GSM6527456,Hippocampus (anterior),Male,12,12,hi,-4.221025939328378,68,7,vision
+BulkSeq_hi_13,hahn,GSM6527457,Hippocampus (anterior),Female,12,13,hi,-4.43520265126938,68,7,vision
+BulkSeq_hi_14,hahn,GSM6527458,Hippocampus (anterior),Male,26,14,hi,-2.138535086521997,68,7,vision
+BulkSeq_hi_15,hahn,GSM6527459,Hippocampus (anterior),Male,12,15,hi,-4.231980652853426,68,7,vision
+BulkSeq_hi_16,hahn,GSM6527460,Hippocampus (anterior),Male,21,16,hi,-2.8647990670699777,68,7,vision
+BulkSeq_hi_17,hahn,GSM6527462,Hippocampus (anterior),Male,3,17,hi,-4.983183947280333,68,7,vision
+BulkSeq_hi_18,hahn,GSM6527463,Hippocampus (anterior),Male,15,18,hi,-3.7053334056897715,68,7,vision
+BulkSeq_hi_19,hahn,GSM6527464,Hippocampus (anterior),Male,18,19,hi,-3.598585617764931,68,7,vision
+BulkSeq_hi_2,hahn,GSM6527465,Hippocampus (anterior),Male,26,2,hi,-2.5482135355198245,68,7,vision
+BulkSeq_hi_20,hahn,GSM6527466,Hippocampus (anterior),Male,21,20,hi,-2.801989342605096,68,7,vision
+BulkSeq_hi_21,hahn,GSM6527467,Hippocampus (anterior),Male,3,21,hi,-5.066498965379909,68,7,vision
+BulkSeq_hi_22,hahn,GSM6527469,Hippocampus (anterior),Male,15,22,hi,-3.800448685488301,68,7,vision
+BulkSeq_hi_23,hahn,GSM6527470,Hippocampus (anterior),Male,18,23,hi,-3.213158218291277,68,7,vision
+BulkSeq_hi_24,hahn,GSM6527471,Hippocampus (anterior),Male,21,24,hi,-3.2902563100292466,68,7,vision
+BulkSeq_hi_25,hahn,GSM6527472,Hippocampus (anterior),Male,3,25,hi,-5.289797003364788,68,7,vision
+BulkSeq_hi_26,hahn,GSM6527473,Hippocampus (anterior),Male,15,26,hi,-4.148184485738392,68,7,vision
+BulkSeq_hi_27,hahn,GSM6527475,Hippocampus (anterior),Male,18,27,hi,-3.1610621921111774,68,7,vision
+BulkSeq_hi_28,hahn,GSM6527476,Hippocampus (anterior),Male,21,28,hi,-3.261140952787008,68,7,vision
+BulkSeq_hi_29,hahn,GSM6527477,Hippocampus (anterior),Male,3,29,hi,-5.174524828828881,68,7,vision
+BulkSeq_hi_30,hahn,GSM6527478,Hippocampus (anterior),Male,15,30,hi,-3.6891663109303288,68,7,vision
+BulkSeq_hi_31,hahn,GSM6527479,Hippocampus (anterior),Male,18,31,hi,-3.198774731108209,68,7,vision
+BulkSeq_hi_32,hahn,GSM6527481,Hippocampus (anterior),Male,21,32,hi,-2.9666433352103727,68,7,vision
+BulkSeq_hi_33,hahn,GSM6527482,Hippocampus (anterior),Male,3,33,hi,-5.203541469000277,68,7,vision
+BulkSeq_hi_34,hahn,GSM6527483,Hippocampus (anterior),Male,15,34,hi,-4.232404419592159,68,7,vision
+BulkSeq_hi_35,hahn,GSM6527484,Hippocampus (anterior),Male,18,35,hi,-3.1597583305992103,68,7,vision
+BulkSeq_hi_36,hahn,GSM6527486,Hippocampus (anterior),Male,21,36,hi,-2.65827524070061,68,7,vision
+BulkSeq_hi_37,hahn,GSM6527487,Hippocampus (anterior),Female,3,37,hi,-4.950046086091342,68,7,vision
+BulkSeq_hi_38,hahn,GSM6527488,Hippocampus (anterior),Female,15,38,hi,-3.5114096349937913,68,7,vision
+BulkSeq_hi_39,hahn,GSM6527489,Hippocampus (anterior),Female,18,39,hi,-3.2800781303672264,68,7,vision
+BulkSeq_hi_4,hahn,GSM6527490,Hippocampus (anterior),Female,12,4,hi,-3.631063257436536,68,7,vision
+BulkSeq_hi_40,hahn,GSM6527491,Hippocampus (anterior),Female,21,40,hi,-2.4299143911428267,68,7,vision
+BulkSeq_hi_41,hahn,GSM6527493,Hippocampus (anterior),Female,3,41,hi,-4.623303585038859,68,7,vision
+BulkSeq_hi_43,hahn,GSM6527494,Hippocampus (anterior),Female,18,43,hi,-2.9285044461711145,68,7,vision
+BulkSeq_hi_44,hahn,GSM6527495,Hippocampus (anterior),Female,21,44,hi,-2.9349025683846537,68,7,vision
+BulkSeq_hi_45,hahn,GSM6527496,Hippocampus (anterior),Female,3,45,hi,-5.0450636982750545,68,7,vision
+BulkSeq_hi_46,hahn,GSM6527497,Hippocampus (anterior),Female,15,46,hi,-2.816785804974362,68,7,vision
+BulkSeq_hi_47,hahn,GSM6527498,Hippocampus (anterior),Female,18,47,hi,-2.8098969503891205,68,7,vision
+BulkSeq_hi_48,hahn,GSM6527500,Hippocampus (anterior),Female,21,48,hi,-2.0426037873166365,68,7,vision
+BulkSeq_hi_49,hahn,GSM6527501,Hippocampus (anterior),Female,3,49,hi,-4.613339409558671,68,7,vision
+BulkSeq_hi_5,hahn,GSM6527502,Hippocampus (anterior),Male,26,5,hi,-0.9704463212271643,68,7,vision
+BulkSeq_hi_50,hahn,GSM6527503,Hippocampus (anterior),Female,15,50,hi,-3.4086363639797317,68,7,vision
+BulkSeq_hi_51,hahn,GSM6527504,Hippocampus (anterior),Female,18,51,hi,-1.8926888335934189,68,7,vision
+BulkSeq_hi_52,hahn,GSM6527505,Hippocampus (anterior),Female,21,52,hi,-2.448978832014345,68,7,vision
+BulkSeq_hi_53,hahn,GSM6527507,Hippocampus (anterior),Female,3,53,hi,-4.699836156343665,68,7,vision
+BulkSeq_hi_54,hahn,GSM6527508,Hippocampus (anterior),Female,15,54,hi,-3.497955658007087,68,7,vision
+BulkSeq_hi_55,hahn,GSM6527509,Hippocampus (anterior),Female,18,55,hi,-3.1775680564644517,68,7,vision
+BulkSeq_hi_56,hahn,GSM6527510,Hippocampus (anterior),Female,21,56,hi,-2.896074591634572,68,7,vision
+BulkSeq_hi_57,hahn,GSM6527511,Hippocampus (anterior),Male,28,57,hi,-2.0247473959895195,68,7,vision
+BulkSeq_hi_58,hahn,GSM6527513,Hippocampus (anterior),Male,28,58,hi,-1.874423644626911,68,7,vision
+BulkSeq_hi_59,hahn,GSM6527514,Hippocampus (anterior),Male,28,59,hi,-1.849600289837387,68,7,vision
+BulkSeq_hi_6,hahn,GSM6527515,Hippocampus (anterior),Male,12,6,hi,-3.6079530566021525,68,7,vision
+BulkSeq_hi_7,hahn,GSM6527516,Hippocampus (anterior),Female,12,7,hi,-4.332337217786941,68,7,vision
+BulkSeq_hi_8,hahn,GSM6527517,Hippocampus (anterior),Male,26,8,hi,-2.9605428540912047,68,7,vision
+BulkSeq_hi_9,hahn,GSM6527519,Hippocampus (anterior),Male,12,9,hi,-4.461387285157101,68,7,vision
+BulkSeq_hi2_1,hahn,GSM6527384,Hippocampus (posterior),Female,12,1,hi2,-4.897765983071561,67,7,vision
+BulkSeq_hi2_10,hahn,GSM6527385,Hippocampus (posterior),Female,12,10,hi2,-3.7825332556268125,67,7,vision
+BulkSeq_hi2_11,hahn,GSM6527386,Hippocampus (posterior),Male,26,11,hi2,-3.895511979298918,67,7,vision
+BulkSeq_hi2_12,hahn,GSM6527387,Hippocampus (posterior),Male,12,12,hi2,-4.26998020636324,67,7,vision
+BulkSeq_hi2_13,hahn,GSM6527388,Hippocampus (posterior),Female,12,13,hi2,-5.120749626835378,67,7,vision
+BulkSeq_hi2_14,hahn,GSM6527389,Hippocampus (posterior),Male,26,14,hi2,-2.838131467949315,67,7,vision
+BulkSeq_hi2_15,hahn,GSM6527391,Hippocampus (posterior),Male,12,15,hi2,-4.158335659640959,67,7,vision
+BulkSeq_hi2_16,hahn,GSM6527392,Hippocampus (posterior),Male,21,16,hi2,-3.1680472246491163,67,7,vision
+BulkSeq_hi2_17,hahn,GSM6527393,Hippocampus (posterior),Male,3,17,hi2,-5.7219461611399876,67,7,vision
+BulkSeq_hi2_18,hahn,GSM6527394,Hippocampus (posterior),Male,15,18,hi2,-4.219630039518555,67,7,vision
+BulkSeq_hi2_19,hahn,GSM6527395,Hippocampus (posterior),Male,18,19,hi2,-3.9380993927642542,67,7,vision
+BulkSeq_hi2_2,hahn,GSM6527396,Hippocampus (posterior),Male,26,2,hi2,-3.709262663709934,67,7,vision
+BulkSeq_hi2_20,hahn,GSM6527398,Hippocampus (posterior),Male,21,20,hi2,-2.8833567928227155,67,7,vision
+BulkSeq_hi2_21,hahn,GSM6527399,Hippocampus (posterior),Male,3,21,hi2,-5.421378493929983,67,7,vision
+BulkSeq_hi2_22,hahn,GSM6527400,Hippocampus (posterior),Male,15,22,hi2,-3.8931310820814913,67,7,vision
+BulkSeq_hi2_23,hahn,GSM6527401,Hippocampus (posterior),Male,18,23,hi2,-3.620638408630081,67,7,vision
+BulkSeq_hi2_24,hahn,GSM6527402,Hippocampus (posterior),Male,21,24,hi2,-3.3229598002480025,67,7,vision
+BulkSeq_hi2_25,hahn,GSM6527404,Hippocampus (posterior),Male,3,25,hi2,-5.61607338550945,67,7,vision
+BulkSeq_hi2_26,hahn,GSM6527405,Hippocampus (posterior),Male,15,26,hi2,-3.598135509490869,67,7,vision
+BulkSeq_hi2_27,hahn,GSM6527406,Hippocampus (posterior),Male,18,27,hi2,-4.0590992826394565,67,7,vision
+BulkSeq_hi2_28,hahn,GSM6527407,Hippocampus (posterior),Male,21,28,hi2,-3.7453605592157895,67,7,vision
+BulkSeq_hi2_29,hahn,GSM6527408,Hippocampus (posterior),Male,3,29,hi2,-5.691382309710439,67,7,vision
+BulkSeq_hi2_3,hahn,GSM6527410,Hippocampus (posterior),Male,12,3,hi2,-4.421797492477211,67,7,vision
+BulkSeq_hi2_30,hahn,GSM6527411,Hippocampus (posterior),Male,15,30,hi2,-4.105802627726672,67,7,vision
+BulkSeq_hi2_31,hahn,GSM6527412,Hippocampus (posterior),Male,18,31,hi2,-3.7582386809246926,67,7,vision
+BulkSeq_hi2_32,hahn,GSM6527413,Hippocampus (posterior),Male,21,32,hi2,-3.75214957936283,67,7,vision
+BulkSeq_hi2_33,hahn,GSM6527414,Hippocampus (posterior),Male,3,33,hi2,-5.598479943649811,67,7,vision
+BulkSeq_hi2_34,hahn,GSM6527416,Hippocampus (posterior),Male,15,34,hi2,-4.854724305127913,67,7,vision
+BulkSeq_hi2_35,hahn,GSM6527417,Hippocampus (posterior),Male,18,35,hi2,-4.588947809147162,67,7,vision
+BulkSeq_hi2_36,hahn,GSM6527418,Hippocampus (posterior),Male,21,36,hi2,-3.0522120653249445,67,7,vision
+BulkSeq_hi2_37,hahn,GSM6527419,Hippocampus (posterior),Female,3,37,hi2,-4.9983161646655025,67,7,vision
+BulkSeq_hi2_38,hahn,GSM6527420,Hippocampus (posterior),Female,15,38,hi2,-4.2266634690571285,67,7,vision
+BulkSeq_hi2_39,hahn,GSM6527421,Hippocampus (posterior),Female,18,39,hi2,-3.167536780472523,67,7,vision
+BulkSeq_hi2_4,hahn,GSM6527423,Hippocampus (posterior),Female,12,4,hi2,-4.587059532649324,67,7,vision
+BulkSeq_hi2_40,hahn,GSM6527424,Hippocampus (posterior),Female,21,40,hi2,-2.8655313988214703,67,7,vision
+BulkSeq_hi2_41,hahn,GSM6527425,Hippocampus (posterior),Female,3,41,hi2,-5.660378418033895,67,7,vision
+BulkSeq_hi2_42,hahn,GSM6527426,Hippocampus (posterior),Female,15,42,hi2,-3.9714840367632442,67,7,vision
+BulkSeq_hi2_43,hahn,GSM6527427,Hippocampus (posterior),Female,18,43,hi2,-3.671962585876345,67,7,vision
+BulkSeq_hi2_44,hahn,GSM6527428,Hippocampus (posterior),Female,21,44,hi2,-3.441649349630973,67,7,vision
+BulkSeq_hi2_45,hahn,GSM6527430,Hippocampus (posterior),Female,3,45,hi2,-5.29047081527153,67,7,vision
+BulkSeq_hi2_46,hahn,GSM6527431,Hippocampus (posterior),Female,15,46,hi2,-3.7256419164927688,67,7,vision
+BulkSeq_hi2_47,hahn,GSM6527432,Hippocampus (posterior),Female,18,47,hi2,-3.302358580322246,67,7,vision
+BulkSeq_hi2_49,hahn,GSM6527433,Hippocampus (posterior),Female,3,49,hi2,-5.4726802214606645,67,7,vision
+BulkSeq_hi2_5,hahn,GSM6527434,Hippocampus (posterior),Male,26,5,hi2,-2.6913569892857807,67,7,vision
+BulkSeq_hi2_50,hahn,GSM6527436,Hippocampus (posterior),Female,15,50,hi2,-4.031288666493191,67,7,vision
+BulkSeq_hi2_51,hahn,GSM6527437,Hippocampus (posterior),Female,18,51,hi2,-2.117756045626778,67,7,vision
+BulkSeq_hi2_52,hahn,GSM6527438,Hippocampus (posterior),Female,21,52,hi2,-2.5899728205872106,67,7,vision
+BulkSeq_hi2_53,hahn,GSM6527439,Hippocampus (posterior),Female,3,53,hi2,-5.5013426733105915,67,7,vision
+BulkSeq_hi2_54,hahn,GSM6527440,Hippocampus (posterior),Female,15,54,hi2,-3.96559914402474,67,7,vision
+BulkSeq_hi2_55,hahn,GSM6527442,Hippocampus (posterior),Female,18,55,hi2,-3.4981433341791806,67,7,vision
+BulkSeq_hi2_56,hahn,GSM6527443,Hippocampus (posterior),Female,21,56,hi2,-3.2216431483498207,67,7,vision
+BulkSeq_hi2_57,hahn,GSM6527444,Hippocampus (posterior),Male,28,57,hi2,-2.9179932154644175,67,7,vision
+BulkSeq_hi2_58,hahn,GSM6527445,Hippocampus (posterior),Male,28,58,hi2,-2.5006369635595966,67,7,vision
+BulkSeq_hi2_59,hahn,GSM6527446,Hippocampus (posterior),Male,28,59,hi2,-1.4917821838353742,67,7,vision
+BulkSeq_hi2_6,hahn,GSM6527448,Hippocampus (posterior),Male,12,6,hi2,-4.526507625811459,67,7,vision
+BulkSeq_hi2_7,hahn,GSM6527449,Hippocampus (posterior),Female,12,7,hi2,-4.732786359295197,67,7,vision
+BulkSeq_hi2_8,hahn,GSM6527450,Hippocampus (posterior),Male,26,8,hi2,-3.237698134884934,67,7,vision
+BulkSeq_hi2_9,hahn,GSM6527451,Hippocampus (posterior),Male,12,9,hi2,-5.002565823598817,67,7,vision
+BulkSeq_hy_1,hahn,GSM6527520,Hypothalamus,Female,12,1,hy,-4.956785455382244,69,7,vision
+BulkSeq_hy_10,hahn,GSM6527521,Hypothalamus,Female,12,10,hy,-4.516722067189204,69,7,vision
+BulkSeq_hy_11,hahn,GSM6527522,Hypothalamus,Male,26,11,hy,-2.6137953547038344,69,7,vision
+BulkSeq_hy_12,hahn,GSM6527523,Hypothalamus,Male,12,12,hy,-4.344459793385588,69,7,vision
+BulkSeq_hy_14,hahn,GSM6527524,Hypothalamus,Male,26,14,hy,-3.146979681493788,69,7,vision
+BulkSeq_hy_15,hahn,GSM6527525,Hypothalamus,Male,12,15,hy,-5.81225860903592,69,7,vision
+BulkSeq_hy_16,hahn,GSM6527527,Hypothalamus,Male,21,16,hy,-3.7396900873047993,69,7,vision
+BulkSeq_hy_17,hahn,GSM6527528,Hypothalamus,Male,3,17,hy,-5.916099536954631,69,7,vision
+BulkSeq_hy_18,hahn,GSM6527529,Hypothalamus,Male,15,18,hy,-4.883228304894589,69,7,vision
+BulkSeq_hy_19,hahn,GSM6527530,Hypothalamus,Male,18,19,hy,-3.7532910178305854,69,7,vision
+BulkSeq_hy_2,hahn,GSM6527531,Hypothalamus,Male,26,2,hy,-3.2279849563778953,69,7,vision
+BulkSeq_hy_20,hahn,GSM6527532,Hypothalamus,Male,21,20,hy,-3.168967550002882,69,7,vision
+BulkSeq_hy_21,hahn,GSM6527534,Hypothalamus,Male,3,21,hy,-5.7637379868722896,69,7,vision
+BulkSeq_hy_22,hahn,GSM6527535,Hypothalamus,Male,15,22,hy,-5.324067842558954,69,7,vision
+BulkSeq_hy_23,hahn,GSM6527536,Hypothalamus,Male,18,23,hy,-3.6920431145158172,69,7,vision
+BulkSeq_hy_24,hahn,GSM6527537,Hypothalamus,Male,21,24,hy,-3.7349107950803173,69,7,vision
+BulkSeq_hy_25,hahn,GSM6527538,Hypothalamus,Male,3,25,hy,-5.4027924786269725,69,7,vision
+BulkSeq_hy_26,hahn,GSM6527539,Hypothalamus,Male,15,26,hy,-4.630721426590245,69,7,vision
+BulkSeq_hy_27,hahn,GSM6527541,Hypothalamus,Male,18,27,hy,-3.969799395168547,69,7,vision
+BulkSeq_hy_28,hahn,GSM6527542,Hypothalamus,Male,21,28,hy,-3.8596665093956957,69,7,vision
+BulkSeq_hy_3,hahn,GSM6527543,Hypothalamus,Male,12,3,hy,-4.866696046528088,69,7,vision
+BulkSeq_hy_30,hahn,GSM6527544,Hypothalamus,Male,15,30,hy,-3.544590723058186,69,7,vision
+BulkSeq_hy_31,hahn,GSM6527545,Hypothalamus,Male,18,31,hy,-2.9069641461054023,69,7,vision
+BulkSeq_hy_32,hahn,GSM6527547,Hypothalamus,Male,21,32,hy,-3.359483835600887,69,7,vision
+BulkSeq_hy_33,hahn,GSM6527548,Hypothalamus,Male,3,33,hy,-6.1251954842804235,69,7,vision
+BulkSeq_hy_34,hahn,GSM6527549,Hypothalamus,Male,15,34,hy,-4.488024653196703,69,7,vision
+BulkSeq_hy_35,hahn,GSM6527550,Hypothalamus,Male,18,35,hy,-4.506622614529904,69,7,vision
+BulkSeq_hy_36,hahn,GSM6527551,Hypothalamus,Male,21,36,hy,-3.373474393046695,69,7,vision
+BulkSeq_hy_37,hahn,GSM6527553,Hypothalamus,Female,3,37,hy,-6.35905042972163,69,7,vision
+BulkSeq_hy_38,hahn,GSM6527554,Hypothalamus,Female,15,38,hy,-2.8639583557714405,69,7,vision
+BulkSeq_hy_39,hahn,GSM6527555,Hypothalamus,Female,18,39,hy,-3.789039702465519,69,7,vision
+BulkSeq_hy_4,hahn,GSM6527556,Hypothalamus,Female,12,4,hy,-3.755083438393003,69,7,vision
+BulkSeq_hy_40,hahn,GSM6527557,Hypothalamus,Female,21,40,hy,-1.9286903952217884,69,7,vision
+BulkSeq_hy_41,hahn,GSM6527558,Hypothalamus,Female,3,41,hy,-5.676041321467535,69,7,vision
+BulkSeq_hy_42,hahn,GSM6527560,Hypothalamus,Female,15,42,hy,-2.9201719151901497,69,7,vision
+BulkSeq_hy_43,hahn,GSM6527561,Hypothalamus,Female,18,43,hy,-3.7288401581364665,69,7,vision
+BulkSeq_hy_44,hahn,GSM6527562,Hypothalamus,Female,21,44,hy,-2.779702297226343,69,7,vision
+BulkSeq_hy_45,hahn,GSM6527563,Hypothalamus,Female,3,45,hy,-6.054132992988511,69,7,vision
+BulkSeq_hy_46,hahn,GSM6527564,Hypothalamus,Female,15,46,hy,-4.1610341382226,69,7,vision
+BulkSeq_hy_47,hahn,GSM6527565,Hypothalamus,Female,18,47,hy,-3.0666398708902483,69,7,vision
+BulkSeq_hy_48,hahn,GSM6527567,Hypothalamus,Female,21,48,hy,-2.9751423634957623,69,7,vision
+BulkSeq_hy_49,hahn,GSM6527568,Hypothalamus,Female,3,49,hy,-6.049261744249992,69,7,vision
+BulkSeq_hy_50,hahn,GSM6527569,Hypothalamus,Female,15,50,hy,-3.629103319512177,69,7,vision
+BulkSeq_hy_51,hahn,GSM6527570,Hypothalamus,Female,18,51,hy,-3.116967577067771,69,7,vision
+BulkSeq_hy_52,hahn,GSM6527571,Hypothalamus,Female,21,52,hy,-2.521464341299539,69,7,vision
+BulkSeq_hy_53,hahn,GSM6527572,Hypothalamus,Female,3,53,hy,-6.238642085504932,69,7,vision
+BulkSeq_hy_54,hahn,GSM6527574,Hypothalamus,Female,15,54,hy,-3.546147048176042,69,7,vision
+BulkSeq_hy_55,hahn,GSM6527575,Hypothalamus,Female,18,55,hy,-3.226242455502857,69,7,vision
+BulkSeq_hy_56,hahn,GSM6527576,Hypothalamus,Female,21,56,hy,-2.347189367237854,69,7,vision
+BulkSeq_hy_57,hahn,GSM6527577,Hypothalamus,Male,28,57,hy,-2.906930410213766,69,7,vision
+BulkSeq_hy_58,hahn,GSM6527578,Hypothalamus,Male,28,58,hy,-2.318913251824756,69,7,vision
+BulkSeq_hy_6,hahn,GSM6527580,Hypothalamus,Male,12,6,hy,-4.569965815078216,69,7,vision
+BulkSeq_hy_7,hahn,GSM6527581,Hypothalamus,Female,12,7,hy,-4.807670706000501,69,7,vision
+BulkSeq_hy_8,hahn,GSM6527582,Hypothalamus,Male,26,8,hy,-3.2845165068337225,69,7,vision
+BulkSeq_hy_9,hahn,GSM6527583,Hypothalamus,Male,12,9,hy,-5.556095522990369,69,7,vision
+BulkSeq_med_1,hahn,GSM6527584,Medulla,Female,12,1,med,-4.178249104477387,75,7,vision
+BulkSeq_med_10,hahn,GSM6527586,Medulla,Female,12,10,med,-4.8666884913285875,75,7,vision
+BulkSeq_med_11,hahn,GSM6527587,Medulla,Male,26,11,med,-1.480431009529616,75,7,vision
+BulkSeq_med_12,hahn,GSM6527588,Medulla,Male,12,12,med,-3.90728853321522,75,7,vision
+BulkSeq_med_13,hahn,GSM6527589,Medulla,Female,12,13,med,-3.748156738359035,75,7,vision
+BulkSeq_med_14,hahn,GSM6527590,Medulla,Male,26,14,med,-1.5296006326282654,75,7,vision
+BulkSeq_med_15,hahn,GSM6527592,Medulla,Male,12,15,med,-3.998862733272788,75,7,vision
+BulkSeq_med_16,hahn,GSM6527593,Medulla,Male,21,16,med,-1.8461100605496752,75,7,vision
+BulkSeq_med_17,hahn,GSM6527594,Medulla,Male,3,17,med,-6.3752849548685555,75,7,vision
+BulkSeq_med_18,hahn,GSM6527595,Medulla,Male,15,18,med,-3.0006675720114515,75,7,vision
+BulkSeq_med_19,hahn,GSM6527596,Medulla,Male,18,19,med,-2.00073713580983,75,7,vision
+BulkSeq_med_2,hahn,GSM6527597,Medulla,Male,26,2,med,-1.0683048232026464,75,7,vision
+BulkSeq_med_20,hahn,GSM6527599,Medulla,Male,21,20,med,-2.3443006249952925,75,7,vision
+BulkSeq_med_21,hahn,GSM6527600,Medulla,Male,3,21,med,-5.732720575808287,75,7,vision
+BulkSeq_med_22,hahn,GSM6527601,Medulla,Male,15,22,med,-2.992714033670244,75,7,vision
+BulkSeq_med_23,hahn,GSM6527602,Medulla,Male,18,23,med,-2.613554185732251,75,7,vision
+BulkSeq_med_24,hahn,GSM6527603,Medulla,Male,21,24,med,-1.9989777652943,75,7,vision
+BulkSeq_med_25,hahn,GSM6527604,Medulla,Male,3,25,med,-6.273917868849315,75,7,vision
+BulkSeq_med_26,hahn,GSM6527606,Medulla,Male,15,26,med,-4.518368165569746,75,7,vision
+BulkSeq_med_27,hahn,GSM6527607,Medulla,Male,18,27,med,-2.7554778119307,75,7,vision
+BulkSeq_med_28,hahn,GSM6527608,Medulla,Male,21,28,med,-2.1282568661663213,75,7,vision
+BulkSeq_med_29,hahn,GSM6527609,Medulla,Male,3,29,med,-4.679700603537251,75,7,vision
+BulkSeq_med_3,hahn,GSM6527610,Medulla,Male,12,3,med,-4.624999221490301,75,7,vision
+BulkSeq_med_30,hahn,GSM6527611,Medulla,Male,15,30,med,-3.812875404374343,75,7,vision
+BulkSeq_med_31,hahn,GSM6527613,Medulla,Male,18,31,med,-3.6564011152361573,75,7,vision
+BulkSeq_med_32,hahn,GSM6527614,Medulla,Male,21,32,med,-1.945682601674624,75,7,vision
+BulkSeq_med_33,hahn,GSM6527615,Medulla,Male,3,33,med,-6.532045380087084,75,7,vision
+BulkSeq_med_34,hahn,GSM6527616,Medulla,Male,15,34,med,-3.81180909658841,75,7,vision
+BulkSeq_med_35,hahn,GSM6527617,Medulla,Male,18,35,med,-2.6446059331312246,75,7,vision
+BulkSeq_med_36,hahn,GSM6527619,Medulla,Male,21,36,med,-0.9232181187198627,75,7,vision
+BulkSeq_med_37,hahn,GSM6527620,Medulla,Female,3,37,med,-6.309892392680472,75,7,vision
+BulkSeq_med_38,hahn,GSM6527621,Medulla,Female,15,38,med,-2.962236538159662,75,7,vision
+BulkSeq_med_39,hahn,GSM6527622,Medulla,Female,18,39,med,-1.2926364716421002,75,7,vision
+BulkSeq_med_40,hahn,GSM6527623,Medulla,Female,21,40,med,-0.7323115575697745,75,7,vision
+BulkSeq_med_41,hahn,GSM6527625,Medulla,Female,3,41,med,-5.529086933491164,75,7,vision
+BulkSeq_med_42,hahn,GSM6527626,Medulla,Female,15,42,med,-3.445188678931243,75,7,vision
+BulkSeq_med_43,hahn,GSM6527627,Medulla,Female,18,43,med,-1.4481474984720994,75,7,vision
+BulkSeq_med_44,hahn,GSM6527628,Medulla,Female,21,44,med,0.1142605527259783,75,7,vision
+BulkSeq_med_45,hahn,GSM6527629,Medulla,Female,3,45,med,-5.223548255018116,75,7,vision
+BulkSeq_med_46,hahn,GSM6527631,Medulla,Female,15,46,med,-2.4785449327979543,75,7,vision
+BulkSeq_med_47,hahn,GSM6527632,Medulla,Female,18,47,med,-1.06046427266718,75,7,vision
+BulkSeq_med_48,hahn,GSM6527633,Medulla,Female,21,48,med,-0.7506311776224482,75,7,vision
+BulkSeq_med_49,hahn,GSM6527634,Medulla,Female,3,49,med,-5.785413983372386,75,7,vision
+BulkSeq_med_5,hahn,GSM6527635,Medulla,Male,26,5,med,-1.147551280819968,75,7,vision
+BulkSeq_med_50,hahn,GSM6527636,Medulla,Female,15,50,med,-2.698682729273303,75,7,vision
+BulkSeq_med_51,hahn,GSM6527638,Medulla,Female,18,51,med,-2.619680346107929,75,7,vision
+BulkSeq_med_52,hahn,GSM6527639,Medulla,Female,21,52,med,-0.7565735438218167,75,7,vision
+BulkSeq_med_53,hahn,GSM6527640,Medulla,Female,3,53,med,-5.2405201526561385,75,7,vision
+BulkSeq_med_54,hahn,GSM6527641,Medulla,Female,15,54,med,-3.6822288901958085,75,7,vision
+BulkSeq_med_55,hahn,GSM6527642,Medulla,Female,18,55,med,-2.3437299249961336,75,7,vision
+BulkSeq_med_56,hahn,GSM6527643,Medulla,Female,21,56,med,-0.9531019501296191,75,7,vision
+BulkSeq_med_57,hahn,GSM6527645,Medulla,Male,28,57,med,-1.0318575187477832,75,7,vision
+BulkSeq_med_58,hahn,GSM6527646,Medulla,Male,28,58,med,-0.9256393639864234,75,7,vision
+BulkSeq_med_59,hahn,GSM6527647,Medulla,Male,28,59,med,-1.8298716069510916,75,7,vision
+BulkSeq_med_6,hahn,GSM6527648,Medulla,Male,12,6,med,-5.1328532024517886,75,7,vision
+BulkSeq_med_7,hahn,GSM6527649,Medulla,Female,12,7,med,-4.353417230696216,75,7,vision
+BulkSeq_med_8,hahn,GSM6527650,Medulla,Male,26,8,med,-1.4219422538344761,75,7,vision
+BulkSeq_med_9,hahn,GSM6527652,Medulla,Male,12,9,med,-4.7685415055202816,75,7,vision
+BulkSeq_olf_1,hahn,GSM6527653,Olfactory bulb,Female,12,1,olf,-3.748387260368275,68,7,vision
+BulkSeq_olf_10,hahn,GSM6527654,Olfactory bulb,Female,12,10,olf,-3.674634777701485,68,7,vision
+BulkSeq_olf_11,hahn,GSM6527655,Olfactory bulb,Male,26,11,olf,-2.036907256221315,68,7,vision
+BulkSeq_olf_12,hahn,GSM6527656,Olfactory bulb,Male,12,12,olf,-3.7480390920283315,68,7,vision
+BulkSeq_olf_13,hahn,GSM6527658,Olfactory bulb,Female,12,13,olf,-4.004434272466383,68,7,vision
+BulkSeq_olf_14,hahn,GSM6527659,Olfactory bulb,Male,26,14,olf,-2.596924042327099,68,7,vision
+BulkSeq_olf_15,hahn,GSM6527660,Olfactory bulb,Male,12,15,olf,-4.232512985820114,68,7,vision
+BulkSeq_olf_16,hahn,GSM6527661,Olfactory bulb,Male,21,16,olf,-2.745451698362867,68,7,vision
+BulkSeq_olf_17,hahn,GSM6527662,Olfactory bulb,Male,3,17,olf,-4.813177764470636,68,7,vision
+BulkSeq_olf_18,hahn,GSM6527664,Olfactory bulb,Male,15,18,olf,-3.4197881623090582,68,7,vision
+BulkSeq_olf_19,hahn,GSM6527665,Olfactory bulb,Male,18,19,olf,-2.6901415246927542,68,7,vision
+BulkSeq_olf_2,hahn,GSM6527666,Olfactory bulb,Male,26,2,olf,-2.931201856624505,68,7,vision
+BulkSeq_olf_20,hahn,GSM6527667,Olfactory bulb,Male,21,20,olf,-2.3787306075182095,68,7,vision
+BulkSeq_olf_21,hahn,GSM6527668,Olfactory bulb,Male,3,21,olf,-3.4781332149703172,68,7,vision
+BulkSeq_olf_22,hahn,GSM6527670,Olfactory bulb,Male,15,22,olf,-3.8010312702493807,68,7,vision
+BulkSeq_olf_23,hahn,GSM6527671,Olfactory bulb,Male,18,23,olf,-2.749698970027393,68,7,vision
+BulkSeq_olf_24,hahn,GSM6527672,Olfactory bulb,Male,21,24,olf,-2.825952580354722,68,7,vision
+BulkSeq_olf_25,hahn,GSM6527673,Olfactory bulb,Male,3,25,olf,-4.763805186372485,68,7,vision
+BulkSeq_olf_26,hahn,GSM6527674,Olfactory bulb,Male,15,26,olf,-3.5973365696081525,68,7,vision
+BulkSeq_olf_27,hahn,GSM6527675,Olfactory bulb,Male,18,27,olf,-3.1128264835788433,68,7,vision
+BulkSeq_olf_28,hahn,GSM6527677,Olfactory bulb,Male,21,28,olf,-2.1975627709401735,68,7,vision
+BulkSeq_olf_29,hahn,GSM6527678,Olfactory bulb,Male,3,29,olf,-3.8584246679404752,68,7,vision
+BulkSeq_olf_3,hahn,GSM6527679,Olfactory bulb,Male,12,3,olf,-3.571074778542634,68,7,vision
+BulkSeq_olf_30,hahn,GSM6527680,Olfactory bulb,Male,15,30,olf,-3.1016668233776015,68,7,vision
+BulkSeq_olf_31,hahn,GSM6527681,Olfactory bulb,Male,18,31,olf,-3.18198248003904,68,7,vision
+BulkSeq_olf_33,hahn,GSM6527682,Olfactory bulb,Male,3,33,olf,-1.5971184816116606,68,7,vision
+BulkSeq_olf_34,hahn,GSM6527683,Olfactory bulb,Male,15,34,olf,-3.6746727510806405,68,7,vision
+BulkSeq_olf_35,hahn,GSM6527685,Olfactory bulb,Male,18,35,olf,-2.994476589450679,68,7,vision
+BulkSeq_olf_36,hahn,GSM6527686,Olfactory bulb,Male,21,36,olf,-2.396213078911034,68,7,vision
+BulkSeq_olf_37,hahn,GSM6527687,Olfactory bulb,Female,3,37,olf,-4.787909364677014,68,7,vision
+BulkSeq_olf_38,hahn,GSM6527688,Olfactory bulb,Female,15,38,olf,-3.7817757562849112,68,7,vision
+BulkSeq_olf_39,hahn,GSM6527689,Olfactory bulb,Female,18,39,olf,-3.0134666826235885,68,7,vision
+BulkSeq_olf_4,hahn,GSM6527690,Olfactory bulb,Female,12,4,olf,-3.582113801364116,68,7,vision
+BulkSeq_olf_40,hahn,GSM6527692,Olfactory bulb,Female,21,40,olf,-2.283352546932213,68,7,vision
+BulkSeq_olf_41,hahn,GSM6527693,Olfactory bulb,Female,3,41,olf,-4.178595198613828,68,7,vision
+BulkSeq_olf_42,hahn,GSM6527694,Olfactory bulb,Female,15,42,olf,-3.0634061682902853,68,7,vision
+BulkSeq_olf_43,hahn,GSM6527695,Olfactory bulb,Female,18,43,olf,-3.465429429987486,68,7,vision
+BulkSeq_olf_44,hahn,GSM6527696,Olfactory bulb,Female,21,44,olf,-3.6663423647592066,68,7,vision
+BulkSeq_olf_45,hahn,GSM6527698,Olfactory bulb,Female,3,45,olf,-4.187160549572506,68,7,vision
+BulkSeq_olf_46,hahn,GSM6527699,Olfactory bulb,Female,15,46,olf,-2.575921449083925,68,7,vision
+BulkSeq_olf_47,hahn,GSM6527700,Olfactory bulb,Female,18,47,olf,-3.0142365424203192,68,7,vision
+BulkSeq_olf_48,hahn,GSM6527701,Olfactory bulb,Female,21,48,olf,-2.6731001152470197,68,7,vision
+BulkSeq_olf_49,hahn,GSM6527702,Olfactory bulb,Female,3,49,olf,-4.3942760397475755,68,7,vision
+BulkSeq_olf_5,hahn,GSM6527704,Olfactory bulb,Male,26,5,olf,-2.526827063395412,68,7,vision
+BulkSeq_olf_50,hahn,GSM6527705,Olfactory bulb,Female,15,50,olf,-3.499336752081421,68,7,vision
+BulkSeq_olf_51,hahn,GSM6527706,Olfactory bulb,Female,18,51,olf,-1.4339833714611996,68,7,vision
+BulkSeq_olf_52,hahn,GSM6527707,Olfactory bulb,Female,21,52,olf,-2.330346530261987,68,7,vision
+BulkSeq_olf_53,hahn,GSM6527708,Olfactory bulb,Female,3,53,olf,-4.067616477959829,68,7,vision
+BulkSeq_olf_54,hahn,GSM6527710,Olfactory bulb,Female,15,54,olf,-3.237348946787899,68,7,vision
+BulkSeq_olf_55,hahn,GSM6527711,Olfactory bulb,Female,18,55,olf,-3.3476377426446,68,7,vision
+BulkSeq_olf_56,hahn,GSM6527712,Olfactory bulb,Female,21,56,olf,-3.006661934223979,68,7,vision
+BulkSeq_olf_57,hahn,GSM6527713,Olfactory bulb,Male,28,57,olf,-2.197780986486204,68,7,vision
+BulkSeq_olf_58,hahn,GSM6527714,Olfactory bulb,Male,28,58,olf,-2.076688601781674,68,7,vision
+BulkSeq_olf_59,hahn,GSM6527715,Olfactory bulb,Male,28,59,olf,-2.1556131095732787,68,7,vision
+BulkSeq_olf_6,hahn,GSM6527717,Olfactory bulb,Male,12,6,olf,-3.8087761933425224,68,7,vision
+BulkSeq_olf_7,hahn,GSM6527718,Olfactory bulb,Female,12,7,olf,-3.545805333649199,68,7,vision
+BulkSeq_olf_8,hahn,GSM6527719,Olfactory bulb,Male,26,8,olf,-2.8447273872170564,68,7,vision
+BulkSeq_olf_9,hahn,GSM6527720,Olfactory bulb,Male,12,9,olf,-4.033239738199393,68,7,vision
+BulkSeq_plx_10,hahn,GSM6527721,Choroid Plexus,Female,12,10,plx,-4.754071098660458,73,7,vision
+BulkSeq_plx_11,hahn,GSM6527722,Choroid Plexus,Male,26,11,plx,-3.2935052677114944,73,7,vision
+BulkSeq_plx_12,hahn,GSM6527724,Choroid Plexus,Male,12,12,plx,-5.132849457919011,73,7,vision
+BulkSeq_plx_13,hahn,GSM6527725,Choroid Plexus,Female,12,13,plx,-4.572368644527123,73,7,vision
+BulkSeq_plx_14,hahn,GSM6527726,Choroid Plexus,Male,26,14,plx,-0.5265124296685874,73,7,vision
+BulkSeq_plx_15,hahn,GSM6527727,Choroid Plexus,Male,12,15,plx,-5.497298188002024,73,7,vision
+BulkSeq_plx_16,hahn,GSM6527728,Choroid Plexus,Male,21,16,plx,-2.60567292194294,73,7,vision
+BulkSeq_plx_17,hahn,GSM6527729,Choroid Plexus,Male,3,17,plx,-6.275516550696888,73,7,vision
+BulkSeq_plx_18,hahn,GSM6527731,Choroid Plexus,Male,15,18,plx,-4.612257015996035,73,7,vision
+BulkSeq_plx_19,hahn,GSM6527732,Choroid Plexus,Male,18,19,plx,-3.3696961188722003,73,7,vision
+BulkSeq_plx_2,hahn,GSM6527733,Choroid Plexus,Male,26,2,plx,-3.3362658220174426,73,7,vision
+BulkSeq_plx_20,hahn,GSM6527734,Choroid Plexus,Male,21,20,plx,-2.922773311091797,73,7,vision
+BulkSeq_plx_21,hahn,GSM6527735,Choroid Plexus,Male,3,21,plx,-5.752400698362498,73,7,vision
+BulkSeq_plx_22,hahn,GSM6527737,Choroid Plexus,Male,15,22,plx,-4.319268964161317,73,7,vision
+BulkSeq_plx_23,hahn,GSM6527738,Choroid Plexus,Male,18,23,plx,-2.291921003381178,73,7,vision
+BulkSeq_plx_24,hahn,GSM6527739,Choroid Plexus,Male,21,24,plx,-1.520428556438267,73,7,vision
+BulkSeq_plx_25,hahn,GSM6527740,Choroid Plexus,Male,3,25,plx,-5.047551495980393,73,7,vision
+BulkSeq_plx_26,hahn,GSM6527741,Choroid Plexus,Male,15,26,plx,-3.6452243951628884,73,7,vision
+BulkSeq_plx_27,hahn,GSM6527743,Choroid Plexus,Male,18,27,plx,-4.399903953769073,73,7,vision
+BulkSeq_plx_28,hahn,GSM6527744,Choroid Plexus,Male,21,28,plx,-2.8674098929261396,73,7,vision
+BulkSeq_plx_29,hahn,GSM6527745,Choroid Plexus,Male,3,29,plx,-5.563870253838066,73,7,vision
+BulkSeq_plx_3,hahn,GSM6527746,Choroid Plexus,Male,12,3,plx,-5.156432109172444,73,7,vision
+BulkSeq_plx_30,hahn,GSM6527747,Choroid Plexus,Male,15,30,plx,-4.66958029455191,73,7,vision
+BulkSeq_plx_31,hahn,GSM6527749,Choroid Plexus,Male,18,31,plx,-2.850145516344411,73,7,vision
+BulkSeq_plx_32,hahn,GSM6527750,Choroid Plexus,Male,21,32,plx,-1.5510060825310865,73,7,vision
+BulkSeq_plx_33,hahn,GSM6527751,Choroid Plexus,Male,3,33,plx,-6.553839520644315,73,7,vision
+BulkSeq_plx_34,hahn,GSM6527752,Choroid Plexus,Male,15,34,plx,-4.507818580196787,73,7,vision
+BulkSeq_plx_35,hahn,GSM6527753,Choroid Plexus,Male,18,35,plx,-4.371507994566263,73,7,vision
+BulkSeq_plx_36,hahn,GSM6527754,Choroid Plexus,Male,21,36,plx,-2.092662345498676,73,7,vision
+BulkSeq_plx_37,hahn,GSM6527756,Choroid Plexus,Female,3,37,plx,-4.693899673384768,73,7,vision
+BulkSeq_plx_38,hahn,GSM6527757,Choroid Plexus,Female,15,38,plx,-3.1875370521117716,73,7,vision
+BulkSeq_plx_39,hahn,GSM6527758,Choroid Plexus,Female,18,39,plx,-2.4145120778764224,73,7,vision
+BulkSeq_plx_4,hahn,GSM6527759,Choroid Plexus,Female,12,4,plx,-4.61244097133589,73,7,vision
+BulkSeq_plx_40,hahn,GSM6527760,Choroid Plexus,Female,21,40,plx,-2.0864200391168186,73,7,vision
+BulkSeq_plx_41,hahn,GSM6527761,Choroid Plexus,Female,3,41,plx,-6.017948876528184,73,7,vision
+BulkSeq_plx_42,hahn,GSM6527763,Choroid Plexus,Female,15,42,plx,-3.650627634219858,73,7,vision
+BulkSeq_plx_43,hahn,GSM6527764,Choroid Plexus,Female,18,43,plx,-3.6347422630646093,73,7,vision
+BulkSeq_plx_44,hahn,GSM6527765,Choroid Plexus,Female,21,44,plx,-1.6220527559795603,73,7,vision
+BulkSeq_plx_45,hahn,GSM6527766,Choroid Plexus,Female,3,45,plx,-5.9119463660766645,73,7,vision
+BulkSeq_plx_46,hahn,GSM6527767,Choroid Plexus,Female,15,46,plx,-2.5340633601060074,73,7,vision
+BulkSeq_plx_47,hahn,GSM6527768,Choroid Plexus,Female,18,47,plx,-0.7201560768941275,73,7,vision
+BulkSeq_plx_48,hahn,GSM6527770,Choroid Plexus,Female,21,48,plx,0.5269775211685734,73,7,vision
+BulkSeq_plx_49,hahn,GSM6527771,Choroid Plexus,Female,3,49,plx,-5.627240921238433,73,7,vision
+BulkSeq_plx_5,hahn,GSM6527772,Choroid Plexus,Male,26,5,plx,-2.535830908120352,73,7,vision
+BulkSeq_plx_50,hahn,GSM6527773,Choroid Plexus,Female,15,50,plx,-3.2689848221826527,73,7,vision
+BulkSeq_plx_51,hahn,GSM6527774,Choroid Plexus,Female,18,51,plx,-2.9389036798289716,73,7,vision
+BulkSeq_plx_52,hahn,GSM6527776,Choroid Plexus,Female,21,52,plx,-0.5057938119139138,73,7,vision
+BulkSeq_plx_53,hahn,GSM6527777,Choroid Plexus,Female,3,53,plx,-5.920094858664204,73,7,vision
+BulkSeq_plx_54,hahn,GSM6527778,Choroid Plexus,Female,15,54,plx,-4.197928097743991,73,7,vision
+BulkSeq_plx_55,hahn,GSM6527779,Choroid Plexus,Female,18,55,plx,-1.2733872384344074,73,7,vision
+BulkSeq_plx_56,hahn,GSM6527780,Choroid Plexus,Female,21,56,plx,-1.6081560332628775,73,7,vision
+BulkSeq_plx_57,hahn,GSM6527782,Choroid Plexus,Male,28,57,plx,-1.7164649542483212,73,7,vision
+BulkSeq_plx_58,hahn,GSM6527783,Choroid Plexus,Male,28,58,plx,-0.8257300873898464,73,7,vision
+BulkSeq_plx_59,hahn,GSM6527784,Choroid Plexus,Male,28,59,plx,-1.1220017895055285,73,7,vision
+BulkSeq_plx_7,hahn,GSM6527785,Choroid Plexus,Female,12,7,plx,-4.804396048047365,73,7,vision
+BulkSeq_plx_8,hahn,GSM6527786,Choroid Plexus,Male,26,8,plx,0.06285304588405254,73,7,vision
+BulkSeq_plx_9,hahn,GSM6527788,Choroid Plexus,Male,12,9,plx,-4.9673501658237935,73,7,vision
+BulkSeq_pon_1,hahn,GSM6527789,Pons,Female,12,1,pon,-2.5451055506883375,75,7,vision
+BulkSeq_pon_10,hahn,GSM6527790,Pons,Female,12,10,pon,-3.6559324519563354,75,7,vision
+BulkSeq_pon_11,hahn,GSM6527791,Pons,Male,26,11,pon,-0.503156411578265,75,7,vision
+BulkSeq_pon_12,hahn,GSM6527792,Pons,Male,12,12,pon,-3.867694369922357,75,7,vision
+BulkSeq_pon_15,hahn,GSM6527793,Pons,Male,12,15,pon,-4.2111541743501615,75,7,vision
+BulkSeq_pon_16,hahn,GSM6527795,Pons,Male,21,16,pon,-1.7301193992935793,75,7,vision
+BulkSeq_pon_17,hahn,GSM6527796,Pons,Male,3,17,pon,-5.925734579018511,75,7,vision
+BulkSeq_pon_18,hahn,GSM6527797,Pons,Male,15,18,pon,-2.4307967933103045,75,7,vision
+BulkSeq_pon_19,hahn,GSM6527798,Pons,Male,18,19,pon,-1.0611733687121665,75,7,vision
+BulkSeq_pon_2,hahn,GSM6527799,Pons,Male,26,2,pon,-0.8903377775663095,75,7,vision
+BulkSeq_pon_20,hahn,GSM6527800,Pons,Male,21,20,pon,-1.9435034580044566,75,7,vision
+BulkSeq_pon_21,hahn,GSM6527802,Pons,Male,3,21,pon,-5.24742371031232,75,7,vision
+BulkSeq_pon_22,hahn,GSM6527803,Pons,Male,15,22,pon,-2.2363199006019863,75,7,vision
+BulkSeq_pon_23,hahn,GSM6527804,Pons,Male,18,23,pon,-1.8111658445515046,75,7,vision
+BulkSeq_pon_24,hahn,GSM6527805,Pons,Male,21,24,pon,-1.1951038246062398,75,7,vision
+BulkSeq_pon_25,hahn,GSM6527806,Pons,Male,3,25,pon,-4.258365300731615,75,7,vision
+BulkSeq_pon_26,hahn,GSM6527807,Pons,Male,15,26,pon,-2.862261026397929,75,7,vision
+BulkSeq_pon_28,hahn,GSM6527809,Pons,Male,21,28,pon,-1.0565311158342328,75,7,vision
+BulkSeq_pon_29,hahn,GSM6527810,Pons,Male,3,29,pon,-4.959132072837944,75,7,vision
+BulkSeq_pon_3,hahn,GSM6527811,Pons,Male,12,3,pon,-2.9107751543116924,75,7,vision
+BulkSeq_pon_30,hahn,GSM6527812,Pons,Male,15,30,pon,-2.7123323050718495,75,7,vision
+BulkSeq_pon_31,hahn,GSM6527813,Pons,Male,18,31,pon,-2.0527669090962934,75,7,vision
+BulkSeq_pon_32,hahn,GSM6527815,Pons,Male,21,32,pon,-0.5538230208979642,75,7,vision
+BulkSeq_pon_34,hahn,GSM6527816,Pons,Male,15,34,pon,-2.972205836079473,75,7,vision
+BulkSeq_pon_35,hahn,GSM6527817,Pons,Male,18,35,pon,-1.76817609700388,75,7,vision
+BulkSeq_pon_36,hahn,GSM6527818,Pons,Male,21,36,pon,-1.294699523230132,75,7,vision
+BulkSeq_pon_37,hahn,GSM6527819,Pons,Female,3,37,pon,-5.045132220204096,75,7,vision
+BulkSeq_pon_38,hahn,GSM6527821,Pons,Female,15,38,pon,-2.3924508081923115,75,7,vision
+BulkSeq_pon_39,hahn,GSM6527822,Pons,Female,18,39,pon,-1.6103244440155136,75,7,vision
+BulkSeq_pon_40,hahn,GSM6527823,Pons,Female,21,40,pon,-0.6359384808255258,75,7,vision
+BulkSeq_pon_41,hahn,GSM6527824,Pons,Female,3,41,pon,-5.33201629421016,75,7,vision
+BulkSeq_pon_42,hahn,GSM6527825,Pons,Female,15,42,pon,-2.580566073377294,75,7,vision
+BulkSeq_pon_43,hahn,GSM6527826,Pons,Female,18,43,pon,-0.44125799433139723,75,7,vision
+BulkSeq_pon_44,hahn,GSM6527827,Pons,Female,21,44,pon,-0.14605030234459296,75,7,vision
+BulkSeq_pon_45,hahn,GSM6527828,Pons,Female,3,45,pon,-5.047388906565489,75,7,vision
+BulkSeq_pon_47,hahn,GSM6527829,Pons,Female,18,47,pon,-0.7559394970343336,75,7,vision
+BulkSeq_pon_48,hahn,GSM6527830,Pons,Female,21,48,pon,-0.40847930813935596,75,7,vision
+BulkSeq_pon_49,hahn,GSM6527831,Pons,Female,3,49,pon,-4.859777118374678,75,7,vision
+BulkSeq_pon_5,hahn,GSM6527832,Pons,Male,26,5,pon,-0.19140655084720504,75,7,vision
+BulkSeq_pon_50,hahn,GSM6527833,Pons,Female,15,50,pon,-0.8410692589568358,75,7,vision
+BulkSeq_pon_51,hahn,GSM6527834,Pons,Female,18,51,pon,-1.177976890543427,75,7,vision
+BulkSeq_pon_52,hahn,GSM6527835,Pons,Female,21,52,pon,0.7122331915085754,75,7,vision
+BulkSeq_pon_53,hahn,GSM6527836,Pons,Female,3,53,pon,-4.062780654886795,75,7,vision
+BulkSeq_pon_54,hahn,GSM6527837,Pons,Female,15,54,pon,-1.7569963493479306,75,7,vision
+BulkSeq_pon_55,hahn,GSM6527838,Pons,Female,18,55,pon,-1.8578041076703813,75,7,vision
+BulkSeq_pon_56,hahn,GSM6527839,Pons,Female,21,56,pon,-0.22504335250238494,75,7,vision
+BulkSeq_pon_57,hahn,GSM6527840,Pons,Male,28,57,pon,0.8124775811755218,75,7,vision
+BulkSeq_pon_58,hahn,GSM6527841,Pons,Male,28,58,pon,0.5043147512015581,75,7,vision
+BulkSeq_pon_59,hahn,GSM6527842,Pons,Male,28,59,pon,0.05668002915050841,75,7,vision
+BulkSeq_pon_7,hahn,GSM6527843,Pons,Female,12,7,pon,-3.2432014649271594,75,7,vision
+BulkSeq_pon_8,hahn,GSM6527844,Pons,Male,26,8,pon,-0.8865429055950009,75,7,vision
+BulkSeq_svz_1,hahn,GSM6527845,Subventricular zone,Female,12,1,svz,-4.0489190984445775,70,7,vision
+BulkSeq_svz_10,hahn,GSM6527846,Subventricular zone,Female,12,10,svz,-3.574836624986736,70,7,vision
+BulkSeq_svz_11,hahn,GSM6527847,Subventricular zone,Male,26,11,svz,0.07086940436834685,70,7,vision
+BulkSeq_svz_12,hahn,GSM6527848,Subventricular zone,Male,12,12,svz,-4.062782309210076,70,7,vision
+BulkSeq_svz_13,hahn,GSM6527849,Subventricular zone,Female,12,13,svz,-4.610865882150744,70,7,vision
+BulkSeq_svz_14,hahn,GSM6527850,Subventricular zone,Male,26,14,svz,-2.701545999877812,70,7,vision
+BulkSeq_svz_15,hahn,GSM6527851,Subventricular zone,Male,12,15,svz,-3.9929012644884443,70,7,vision
+BulkSeq_svz_16,hahn,GSM6527852,Subventricular zone,Male,21,16,svz,-2.8156927829041294,70,7,vision
+BulkSeq_svz_17,hahn,GSM6527853,Subventricular zone,Male,3,17,svz,-5.914051286572351,70,7,vision
+BulkSeq_svz_18,hahn,GSM6527854,Subventricular zone,Male,15,18,svz,-4.166629101321402,70,7,vision
+BulkSeq_svz_20,hahn,GSM6527855,Subventricular zone,Male,21,20,svz,-3.562895665499806,70,7,vision
+BulkSeq_svz_21,hahn,GSM6527856,Subventricular zone,Male,3,21,svz,-5.73907224275268,70,7,vision
+BulkSeq_svz_22,hahn,GSM6527857,Subventricular zone,Male,15,22,svz,-4.229784930046184,70,7,vision
+BulkSeq_svz_23,hahn,GSM6527858,Subventricular zone,Male,18,23,svz,-4.0518360168480765,70,7,vision
+BulkSeq_svz_24,hahn,GSM6527859,Subventricular zone,Male,21,24,svz,-1.3440578850745304,70,7,vision
+BulkSeq_svz_25,hahn,GSM6527860,Subventricular zone,Male,3,25,svz,-5.72348778356992,70,7,vision
+BulkSeq_svz_26,hahn,GSM6527861,Subventricular zone,Male,15,26,svz,-3.7183777588075135,70,7,vision
+BulkSeq_svz_27,hahn,GSM6527862,Subventricular zone,Male,18,27,svz,-2.2053708741058284,70,7,vision
+BulkSeq_svz_28,hahn,GSM6527863,Subventricular zone,Male,21,28,svz,-2.2751845670766846,70,7,vision
+BulkSeq_svz_29,hahn,GSM6527864,Subventricular zone,Male,3,29,svz,-5.606318697907737,70,7,vision
+BulkSeq_svz_3,hahn,GSM6527865,Subventricular zone,Male,12,3,svz,-3.851606848159682,70,7,vision
+BulkSeq_svz_30,hahn,GSM6527866,Subventricular zone,Male,15,30,svz,-3.270267378685818,70,7,vision
+BulkSeq_svz_31,hahn,GSM6527867,Subventricular zone,Male,18,31,svz,-4.140837046120294,70,7,vision
+BulkSeq_svz_32,hahn,GSM6527868,Subventricular zone,Male,21,32,svz,-2.9734370349174037,70,7,vision
+BulkSeq_svz_33,hahn,GSM6527869,Subventricular zone,Male,3,33,svz,-5.751204806744147,70,7,vision
+BulkSeq_svz_34,hahn,GSM6527870,Subventricular zone,Male,15,34,svz,-4.601137351378436,70,7,vision
+BulkSeq_svz_35,hahn,GSM6527871,Subventricular zone,Male,18,35,svz,-2.6180170000653127,70,7,vision
+BulkSeq_svz_36,hahn,GSM6527872,Subventricular zone,Male,21,36,svz,-3.0430148682801725,70,7,vision
+BulkSeq_svz_37,hahn,GSM6527873,Subventricular zone,Female,3,37,svz,-4.244632904182347,70,7,vision
+BulkSeq_svz_38,hahn,GSM6527874,Subventricular zone,Female,15,38,svz,-4.345473266862129,70,7,vision
+BulkSeq_svz_39,hahn,GSM6527875,Subventricular zone,Female,18,39,svz,-2.856030832966806,70,7,vision
+BulkSeq_svz_40,hahn,GSM6527876,Subventricular zone,Female,21,40,svz,-2.463983942080251,70,7,vision
+BulkSeq_svz_41,hahn,GSM6527877,Subventricular zone,Female,3,41,svz,-5.207374585362486,70,7,vision
+BulkSeq_svz_42,hahn,GSM6527878,Subventricular zone,Female,15,42,svz,-3.709243757575449,70,7,vision
+BulkSeq_svz_43,hahn,GSM6527879,Subventricular zone,Female,18,43,svz,-1.7785190213694881,70,7,vision
+BulkSeq_svz_44,hahn,GSM6527880,Subventricular zone,Female,21,44,svz,-1.9085685541821602,70,7,vision
+BulkSeq_svz_45,hahn,GSM6527881,Subventricular zone,Female,3,45,svz,-5.219612483094991,70,7,vision
+BulkSeq_svz_46,hahn,GSM6527882,Subventricular zone,Female,15,46,svz,-3.8646347986462795,70,7,vision
+BulkSeq_svz_47,hahn,GSM6527883,Subventricular zone,Female,18,47,svz,-2.6428935206707367,70,7,vision
+BulkSeq_svz_49,hahn,GSM6527884,Subventricular zone,Female,3,49,svz,-4.898816112727583,70,7,vision
+BulkSeq_svz_5,hahn,GSM6527885,Subventricular zone,Male,26,5,svz,-1.5462110762234917,70,7,vision
+BulkSeq_svz_50,hahn,GSM6527886,Subventricular zone,Female,15,50,svz,-4.50477342698165,70,7,vision
+BulkSeq_svz_51,hahn,GSM6527887,Subventricular zone,Female,18,51,svz,-2.273255126493081,70,7,vision
+BulkSeq_svz_52,hahn,GSM6527888,Subventricular zone,Female,21,52,svz,-2.889734654629122,70,7,vision
+BulkSeq_svz_53,hahn,GSM6527889,Subventricular zone,Female,3,53,svz,-5.332108174690988,70,7,vision
+BulkSeq_svz_54,hahn,GSM6527890,Subventricular zone,Female,15,54,svz,-1.9133806196689735,70,7,vision
+BulkSeq_svz_55,hahn,GSM6527891,Subventricular zone,Female,18,55,svz,-3.414002201288743,70,7,vision
+BulkSeq_svz_56,hahn,GSM6527892,Subventricular zone,Female,21,56,svz,-3.303617859172536,70,7,vision
+BulkSeq_svz_57,hahn,GSM6527893,Subventricular zone,Male,28,57,svz,-1.953111482105505,70,7,vision
+BulkSeq_svz_58,hahn,GSM6527894,Subventricular zone,Male,28,58,svz,-0.6341576146276543,70,7,vision
+BulkSeq_svz_59,hahn,GSM6527895,Subventricular zone,Male,28,59,svz,-0.41136034283082207,70,7,vision
+BulkSeq_svz_6,hahn,GSM6527896,Subventricular zone,Male,12,6,svz,-4.38137835039139,70,7,vision
+BulkSeq_svz_7,hahn,GSM6527897,Subventricular zone,Female,12,7,svz,-3.33581630354711,70,7,vision
+BulkSeq_svz_8,hahn,GSM6527898,Subventricular zone,Male,26,8,svz,-1.259326686784162,70,7,vision
+BulkSeq_svz_9,hahn,GSM6527899,Subventricular zone,Male,12,9,svz,-3.7451575690396535,70,7,vision
+BulkSeq_th_1,hahn,GSM6527900,Thalamus,Female,12,1,th,-4.400229974159,67,7,vision
+BulkSeq_th_10,hahn,GSM6527901,Thalamus,Female,12,10,th,-3.977502312801466,67,7,vision
+BulkSeq_th_11,hahn,GSM6527902,Thalamus,Male,26,11,th,-2.6225708131767194,67,7,vision
+BulkSeq_th_12,hahn,GSM6527903,Thalamus,Male,12,12,th,-3.992896648366292,67,7,vision
+BulkSeq_th_13,hahn,GSM6527904,Thalamus,Female,12,13,th,-4.514922331029581,67,7,vision
+BulkSeq_th_14,hahn,GSM6527905,Thalamus,Male,26,14,th,-2.919956277953605,67,7,vision
+BulkSeq_th_15,hahn,GSM6527906,Thalamus,Male,12,15,th,-5.107282334241866,67,7,vision
+BulkSeq_th_16,hahn,GSM6527907,Thalamus,Male,21,16,th,-2.572621576439034,67,7,vision
+BulkSeq_th_17,hahn,GSM6527908,Thalamus,Male,3,17,th,-5.466156850456475,67,7,vision
+BulkSeq_th_18,hahn,GSM6527909,Thalamus,Male,15,18,th,-4.551270534021887,67,7,vision
+BulkSeq_th_19,hahn,GSM6527910,Thalamus,Male,18,19,th,-3.9305334980661506,67,7,vision
+BulkSeq_th_2,hahn,GSM6527911,Thalamus,Male,26,2,th,-2.5846682063875352,67,7,vision
+BulkSeq_th_20,hahn,GSM6527912,Thalamus,Male,21,20,th,-3.8657390481801683,67,7,vision
+BulkSeq_th_21,hahn,GSM6527913,Thalamus,Male,3,21,th,-5.477140136554069,67,7,vision
+BulkSeq_th_22,hahn,GSM6527914,Thalamus,Male,15,22,th,-4.16753076642498,67,7,vision
+BulkSeq_th_23,hahn,GSM6527915,Thalamus,Male,18,23,th,-3.189726876014753,67,7,vision
+BulkSeq_th_24,hahn,GSM6527916,Thalamus,Male,21,24,th,-3.5866194364018176,67,7,vision
+BulkSeq_th_25,hahn,GSM6527917,Thalamus,Male,3,25,th,-6.251588778973492,67,7,vision
+BulkSeq_th_26,hahn,GSM6527918,Thalamus,Male,15,26,th,-4.653784617292621,67,7,vision
+BulkSeq_th_27,hahn,GSM6527919,Thalamus,Male,18,27,th,-3.618568893863981,67,7,vision
+BulkSeq_th_28,hahn,GSM6527920,Thalamus,Male,21,28,th,-3.385585382283116,67,7,vision
+BulkSeq_th_29,hahn,GSM6527921,Thalamus,Male,3,29,th,-5.796319604069621,67,7,vision
+BulkSeq_th_3,hahn,GSM6527922,Thalamus,Male,12,3,th,-4.384195260953899,67,7,vision
+BulkSeq_th_30,hahn,GSM6527923,Thalamus,Male,15,30,th,-3.557586275748304,67,7,vision
+BulkSeq_th_31,hahn,GSM6527924,Thalamus,Male,18,31,th,-4.673434230709416,67,7,vision
+BulkSeq_th_32,hahn,GSM6527925,Thalamus,Male,21,32,th,-2.589389467445005,67,7,vision
+BulkSeq_th_33,hahn,GSM6527926,Thalamus,Male,3,33,th,-6.075263692799179,67,7,vision
+BulkSeq_th_34,hahn,GSM6527927,Thalamus,Male,15,34,th,-4.532739315145191,67,7,vision
+BulkSeq_th_35,hahn,GSM6527928,Thalamus,Male,18,35,th,-3.5087191193758733,67,7,vision
+BulkSeq_th_36,hahn,GSM6527929,Thalamus,Male,21,36,th,-3.347330163722738,67,7,vision
+BulkSeq_th_37,hahn,GSM6527930,Thalamus,Female,3,37,th,-6.002248470288483,67,7,vision
+BulkSeq_th_38,hahn,GSM6527931,Thalamus,Female,15,38,th,-3.770073841248137,67,7,vision
+BulkSeq_th_39,hahn,GSM6527932,Thalamus,Female,18,39,th,-2.7835690852961,67,7,vision
+BulkSeq_th_4,hahn,GSM6527933,Thalamus,Female,12,4,th,-3.619589014537921,67,7,vision
+BulkSeq_th_40,hahn,GSM6527934,Thalamus,Female,21,40,th,-2.5680339450870324,67,7,vision
+BulkSeq_th_41,hahn,GSM6527935,Thalamus,Female,3,41,th,-6.115567535202032,67,7,vision
+BulkSeq_th_42,hahn,GSM6527936,Thalamus,Female,15,42,th,-4.231927519904611,67,7,vision
+BulkSeq_th_43,hahn,GSM6527937,Thalamus,Female,18,43,th,-3.3591065421231474,67,7,vision
+BulkSeq_th_44,hahn,GSM6527938,Thalamus,Female,21,44,th,-2.959204219151366,67,7,vision
+BulkSeq_th_45,hahn,GSM6527939,Thalamus,Female,3,45,th,-6.149316658517685,67,7,vision
+BulkSeq_th_46,hahn,GSM6527940,Thalamus,Female,15,46,th,-3.9731482276386205,67,7,vision
+BulkSeq_th_47,hahn,GSM6527941,Thalamus,Female,18,47,th,-2.967732431896364,67,7,vision
+BulkSeq_th_48,hahn,GSM6527942,Thalamus,Female,21,48,th,-1.7909520107423367,67,7,vision
+BulkSeq_th_49,hahn,GSM6527943,Thalamus,Female,3,49,th,-5.786762683644434,67,7,vision
+BulkSeq_th_5,hahn,GSM6527944,Thalamus,Male,26,5,th,-2.399641738526918,67,7,vision
+BulkSeq_th_50,hahn,GSM6527945,Thalamus,Female,15,50,th,-4.324779818369154,67,7,vision
+BulkSeq_th_51,hahn,GSM6527946,Thalamus,Female,18,51,th,-3.0397341656603434,67,7,vision
+BulkSeq_th_52,hahn,GSM6527947,Thalamus,Female,21,52,th,-2.494419228589678,67,7,vision
+BulkSeq_th_53,hahn,GSM6527948,Thalamus,Female,3,53,th,-6.278790584075753,67,7,vision
+BulkSeq_th_54,hahn,GSM6527949,Thalamus,Female,15,54,th,-3.782276517838768,67,7,vision
+BulkSeq_th_55,hahn,GSM6527950,Thalamus,Female,18,55,th,-3.731418753650498,67,7,vision
+BulkSeq_th_56,hahn,GSM6527951,Thalamus,Female,21,56,th,-2.4832839749210276,67,7,vision
+BulkSeq_th_57,hahn,GSM6527952,Thalamus,Male,28,57,th,-3.4228719767040547,67,7,vision
+BulkSeq_th_58,hahn,GSM6527953,Thalamus,Male,28,58,th,-3.15196201982005,67,7,vision
+BulkSeq_th_59,hahn,GSM6527954,Thalamus,Male,28,59,th,-2.331598010537573,67,7,vision
+BulkSeq_th_6,hahn,GSM6527955,Thalamus,Male,12,6,th,-4.619937859817561,67,7,vision
+BulkSeq_th_7,hahn,GSM6527956,Thalamus,Female,12,7,th,-4.291956997537553,67,7,vision
+BulkSeq_th_8,hahn,GSM6527957,Thalamus,Male,26,8,th,-3.296427987144506,67,7,vision
+BulkSeq_th_9,hahn,GSM6527958,Thalamus,Male,12,9,th,-4.952175298723314,67,7,vision
+BulkSeq_vis_1,hahn,GSM6527959,Visual Cortex,Female,12,1,vis,-4.97585788585814,66,7,vision
+BulkSeq_vis_10,hahn,GSM6527960,Visual Cortex,Female,12,10,vis,-4.76995400195826,66,7,vision
+BulkSeq_vis_11,hahn,GSM6527961,Visual Cortex,Male,26,11,vis,-3.3051030132209336,66,7,vision
+BulkSeq_vis_13,hahn,GSM6527962,Visual Cortex,Female,12,13,vis,-5.043978518684447,66,7,vision
+BulkSeq_vis_14,hahn,GSM6527963,Visual Cortex,Male,26,14,vis,-3.704322701864598,66,7,vision
+BulkSeq_vis_15,hahn,GSM6527964,Visual Cortex,Male,12,15,vis,-4.9981720014051785,66,7,vision
+BulkSeq_vis_16,hahn,GSM6527965,Visual Cortex,Male,21,16,vis,-4.15913484634554,66,7,vision
+BulkSeq_vis_17,hahn,GSM6527966,Visual Cortex,Male,3,17,vis,-5.192745024076747,66,7,vision
+BulkSeq_vis_18,hahn,GSM6527967,Visual Cortex,Male,15,18,vis,-4.5971013420024756,66,7,vision
+BulkSeq_vis_19,hahn,GSM6527968,Visual Cortex,Male,18,19,vis,-5.119158287548428,66,7,vision
+BulkSeq_vis_2,hahn,GSM6527969,Visual Cortex,Male,26,2,vis,-4.489650771236159,66,7,vision
+BulkSeq_vis_20,hahn,GSM6527970,Visual Cortex,Male,21,20,vis,-4.43475626362112,66,7,vision
+BulkSeq_vis_21,hahn,GSM6527971,Visual Cortex,Male,3,21,vis,-5.1740197938608965,66,7,vision
+BulkSeq_vis_22,hahn,GSM6527972,Visual Cortex,Male,15,22,vis,-4.731590203968508,66,7,vision
+BulkSeq_vis_23,hahn,GSM6527973,Visual Cortex,Male,18,23,vis,-4.362442998020615,66,7,vision
+BulkSeq_vis_24,hahn,GSM6527974,Visual Cortex,Male,21,24,vis,-4.204423162873626,66,7,vision
+BulkSeq_vis_25,hahn,GSM6527975,Visual Cortex,Male,3,25,vis,-5.669411551991742,66,7,vision
+BulkSeq_vis_26,hahn,GSM6527976,Visual Cortex,Male,15,26,vis,-4.699564635505229,66,7,vision
+BulkSeq_vis_27,hahn,GSM6527977,Visual Cortex,Male,18,27,vis,-4.7922498052541,66,7,vision
+BulkSeq_vis_28,hahn,GSM6527978,Visual Cortex,Male,21,28,vis,-4.4735340272371396,66,7,vision
+BulkSeq_vis_29,hahn,GSM6527979,Visual Cortex,Male,3,29,vis,-5.9065933131134996,66,7,vision
+BulkSeq_vis_3,hahn,GSM6527980,Visual Cortex,Male,12,3,vis,-5.162200922105717,66,7,vision
+BulkSeq_vis_30,hahn,GSM6527981,Visual Cortex,Male,15,30,vis,-4.829611722533457,66,7,vision
+BulkSeq_vis_31,hahn,GSM6527982,Visual Cortex,Male,18,31,vis,-4.704416679395601,66,7,vision
+BulkSeq_vis_32,hahn,GSM6527983,Visual Cortex,Male,21,32,vis,-4.451657724622117,66,7,vision
+BulkSeq_vis_33,hahn,GSM6527984,Visual Cortex,Male,3,33,vis,-5.570276163139878,66,7,vision
+BulkSeq_vis_34,hahn,GSM6527985,Visual Cortex,Male,15,34,vis,-5.197726177003354,66,7,vision
+BulkSeq_vis_35,hahn,GSM6527986,Visual Cortex,Male,18,35,vis,-4.837634953621939,66,7,vision
+BulkSeq_vis_36,hahn,GSM6527987,Visual Cortex,Male,21,36,vis,-4.4881952383316195,66,7,vision
+BulkSeq_vis_37,hahn,GSM6527988,Visual Cortex,Female,3,37,vis,-5.778204360109201,66,7,vision
+BulkSeq_vis_38,hahn,GSM6527989,Visual Cortex,Female,15,38,vis,-4.727710107914759,66,7,vision
+BulkSeq_vis_39,hahn,GSM6527990,Visual Cortex,Female,18,39,vis,-4.721641593022707,66,7,vision
+BulkSeq_vis_4,hahn,GSM6527991,Visual Cortex,Female,12,4,vis,-4.494073715114314,66,7,vision
+BulkSeq_vis_40,hahn,GSM6527992,Visual Cortex,Female,21,40,vis,-3.8631175119655095,66,7,vision
+BulkSeq_vis_41,hahn,GSM6527993,Visual Cortex,Female,3,41,vis,-5.397652021198268,66,7,vision
+BulkSeq_vis_42,hahn,GSM6527994,Visual Cortex,Female,15,42,vis,-4.399865162490847,66,7,vision
+BulkSeq_vis_43,hahn,GSM6527995,Visual Cortex,Female,18,43,vis,-4.496231420589564,66,7,vision
+BulkSeq_vis_44,hahn,GSM6527996,Visual Cortex,Female,21,44,vis,-5.00604457493838,66,7,vision
+BulkSeq_vis_45,hahn,GSM6527997,Visual Cortex,Female,3,45,vis,-5.487242327799567,66,7,vision
+BulkSeq_vis_46,hahn,GSM6527998,Visual Cortex,Female,15,46,vis,-5.220537568060673,66,7,vision
+BulkSeq_vis_47,hahn,GSM6527999,Visual Cortex,Female,18,47,vis,-4.853522132308122,66,7,vision
+BulkSeq_vis_48,hahn,GSM6528000,Visual Cortex,Female,21,48,vis,-1.9066223954653838,66,7,vision
+BulkSeq_vis_49,hahn,GSM6528001,Visual Cortex,Female,3,49,vis,-5.8790563531197,66,7,vision
+BulkSeq_vis_50,hahn,GSM6528002,Visual Cortex,Female,15,50,vis,-5.041492349484094,66,7,vision
+BulkSeq_vis_51,hahn,GSM6528003,Visual Cortex,Female,18,51,vis,-4.44283122572358,66,7,vision
+BulkSeq_vis_52,hahn,GSM6528004,Visual Cortex,Female,21,52,vis,-4.53005041442453,66,7,vision
+BulkSeq_vis_53,hahn,GSM6528005,Visual Cortex,Female,3,53,vis,-5.832394878059514,66,7,vision
+BulkSeq_vis_54,hahn,GSM6528006,Visual Cortex,Female,15,54,vis,-4.437103664134229,66,7,vision
+BulkSeq_vis_55,hahn,GSM6528007,Visual Cortex,Female,18,55,vis,-4.6176394356266695,66,7,vision
+BulkSeq_vis_56,hahn,GSM6528008,Visual Cortex,Female,21,56,vis,-4.468435055774352,66,7,vision
+BulkSeq_vis_57,hahn,GSM6528009,Visual Cortex,Male,28,57,vis,-4.404267327870728,66,7,vision
+BulkSeq_vis_58,hahn,GSM6528010,Visual Cortex,Male,28,58,vis,-3.942533867210161,66,7,vision
+BulkSeq_vis_59,hahn,GSM6528011,Visual Cortex,Male,28,59,vis,-3.2259491425986035,66,7,vision
+BulkSeq_vis_6,hahn,GSM6528012,Visual Cortex,Male,12,6,vis,-5.153178584323368,66,7,vision
+BulkSeq_vis_7,hahn,GSM6528013,Visual Cortex,Female,12,7,vis,-4.907208676753391,66,7,vision
+BulkSeq_vis_8,hahn,GSM6528014,Visual Cortex,Male,26,8,vis,-3.9292168719010783,66,7,vision
+BulkSeq_cc_10,hahn,GSM6527049,Corpus callosum,Female,12,10,cc,-0.39051516124134183,73,7,zscore
+BulkSeq_cc_11,hahn,GSM6527050,Corpus callosum,Male,26,11,cc,2.619291644153148,73,7,zscore
+BulkSeq_cc_12,hahn,GSM6527051,Corpus callosum,Male,12,12,cc,-0.42923073207321816,73,7,zscore
+BulkSeq_cc_13,hahn,GSM6527052,Corpus callosum,Female,12,13,cc,-1.1498062594714935,73,7,zscore
+BulkSeq_cc_14,hahn,GSM6527053,Corpus callosum,Male,26,14,cc,2.593332566063154,73,7,zscore
+BulkSeq_cc_15,hahn,GSM6527055,Corpus callosum,Male,12,15,cc,-1.5541762865898168,73,7,zscore
+BulkSeq_cc_16,hahn,GSM6527056,Corpus callosum,Male,21,16,cc,0.6176682392077876,73,7,zscore
+BulkSeq_cc_17,hahn,GSM6527057,Corpus callosum,Male,3,17,cc,-3.587455520378697,73,7,zscore
+BulkSeq_cc_18,hahn,GSM6527058,Corpus callosum,Male,15,18,cc,-0.35159660710105395,73,7,zscore
+BulkSeq_cc_19,hahn,GSM6527059,Corpus callosum,Male,18,19,cc,-0.48681118012676816,73,7,zscore
+BulkSeq_cc_20,hahn,GSM6527060,Corpus callosum,Male,21,20,cc,0.9790888744915756,73,7,zscore
+BulkSeq_cc_21,hahn,GSM6527062,Corpus callosum,Male,3,21,cc,-1.8144831036370141,73,7,zscore
+BulkSeq_cc_22,hahn,GSM6527063,Corpus callosum,Male,15,22,cc,-0.863865195090691,73,7,zscore
+BulkSeq_cc_23,hahn,GSM6527064,Corpus callosum,Male,18,23,cc,0.71984071135156,73,7,zscore
+BulkSeq_cc_24,hahn,GSM6527065,Corpus callosum,Male,21,24,cc,1.1090707516493339,73,7,zscore
+BulkSeq_cc_25,hahn,GSM6527066,Corpus callosum,Male,3,25,cc,-3.277625614543882,73,7,zscore
+BulkSeq_cc_26,hahn,GSM6527067,Corpus callosum,Male,15,26,cc,-1.2994184338350818,73,7,zscore
+BulkSeq_cc_27,hahn,GSM6527069,Corpus callosum,Male,18,27,cc,0.3899791455318177,73,7,zscore
+BulkSeq_cc_28,hahn,GSM6527070,Corpus callosum,Male,21,28,cc,1.0361276984248935,73,7,zscore
+BulkSeq_cc_29,hahn,GSM6527071,Corpus callosum,Male,3,29,cc,-1.8556436485642254,73,7,zscore
+BulkSeq_cc_3,hahn,GSM6527072,Corpus callosum,Male,12,3,cc,-1.1591972035087341,73,7,zscore
+BulkSeq_cc_30,hahn,GSM6527073,Corpus callosum,Male,15,30,cc,-0.24159867258605863,73,7,zscore
+BulkSeq_cc_31,hahn,GSM6527075,Corpus callosum,Male,18,31,cc,0.43672567336967444,73,7,zscore
+BulkSeq_cc_32,hahn,GSM6527076,Corpus callosum,Male,21,32,cc,1.4994100815104159,73,7,zscore
+BulkSeq_cc_33,hahn,GSM6527077,Corpus callosum,Male,3,33,cc,-2.402056050775835,73,7,zscore
+BulkSeq_cc_34,hahn,GSM6527078,Corpus callosum,Male,15,34,cc,-1.0621257085090707,73,7,zscore
+BulkSeq_cc_35,hahn,GSM6527080,Corpus callosum,Male,18,35,cc,1.032036685846827,73,7,zscore
+BulkSeq_cc_36,hahn,GSM6527081,Corpus callosum,Male,21,36,cc,1.2426516644073453,73,7,zscore
+BulkSeq_cc_37,hahn,GSM6527082,Corpus callosum,Female,3,37,cc,-1.565114620058202,73,7,zscore
+BulkSeq_cc_38,hahn,GSM6527083,Corpus callosum,Female,15,38,cc,-0.6706917340149865,73,7,zscore
+BulkSeq_cc_39,hahn,GSM6527084,Corpus callosum,Female,18,39,cc,0.8531390936302414,73,7,zscore
+BulkSeq_cc_4,hahn,GSM6527086,Corpus callosum,Female,12,4,cc,-0.17223100324649682,73,7,zscore
+BulkSeq_cc_40,hahn,GSM6527087,Corpus callosum,Female,21,40,cc,0.7369165911871537,73,7,zscore
+BulkSeq_cc_41,hahn,GSM6527088,Corpus callosum,Female,3,41,cc,-1.8938409594504684,73,7,zscore
+BulkSeq_cc_42,hahn,GSM6527089,Corpus callosum,Female,15,42,cc,0.7565781740916525,73,7,zscore
+BulkSeq_cc_43,hahn,GSM6527090,Corpus callosum,Female,18,43,cc,0.07758163003441337,73,7,zscore
+BulkSeq_cc_44,hahn,GSM6527091,Corpus callosum,Female,21,44,cc,0.23155995604550517,73,7,zscore
+BulkSeq_cc_45,hahn,GSM6527093,Corpus callosum,Female,3,45,cc,-1.415230876620044,73,7,zscore
+BulkSeq_cc_46,hahn,GSM6527094,Corpus callosum,Female,15,46,cc,-0.565414584558971,73,7,zscore
+BulkSeq_cc_47,hahn,GSM6527095,Corpus callosum,Female,18,47,cc,1.2754272846832087,73,7,zscore
+BulkSeq_cc_48,hahn,GSM6527096,Corpus callosum,Female,21,48,cc,1.0700623678332257,73,7,zscore
+BulkSeq_cc_49,hahn,GSM6527097,Corpus callosum,Female,3,49,cc,-1.7606399352364546,73,7,zscore
+BulkSeq_cc_5,hahn,GSM6527098,Corpus callosum,Male,26,5,cc,1.5372528659458586,73,7,zscore
+BulkSeq_cc_50,hahn,GSM6527100,Corpus callosum,Female,15,50,cc,0.23443836078662342,73,7,zscore
+BulkSeq_cc_51,hahn,GSM6527101,Corpus callosum,Female,18,51,cc,0.7646932153542333,73,7,zscore
+BulkSeq_cc_52,hahn,GSM6527102,Corpus callosum,Female,21,52,cc,1.2553713874666987,73,7,zscore
+BulkSeq_cc_53,hahn,GSM6527103,Corpus callosum,Female,3,53,cc,-1.813154710825017,73,7,zscore
+BulkSeq_cc_54,hahn,GSM6527104,Corpus callosum,Female,15,54,cc,-0.21827306340424443,73,7,zscore
+BulkSeq_cc_55,hahn,GSM6527106,Corpus callosum,Female,18,55,cc,0.9096978275528713,73,7,zscore
+BulkSeq_cc_56,hahn,GSM6527107,Corpus callosum,Female,21,56,cc,0.926453829094963,73,7,zscore
+BulkSeq_cc_57,hahn,GSM6527108,Corpus callosum,Male,28,57,cc,2.786360093271931,73,7,zscore
+BulkSeq_cc_58,hahn,GSM6527109,Corpus callosum,Male,28,58,cc,3.131832553822551,73,7,zscore
+BulkSeq_cc_59,hahn,GSM6527110,Corpus callosum,Male,28,59,cc,2.8342518418065548,73,7,zscore
+BulkSeq_cc_6,hahn,GSM6527112,Corpus callosum,Male,12,6,cc,-0.3874703909640725,73,7,zscore
+BulkSeq_cc_7,hahn,GSM6527113,Corpus callosum,Female,12,7,cc,-1.3411249104468448,73,7,zscore
+BulkSeq_cc_8,hahn,GSM6527114,Corpus callosum,Male,26,8,cc,0.960064018458443,73,7,zscore
+BulkSeq_cc_9,hahn,GSM6527115,Corpus callosum,Male,12,9,cc,-0.8881126602146536,73,7,zscore
+BulkSeq_cer_1,hahn,GSM6527116,Cerebellum,Female,12,1,cer,-1.450215699976561,68,7,zscore
+BulkSeq_cer_10,hahn,GSM6527118,Cerebellum,Female,12,10,cer,-0.7324796525428021,68,7,zscore
+BulkSeq_cer_11,hahn,GSM6527119,Cerebellum,Male,26,11,cer,2.4068833339263245,68,7,zscore
+BulkSeq_cer_12,hahn,GSM6527120,Cerebellum,Male,12,12,cer,-0.3465688897742218,68,7,zscore
+BulkSeq_cer_13,hahn,GSM6527121,Cerebellum,Female,12,13,cer,-0.6850467464890727,68,7,zscore
+BulkSeq_cer_14,hahn,GSM6527123,Cerebellum,Male,26,14,cer,2.2978825503812805,68,7,zscore
+BulkSeq_cer_15,hahn,GSM6527124,Cerebellum,Male,12,15,cer,-1.618698002269538,68,7,zscore
+BulkSeq_cer_16,hahn,GSM6527125,Cerebellum,Male,21,16,cer,1.3934276317878052,68,7,zscore
+BulkSeq_cer_17,hahn,GSM6527126,Cerebellum,Male,3,17,cer,-4.016532462432967,68,7,zscore
+BulkSeq_cer_18,hahn,GSM6527127,Cerebellum,Male,15,18,cer,-0.5536688782723602,68,7,zscore
+BulkSeq_cer_19,hahn,GSM6527128,Cerebellum,Male,18,19,cer,0.5368094308209516,68,7,zscore
+BulkSeq_cer_2,hahn,GSM6527129,Cerebellum,Male,26,2,cer,0.8352376827486947,68,7,zscore
+BulkSeq_cer_20,hahn,GSM6527131,Cerebellum,Male,21,20,cer,0.3768651255648631,68,7,zscore
+BulkSeq_cer_21,hahn,GSM6527132,Cerebellum,Male,3,21,cer,-1.5341374695099874,68,7,zscore
+BulkSeq_cer_22,hahn,GSM6527133,Cerebellum,Male,15,22,cer,-0.6303422031748926,68,7,zscore
+BulkSeq_cer_23,hahn,GSM6527134,Cerebellum,Male,18,23,cer,0.9209322439805215,68,7,zscore
+BulkSeq_cer_24,hahn,GSM6527135,Cerebellum,Male,21,24,cer,0.9154574163767288,68,7,zscore
+BulkSeq_cer_25,hahn,GSM6527136,Cerebellum,Male,3,25,cer,-2.6431218848636497,68,7,zscore
+BulkSeq_cer_26,hahn,GSM6527138,Cerebellum,Male,15,26,cer,-1.0270247612086925,68,7,zscore
+BulkSeq_cer_27,hahn,GSM6527139,Cerebellum,Male,18,27,cer,0.17447596111189786,68,7,zscore
+BulkSeq_cer_28,hahn,GSM6527140,Cerebellum,Male,21,28,cer,0.8455884108737368,68,7,zscore
+BulkSeq_cer_29,hahn,GSM6527141,Cerebellum,Male,3,29,cer,-2.305527413028804,68,7,zscore
+BulkSeq_cer_3,hahn,GSM6527142,Cerebellum,Male,12,3,cer,-1.4480488799023887,68,7,zscore
+BulkSeq_cer_30,hahn,GSM6527143,Cerebellum,Male,15,30,cer,-0.004899413374636757,68,7,zscore
+BulkSeq_cer_31,hahn,GSM6527145,Cerebellum,Male,18,31,cer,0.9054050598417851,68,7,zscore
+BulkSeq_cer_32,hahn,GSM6527146,Cerebellum,Male,21,32,cer,1.0753448335548905,68,7,zscore
+BulkSeq_cer_33,hahn,GSM6527147,Cerebellum,Male,3,33,cer,-2.6921650496141987,68,7,zscore
+BulkSeq_cer_34,hahn,GSM6527148,Cerebellum,Male,15,34,cer,-0.4139430660371035,68,7,zscore
+BulkSeq_cer_35,hahn,GSM6527149,Cerebellum,Male,18,35,cer,1.3000463641868656,68,7,zscore
+BulkSeq_cer_36,hahn,GSM6527151,Cerebellum,Male,21,36,cer,1.6081226413124452,68,7,zscore
+BulkSeq_cer_37,hahn,GSM6527152,Cerebellum,Female,3,37,cer,-1.5876469697433897,68,7,zscore
+BulkSeq_cer_38,hahn,GSM6527153,Cerebellum,Female,15,38,cer,-0.7600934995830603,68,7,zscore
+BulkSeq_cer_39,hahn,GSM6527154,Cerebellum,Female,18,39,cer,1.086936674731335,68,7,zscore
+BulkSeq_cer_40,hahn,GSM6527155,Cerebellum,Female,21,40,cer,1.8872371739803095,68,7,zscore
+BulkSeq_cer_41,hahn,GSM6527157,Cerebellum,Female,3,41,cer,-1.8481834399485297,68,7,zscore
+BulkSeq_cer_42,hahn,GSM6527158,Cerebellum,Female,15,42,cer,0.762183283687683,68,7,zscore
+BulkSeq_cer_43,hahn,GSM6527159,Cerebellum,Female,18,43,cer,-0.06412388527737278,68,7,zscore
+BulkSeq_cer_44,hahn,GSM6527160,Cerebellum,Female,21,44,cer,0.05849962685656841,68,7,zscore
+BulkSeq_cer_45,hahn,GSM6527161,Cerebellum,Female,3,45,cer,-2.017521944619924,68,7,zscore
+BulkSeq_cer_46,hahn,GSM6527163,Cerebellum,Female,15,46,cer,-0.3389927051301502,68,7,zscore
+BulkSeq_cer_47,hahn,GSM6527164,Cerebellum,Female,18,47,cer,1.3684999109218237,68,7,zscore
+BulkSeq_cer_48,hahn,GSM6527165,Cerebellum,Female,21,48,cer,0.8405885257761846,68,7,zscore
+BulkSeq_cer_49,hahn,GSM6527166,Cerebellum,Female,3,49,cer,-2.0512842903351687,68,7,zscore
+BulkSeq_cer_5,hahn,GSM6527167,Cerebellum,Male,26,5,cer,1.726469468816945,68,7,zscore
+BulkSeq_cer_50,hahn,GSM6527168,Cerebellum,Female,15,50,cer,0.9275752444767048,68,7,zscore
+BulkSeq_cer_51,hahn,GSM6527170,Cerebellum,Female,18,51,cer,0.40331466524694076,68,7,zscore
+BulkSeq_cer_52,hahn,GSM6527171,Cerebellum,Female,21,52,cer,1.3264409123538003,68,7,zscore
+BulkSeq_cer_53,hahn,GSM6527172,Cerebellum,Female,3,53,cer,-1.1211929260930071,68,7,zscore
+BulkSeq_cer_54,hahn,GSM6527173,Cerebellum,Female,15,54,cer,0.08900756761675221,68,7,zscore
+BulkSeq_cer_55,hahn,GSM6527174,Cerebellum,Female,18,55,cer,0.7206032817150895,68,7,zscore
+BulkSeq_cer_56,hahn,GSM6527175,Cerebellum,Female,21,56,cer,0.5975799507083982,68,7,zscore
+BulkSeq_cer_57,hahn,GSM6527176,Cerebellum,Male,28,57,cer,2.7323344449129268,68,7,zscore
+BulkSeq_cer_58,hahn,GSM6527177,Cerebellum,Male,28,58,cer,2.1223797132431055,68,7,zscore
+BulkSeq_cer_59,hahn,GSM6527179,Cerebellum,Male,28,59,cer,2.2395608239620417,68,7,zscore
+BulkSeq_cer_6,hahn,GSM6527180,Cerebellum,Male,12,6,cer,-0.29794645629044036,68,7,zscore
+BulkSeq_cer_7,hahn,GSM6527181,Cerebellum,Female,12,7,cer,-1.3291290413902774,68,7,zscore
+BulkSeq_cer_8,hahn,GSM6527182,Cerebellum,Male,26,8,cer,0.2371995254978189,68,7,zscore
+BulkSeq_cer_9,hahn,GSM6527183,Cerebellum,Male,12,9,cer,-1.2003538500900182,68,7,zscore
+BulkSeq_cor_1,hahn,GSM6527184,Motor cortex,Female,12,1,cor,-0.927871791317786,68,7,zscore
+BulkSeq_cor_10,hahn,GSM6527186,Motor cortex,Female,12,10,cor,-0.2907917799177564,68,7,zscore
+BulkSeq_cor_11,hahn,GSM6527187,Motor cortex,Male,26,11,cor,1.712518335864226,68,7,zscore
+BulkSeq_cor_12,hahn,GSM6527188,Motor cortex,Male,12,12,cor,0.25877683378336314,68,7,zscore
+BulkSeq_cor_13,hahn,GSM6527189,Motor cortex,Female,12,13,cor,-0.5302906817038946,68,7,zscore
+BulkSeq_cor_14,hahn,GSM6527190,Motor cortex,Male,26,14,cor,2.056857103668773,68,7,zscore
+BulkSeq_cor_15,hahn,GSM6527191,Motor cortex,Male,12,15,cor,-0.6549821502576676,68,7,zscore
+BulkSeq_cor_16,hahn,GSM6527193,Motor cortex,Male,21,16,cor,1.538351613538444,68,7,zscore
+BulkSeq_cor_17,hahn,GSM6527194,Motor cortex,Male,3,17,cor,-3.1323245961592434,68,7,zscore
+BulkSeq_cor_18,hahn,GSM6527195,Motor cortex,Male,15,18,cor,-0.8311745364151698,68,7,zscore
+BulkSeq_cor_19,hahn,GSM6527196,Motor cortex,Male,18,19,cor,0.23111307469574355,68,7,zscore
+BulkSeq_cor_2,hahn,GSM6527197,Motor cortex,Male,26,2,cor,1.2644158246019463,68,7,zscore
+BulkSeq_cor_20,hahn,GSM6527199,Motor cortex,Male,21,20,cor,0.8761298949440224,68,7,zscore
+BulkSeq_cor_21,hahn,GSM6527200,Motor cortex,Male,3,21,cor,-1.1589656339545407,68,7,zscore
+BulkSeq_cor_22,hahn,GSM6527201,Motor cortex,Male,15,22,cor,-1.594530786308371,68,7,zscore
+BulkSeq_cor_23,hahn,GSM6527202,Motor cortex,Male,18,23,cor,0.8822186527778921,68,7,zscore
+BulkSeq_cor_24,hahn,GSM6527203,Motor cortex,Male,21,24,cor,0.30164521106522857,68,7,zscore
+BulkSeq_cor_25,hahn,GSM6527204,Motor cortex,Male,3,25,cor,-2.6197845114411997,68,7,zscore
+BulkSeq_cor_26,hahn,GSM6527206,Motor cortex,Male,15,26,cor,-0.6213256539666592,68,7,zscore
+BulkSeq_cor_27,hahn,GSM6527207,Motor cortex,Male,18,27,cor,-0.0683688008081169,68,7,zscore
+BulkSeq_cor_28,hahn,GSM6527208,Motor cortex,Male,21,28,cor,1.0278756983735464,68,7,zscore
+BulkSeq_cor_29,hahn,GSM6527209,Motor cortex,Male,3,29,cor,-1.617216499456004,68,7,zscore
+BulkSeq_cor_3,hahn,GSM6527210,Motor cortex,Male,12,3,cor,-0.9702108777353013,68,7,zscore
+BulkSeq_cor_30,hahn,GSM6527211,Motor cortex,Male,15,30,cor,-0.45604574589863456,68,7,zscore
+BulkSeq_cor_31,hahn,GSM6527212,Motor cortex,Male,18,31,cor,0.776718376026619,68,7,zscore
+BulkSeq_cor_32,hahn,GSM6527214,Motor cortex,Male,21,32,cor,1.0840803231277656,68,7,zscore
+BulkSeq_cor_33,hahn,GSM6527215,Motor cortex,Male,3,33,cor,-2.4653528475310105,68,7,zscore
+BulkSeq_cor_34,hahn,GSM6527216,Motor cortex,Male,15,34,cor,-1.2554342942540653,68,7,zscore
+BulkSeq_cor_35,hahn,GSM6527217,Motor cortex,Male,18,35,cor,1.3977771069298957,68,7,zscore
+BulkSeq_cor_36,hahn,GSM6527218,Motor cortex,Male,21,36,cor,1.2196299776573174,68,7,zscore
+BulkSeq_cor_37,hahn,GSM6527219,Motor cortex,Female,3,37,cor,-1.629121709313142,68,7,zscore
+BulkSeq_cor_38,hahn,GSM6527221,Motor cortex,Female,15,38,cor,-0.2264270757448717,68,7,zscore
+BulkSeq_cor_39,hahn,GSM6527222,Motor cortex,Female,18,39,cor,1.2291389700099526,68,7,zscore
+BulkSeq_cor_4,hahn,GSM6527223,Motor cortex,Female,12,4,cor,0.14509961644961317,68,7,zscore
+BulkSeq_cor_40,hahn,GSM6527224,Motor cortex,Female,21,40,cor,1.0964750715230742,68,7,zscore
+BulkSeq_cor_41,hahn,GSM6527225,Motor cortex,Female,3,41,cor,-1.6104604197416577,68,7,zscore
+BulkSeq_cor_42,hahn,GSM6527227,Motor cortex,Female,15,42,cor,0.526378310299274,68,7,zscore
+BulkSeq_cor_43,hahn,GSM6527228,Motor cortex,Female,18,43,cor,-0.3141892216976082,68,7,zscore
+BulkSeq_cor_44,hahn,GSM6527229,Motor cortex,Female,21,44,cor,-0.3684728265911824,68,7,zscore
+BulkSeq_cor_45,hahn,GSM6527231,Motor cortex,Female,3,45,cor,-1.6524349971502832,68,7,zscore
+BulkSeq_cor_46,hahn,GSM6527232,Motor cortex,Female,15,46,cor,-0.3488354396110201,68,7,zscore
+BulkSeq_cor_47,hahn,GSM6527233,Motor cortex,Female,18,47,cor,0.25058713398621174,68,7,zscore
+BulkSeq_cor_48,hahn,GSM6527234,Motor cortex,Female,21,48,cor,0.8179349030882439,68,7,zscore
+BulkSeq_cor_49,hahn,GSM6527235,Motor cortex,Female,3,49,cor,-1.9317332211345533,68,7,zscore
+BulkSeq_cor_5,hahn,GSM6527236,Motor cortex,Male,26,5,cor,1.2006873940415628,68,7,zscore
+BulkSeq_cor_50,hahn,GSM6527238,Motor cortex,Female,15,50,cor,0.49996069111097535,68,7,zscore
+BulkSeq_cor_51,hahn,GSM6527239,Motor cortex,Female,18,51,cor,0.8047281246619827,68,7,zscore
+BulkSeq_cor_52,hahn,GSM6527240,Motor cortex,Female,21,52,cor,1.303548771030662,68,7,zscore
+BulkSeq_cor_53,hahn,GSM6527241,Motor cortex,Female,3,53,cor,-0.9836208333715797,68,7,zscore
+BulkSeq_cor_54,hahn,GSM6527242,Motor cortex,Female,15,54,cor,-0.13757961244753547,68,7,zscore
+BulkSeq_cor_55,hahn,GSM6527243,Motor cortex,Female,18,55,cor,0.062144970486916876,68,7,zscore
+BulkSeq_cor_56,hahn,GSM6527245,Motor cortex,Female,21,56,cor,0.9243803354114238,68,7,zscore
+BulkSeq_cor_57,hahn,GSM6527246,Motor cortex,Male,28,57,cor,1.840045739538777,68,7,zscore
+BulkSeq_cor_58,hahn,GSM6527247,Motor cortex,Male,28,58,cor,2.2329962075382848,68,7,zscore
+BulkSeq_cor_59,hahn,GSM6527248,Motor cortex,Male,28,59,cor,2.4461690094435484,68,7,zscore
+BulkSeq_cor_6,hahn,GSM6527249,Motor cortex,Male,12,6,cor,-0.7050931795111348,68,7,zscore
+BulkSeq_cor_7,hahn,GSM6527250,Motor cortex,Female,12,7,cor,-0.6475199733200584,68,7,zscore
+BulkSeq_cor_8,hahn,GSM6527252,Motor cortex,Male,26,8,cor,0.4774223866233953,68,7,zscore
+BulkSeq_cor_9,hahn,GSM6527253,Motor cortex,Male,12,9,cor,-0.7356459655383822,68,7,zscore
+BulkSeq_cp_1,hahn,GSM6527254,Caudate putamen,Female,12,1,cp,-0.4544071340694706,71,7,zscore
+BulkSeq_cp_10,hahn,GSM6527255,Caudate putamen,Female,12,10,cp,-1.097322332185923,71,7,zscore
+BulkSeq_cp_11,hahn,GSM6527256,Caudate putamen,Male,26,11,cp,4.12256673405547,71,7,zscore
+BulkSeq_cp_12,hahn,GSM6527258,Caudate putamen,Male,12,12,cp,-0.5002027638480204,71,7,zscore
+BulkSeq_cp_13,hahn,GSM6527259,Caudate putamen,Female,12,13,cp,-0.9052607417153886,71,7,zscore
+BulkSeq_cp_14,hahn,GSM6527260,Caudate putamen,Male,26,14,cp,2.542396569438748,71,7,zscore
+BulkSeq_cp_15,hahn,GSM6527261,Caudate putamen,Male,12,15,cp,-1.3651528567085802,71,7,zscore
+BulkSeq_cp_16,hahn,GSM6527262,Caudate putamen,Male,21,16,cp,-0.26946103559052303,71,7,zscore
+BulkSeq_cp_17,hahn,GSM6527264,Caudate putamen,Male,3,17,cp,-2.9807460644706496,71,7,zscore
+BulkSeq_cp_18,hahn,GSM6527265,Caudate putamen,Male,15,18,cp,0.14625886246394024,71,7,zscore
+BulkSeq_cp_19,hahn,GSM6527266,Caudate putamen,Male,18,19,cp,-0.3204415057316882,71,7,zscore
+BulkSeq_cp_2,hahn,GSM6527267,Caudate putamen,Male,26,2,cp,0.4405844729314547,71,7,zscore
+BulkSeq_cp_20,hahn,GSM6527268,Caudate putamen,Male,21,20,cp,0.5627201093963858,71,7,zscore
+BulkSeq_cp_21,hahn,GSM6527270,Caudate putamen,Male,3,21,cp,-1.4598553058022112,71,7,zscore
+BulkSeq_cp_22,hahn,GSM6527271,Caudate putamen,Male,15,22,cp,-0.14706626786766075,71,7,zscore
+BulkSeq_cp_23,hahn,GSM6527272,Caudate putamen,Male,18,23,cp,0.4002042838656719,71,7,zscore
+BulkSeq_cp_24,hahn,GSM6527273,Caudate putamen,Male,21,24,cp,1.3370696830359101,71,7,zscore
+BulkSeq_cp_26,hahn,GSM6527274,Caudate putamen,Male,15,26,cp,-1.4086670383324482,71,7,zscore
+BulkSeq_cp_27,hahn,GSM6527275,Caudate putamen,Male,18,27,cp,1.043168744585584,71,7,zscore
+BulkSeq_cp_28,hahn,GSM6527277,Caudate putamen,Male,21,28,cp,1.0887856962446336,71,7,zscore
+BulkSeq_cp_29,hahn,GSM6527278,Caudate putamen,Male,3,29,cp,-2.191376090551545,71,7,zscore
+BulkSeq_cp_3,hahn,GSM6527279,Caudate putamen,Male,12,3,cp,-1.6740145524125483,71,7,zscore
+BulkSeq_cp_30,hahn,GSM6527280,Caudate putamen,Male,15,30,cp,0.3640539300874395,71,7,zscore
+BulkSeq_cp_31,hahn,GSM6527281,Caudate putamen,Male,18,31,cp,0.21145197534856505,71,7,zscore
+BulkSeq_cp_32,hahn,GSM6527282,Caudate putamen,Male,21,32,cp,1.209195403212429,71,7,zscore
+BulkSeq_cp_33,hahn,GSM6527284,Caudate putamen,Male,3,33,cp,-2.451872105868911,71,7,zscore
+BulkSeq_cp_34,hahn,GSM6527285,Caudate putamen,Male,15,34,cp,-0.8624504459951896,71,7,zscore
+BulkSeq_cp_35,hahn,GSM6527286,Caudate putamen,Male,18,35,cp,0.43974419625452704,71,7,zscore
+BulkSeq_cp_36,hahn,GSM6527287,Caudate putamen,Male,21,36,cp,1.1616107167282455,71,7,zscore
+BulkSeq_cp_37,hahn,GSM6527288,Caudate putamen,Female,3,37,cp,-1.7034903110991544,71,7,zscore
+BulkSeq_cp_38,hahn,GSM6527289,Caudate putamen,Female,15,38,cp,-1.2057614581544294,71,7,zscore
+BulkSeq_cp_39,hahn,GSM6527291,Caudate putamen,Female,18,39,cp,0.12440593132495835,71,7,zscore
+BulkSeq_cp_4,hahn,GSM6527292,Caudate putamen,Female,12,4,cp,-0.7139744076027928,71,7,zscore
+BulkSeq_cp_40,hahn,GSM6527293,Caudate putamen,Female,21,40,cp,0.706747426377081,71,7,zscore
+BulkSeq_cp_41,hahn,GSM6527294,Caudate putamen,Female,3,41,cp,-1.5877268449675253,71,7,zscore
+BulkSeq_cp_42,hahn,GSM6527295,Caudate putamen,Female,15,42,cp,0.5729384824456483,71,7,zscore
+BulkSeq_cp_43,hahn,GSM6527296,Caudate putamen,Female,18,43,cp,0.6606129853117108,71,7,zscore
+BulkSeq_cp_44,hahn,GSM6527298,Caudate putamen,Female,21,44,cp,-0.16009858095292423,71,7,zscore
+BulkSeq_cp_45,hahn,GSM6527299,Caudate putamen,Female,3,45,cp,-1.356196376396689,71,7,zscore
+BulkSeq_cp_46,hahn,GSM6527300,Caudate putamen,Female,15,46,cp,-0.7534292756838596,71,7,zscore
+BulkSeq_cp_47,hahn,GSM6527301,Caudate putamen,Female,18,47,cp,0.8005969224485322,71,7,zscore
+BulkSeq_cp_48,hahn,GSM6527302,Caudate putamen,Female,21,48,cp,0.3462024474826376,71,7,zscore
+BulkSeq_cp_49,hahn,GSM6527304,Caudate putamen,Female,3,49,cp,-1.0520864233382194,71,7,zscore
+BulkSeq_cp_5,hahn,GSM6527305,Caudate putamen,Male,26,5,cp,2.2281295197886952,71,7,zscore
+BulkSeq_cp_50,hahn,GSM6527306,Caudate putamen,Female,15,50,cp,0.04672816284421916,71,7,zscore
+BulkSeq_cp_51,hahn,GSM6527307,Caudate putamen,Female,18,51,cp,-0.19660924870926813,71,7,zscore
+BulkSeq_cp_52,hahn,GSM6527308,Caudate putamen,Female,21,52,cp,0.04945814575785191,71,7,zscore
+BulkSeq_cp_53,hahn,GSM6527310,Caudate putamen,Female,3,53,cp,-1.6590322511939242,71,7,zscore
+BulkSeq_cp_54,hahn,GSM6527311,Caudate putamen,Female,15,54,cp,-0.02793904686917821,71,7,zscore
+BulkSeq_cp_55,hahn,GSM6527312,Caudate putamen,Female,18,55,cp,-0.06630168847185776,71,7,zscore
+BulkSeq_cp_56,hahn,GSM6527313,Caudate putamen,Female,21,56,cp,0.39925488219352023,71,7,zscore
+BulkSeq_cp_57,hahn,GSM6527314,Caudate putamen,Male,28,57,cp,3.3113288243410546,71,7,zscore
+BulkSeq_cp_58,hahn,GSM6527316,Caudate putamen,Male,28,58,cp,2.350890440430177,71,7,zscore
+BulkSeq_cp_59,hahn,GSM6527317,Caudate putamen,Male,28,59,cp,3.5375075276170334,71,7,zscore
+BulkSeq_cp_6,hahn,GSM6527318,Caudate putamen,Male,12,6,cp,-0.6650804406569258,71,7,zscore
+BulkSeq_cp_7,hahn,GSM6527319,Caudate putamen,Female,12,7,cp,-0.9352902971894649,71,7,zscore
+BulkSeq_cp_8,hahn,GSM6527320,Caudate putamen,Male,26,8,cp,0.48417561481392785,71,7,zscore
+BulkSeq_cp_9,hahn,GSM6527321,Caudate putamen,Male,12,9,cp,-0.5174757983891809,71,7,zscore
+BulkSeq_ent_1,hahn,GSM6527322,Entorhinal cortex,Female,12,1,ent,-0.6034392997492747,72,7,zscore
+BulkSeq_ent_10,hahn,GSM6527324,Entorhinal cortex,Female,12,10,ent,-0.4775838491301256,72,7,zscore
+BulkSeq_ent_12,hahn,GSM6527325,Entorhinal cortex,Male,12,12,ent,-0.3960281133719553,72,7,zscore
+BulkSeq_ent_13,hahn,GSM6527326,Entorhinal cortex,Female,12,13,ent,-0.5787685154484341,72,7,zscore
+BulkSeq_ent_14,hahn,GSM6527328,Entorhinal cortex,Male,26,14,ent,1.319968149549436,72,7,zscore
+BulkSeq_ent_15,hahn,GSM6527329,Entorhinal cortex,Male,12,15,ent,0.13830478714415428,72,7,zscore
+BulkSeq_ent_16,hahn,GSM6527330,Entorhinal cortex,Male,21,16,ent,0.512415258180946,72,7,zscore
+BulkSeq_ent_17,hahn,GSM6527332,Entorhinal cortex,Male,3,17,ent,-2.1236292101276693,72,7,zscore
+BulkSeq_ent_18,hahn,GSM6527333,Entorhinal cortex,Male,15,18,ent,1.005927922494608,72,7,zscore
+BulkSeq_ent_19,hahn,GSM6527334,Entorhinal cortex,Male,18,19,ent,-0.4826731171554085,72,7,zscore
+BulkSeq_ent_20,hahn,GSM6527335,Entorhinal cortex,Male,21,20,ent,2.1644704664787007,72,7,zscore
+BulkSeq_ent_21,hahn,GSM6527336,Entorhinal cortex,Male,3,21,ent,-0.47502260876203983,72,7,zscore
+BulkSeq_ent_22,hahn,GSM6527338,Entorhinal cortex,Male,15,22,ent,-1.1102481074522141,72,7,zscore
+BulkSeq_ent_23,hahn,GSM6527339,Entorhinal cortex,Male,18,23,ent,0.9929803502137086,72,7,zscore
+BulkSeq_ent_24,hahn,GSM6527340,Entorhinal cortex,Male,21,24,ent,0.6473859029133562,72,7,zscore
+BulkSeq_ent_25,hahn,GSM6527341,Entorhinal cortex,Male,3,25,ent,-2.3152420666376776,72,7,zscore
+BulkSeq_ent_26,hahn,GSM6527342,Entorhinal cortex,Male,15,26,ent,-1.1220334088637496,72,7,zscore
+BulkSeq_ent_28,hahn,GSM6527343,Entorhinal cortex,Male,21,28,ent,-0.2149968656121905,72,7,zscore
+BulkSeq_ent_29,hahn,GSM6527345,Entorhinal cortex,Male,3,29,ent,-0.9349242273621117,72,7,zscore
+BulkSeq_ent_30,hahn,GSM6527346,Entorhinal cortex,Male,15,30,ent,-0.29445137718480197,72,7,zscore
+BulkSeq_ent_32,hahn,GSM6527347,Entorhinal cortex,Male,21,32,ent,0.22462997473325316,72,7,zscore
+BulkSeq_ent_34,hahn,GSM6527348,Entorhinal cortex,Male,15,34,ent,-0.7826732030559572,72,7,zscore
+BulkSeq_ent_35,hahn,GSM6527349,Entorhinal cortex,Male,18,35,ent,0.16959058560240808,72,7,zscore
+BulkSeq_ent_36,hahn,GSM6527350,Entorhinal cortex,Male,21,36,ent,0.7262015847091923,72,7,zscore
+BulkSeq_ent_37,hahn,GSM6527352,Entorhinal cortex,Female,3,37,ent,-1.2467419708825846,72,7,zscore
+BulkSeq_ent_38,hahn,GSM6527353,Entorhinal cortex,Female,15,38,ent,-0.3039094158253981,72,7,zscore
+BulkSeq_ent_39,hahn,GSM6527354,Entorhinal cortex,Female,18,39,ent,2.427181261319599,72,7,zscore
+BulkSeq_ent_40,hahn,GSM6527355,Entorhinal cortex,Female,21,40,ent,1.9921723853329831,72,7,zscore
+BulkSeq_ent_41,hahn,GSM6527356,Entorhinal cortex,Female,3,41,ent,-0.9536292441595283,72,7,zscore
+BulkSeq_ent_42,hahn,GSM6527357,Entorhinal cortex,Female,15,42,ent,2.041428877613722,72,7,zscore
+BulkSeq_ent_43,hahn,GSM6527359,Entorhinal cortex,Female,18,43,ent,-0.5934227277937769,72,7,zscore
+BulkSeq_ent_44,hahn,GSM6527360,Entorhinal cortex,Female,21,44,ent,-0.8572180357255128,72,7,zscore
+BulkSeq_ent_45,hahn,GSM6527361,Entorhinal cortex,Female,3,45,ent,-1.3674452361673044,72,7,zscore
+BulkSeq_ent_46,hahn,GSM6527362,Entorhinal cortex,Female,15,46,ent,-0.7553692219945651,72,7,zscore
+BulkSeq_ent_47,hahn,GSM6527363,Entorhinal cortex,Female,18,47,ent,0.007919114987461617,72,7,zscore
+BulkSeq_ent_48,hahn,GSM6527365,Entorhinal cortex,Female,21,48,ent,0.043364925886476946,72,7,zscore
+BulkSeq_ent_49,hahn,GSM6527366,Entorhinal cortex,Female,3,49,ent,-1.619574388640081,72,7,zscore
+BulkSeq_ent_5,hahn,GSM6527367,Entorhinal cortex,Male,26,5,ent,0.6892445116813867,72,7,zscore
+BulkSeq_ent_50,hahn,GSM6527368,Entorhinal cortex,Female,15,50,ent,-0.39211725547368126,72,7,zscore
+BulkSeq_ent_51,hahn,GSM6527369,Entorhinal cortex,Female,18,51,ent,0.8401358502035675,72,7,zscore
+BulkSeq_ent_52,hahn,GSM6527371,Entorhinal cortex,Female,21,52,ent,1.71913912924504,72,7,zscore
+BulkSeq_ent_53,hahn,GSM6527372,Entorhinal cortex,Female,3,53,ent,-1.264242884247245,72,7,zscore
+BulkSeq_ent_54,hahn,GSM6527373,Entorhinal cortex,Female,15,54,ent,1.2510315147175215,72,7,zscore
+BulkSeq_ent_55,hahn,GSM6527374,Entorhinal cortex,Female,18,55,ent,-0.15386517965154953,72,7,zscore
+BulkSeq_ent_56,hahn,GSM6527375,Entorhinal cortex,Female,21,56,ent,0.22659407278505475,72,7,zscore
+BulkSeq_ent_57,hahn,GSM6527377,Entorhinal cortex,Male,28,57,ent,0.5257726732353183,72,7,zscore
+BulkSeq_ent_58,hahn,GSM6527378,Entorhinal cortex,Male,28,58,ent,1.0230333472897537,72,7,zscore
+BulkSeq_ent_59,hahn,GSM6527379,Entorhinal cortex,Male,28,59,ent,0.94801137254852,72,7,zscore
+BulkSeq_ent_7,hahn,GSM6527380,Entorhinal cortex,Female,12,7,ent,-0.3099400993612686,72,7,zscore
+BulkSeq_ent_8,hahn,GSM6527381,Entorhinal cortex,Male,26,8,ent,0.034416382355265715,72,7,zscore
+BulkSeq_ent_9,hahn,GSM6527382,Entorhinal cortex,Male,12,9,ent,0.05786922861465804,72,7,zscore
+BulkSeq_hi_1,hahn,GSM6527452,Hippocampus (anterior),Female,12,1,hi,-1.049579797083262,68,7,zscore
+BulkSeq_hi_10,hahn,GSM6527453,Hippocampus (anterior),Female,12,10,hi,-0.7182886770380075,68,7,zscore
+BulkSeq_hi_11,hahn,GSM6527455,Hippocampus (anterior),Male,26,11,hi,2.198070509682605,68,7,zscore
+BulkSeq_hi_12,hahn,GSM6527456,Hippocampus (anterior),Male,12,12,hi,-0.6368817235533337,68,7,zscore
+BulkSeq_hi_13,hahn,GSM6527457,Hippocampus (anterior),Female,12,13,hi,-1.354106106349802,68,7,zscore
+BulkSeq_hi_14,hahn,GSM6527458,Hippocampus (anterior),Male,26,14,hi,1.7755680382432277,68,7,zscore
+BulkSeq_hi_15,hahn,GSM6527459,Hippocampus (anterior),Male,12,15,hi,-1.4460583722056992,68,7,zscore
+BulkSeq_hi_16,hahn,GSM6527460,Hippocampus (anterior),Male,21,16,hi,1.2452693784448134,68,7,zscore
+BulkSeq_hi_17,hahn,GSM6527462,Hippocampus (anterior),Male,3,17,hi,-3.255476941814095,68,7,zscore
+BulkSeq_hi_18,hahn,GSM6527463,Hippocampus (anterior),Male,15,18,hi,-0.3715096049867151,68,7,zscore
+BulkSeq_hi_19,hahn,GSM6527464,Hippocampus (anterior),Male,18,19,hi,0.35750112709451276,68,7,zscore
+BulkSeq_hi_2,hahn,GSM6527465,Hippocampus (anterior),Male,26,2,hi,1.2913126702444,68,7,zscore
+BulkSeq_hi_20,hahn,GSM6527466,Hippocampus (anterior),Male,21,20,hi,0.9799303556150603,68,7,zscore
+BulkSeq_hi_21,hahn,GSM6527467,Hippocampus (anterior),Male,3,21,hi,-1.941908124321345,68,7,zscore
+BulkSeq_hi_22,hahn,GSM6527469,Hippocampus (anterior),Male,15,22,hi,-1.0584204127750123,68,7,zscore
+BulkSeq_hi_23,hahn,GSM6527470,Hippocampus (anterior),Male,18,23,hi,0.7925789749146346,68,7,zscore
+BulkSeq_hi_24,hahn,GSM6527471,Hippocampus (anterior),Male,21,24,hi,0.6365251240620521,68,7,zscore
+BulkSeq_hi_25,hahn,GSM6527472,Hippocampus (anterior),Male,3,25,hi,-2.931285830097042,68,7,zscore
+BulkSeq_hi_26,hahn,GSM6527473,Hippocampus (anterior),Male,15,26,hi,-1.4304111310007128,68,7,zscore
+BulkSeq_hi_27,hahn,GSM6527475,Hippocampus (anterior),Male,18,27,hi,0.4234954461136772,68,7,zscore
+BulkSeq_hi_28,hahn,GSM6527476,Hippocampus (anterior),Male,21,28,hi,1.261340336068929,68,7,zscore
+BulkSeq_hi_29,hahn,GSM6527477,Hippocampus (anterior),Male,3,29,hi,-2.1334339626809364,68,7,zscore
+BulkSeq_hi_30,hahn,GSM6527478,Hippocampus (anterior),Male,15,30,hi,0.19185568306032036,68,7,zscore
+BulkSeq_hi_31,hahn,GSM6527479,Hippocampus (anterior),Male,18,31,hi,0.8281872325494619,68,7,zscore
+BulkSeq_hi_32,hahn,GSM6527481,Hippocampus (anterior),Male,21,32,hi,1.1805408239654709,68,7,zscore
+BulkSeq_hi_33,hahn,GSM6527482,Hippocampus (anterior),Male,3,33,hi,-2.5363442328651535,68,7,zscore
+BulkSeq_hi_34,hahn,GSM6527483,Hippocampus (anterior),Male,15,34,hi,-1.1115045180221332,68,7,zscore
+BulkSeq_hi_35,hahn,GSM6527484,Hippocampus (anterior),Male,18,35,hi,1.240891810910087,68,7,zscore
+BulkSeq_hi_36,hahn,GSM6527486,Hippocampus (anterior),Male,21,36,hi,1.5324840953666332,68,7,zscore
+BulkSeq_hi_37,hahn,GSM6527487,Hippocampus (anterior),Female,3,37,hi,-1.9654573581365185,68,7,zscore
+BulkSeq_hi_38,hahn,GSM6527488,Hippocampus (anterior),Female,15,38,hi,-0.852183771155884,68,7,zscore
+BulkSeq_hi_39,hahn,GSM6527489,Hippocampus (anterior),Female,18,39,hi,0.5947940649991331,68,7,zscore
+BulkSeq_hi_4,hahn,GSM6527490,Hippocampus (anterior),Female,12,4,hi,-0.7088251117663387,68,7,zscore
+BulkSeq_hi_40,hahn,GSM6527491,Hippocampus (anterior),Female,21,40,hi,1.1787564081640634,68,7,zscore
+BulkSeq_hi_41,hahn,GSM6527493,Hippocampus (anterior),Female,3,41,hi,-1.1420887577137795,68,7,zscore
+BulkSeq_hi_43,hahn,GSM6527494,Hippocampus (anterior),Female,18,43,hi,0.4103841533574276,68,7,zscore
+BulkSeq_hi_44,hahn,GSM6527495,Hippocampus (anterior),Female,21,44,hi,-0.04090634460579634,68,7,zscore
+BulkSeq_hi_45,hahn,GSM6527496,Hippocampus (anterior),Female,3,45,hi,-1.8136910501135661,68,7,zscore
+BulkSeq_hi_46,hahn,GSM6527497,Hippocampus (anterior),Female,15,46,hi,0.2847561409164469,68,7,zscore
+BulkSeq_hi_47,hahn,GSM6527498,Hippocampus (anterior),Female,18,47,hi,0.5668804710658548,68,7,zscore
+BulkSeq_hi_48,hahn,GSM6527500,Hippocampus (anterior),Female,21,48,hi,1.0894016209288881,68,7,zscore
+BulkSeq_hi_49,hahn,GSM6527501,Hippocampus (anterior),Female,3,49,hi,-1.1055159356194268,68,7,zscore
+BulkSeq_hi_5,hahn,GSM6527502,Hippocampus (anterior),Male,26,5,hi,2.1611310361710654,68,7,zscore
+BulkSeq_hi_50,hahn,GSM6527503,Hippocampus (anterior),Female,15,50,hi,0.806481242746032,68,7,zscore
+BulkSeq_hi_51,hahn,GSM6527504,Hippocampus (anterior),Female,18,51,hi,1.4821482295614636,68,7,zscore
+BulkSeq_hi_52,hahn,GSM6527505,Hippocampus (anterior),Female,21,52,hi,0.9705345057171173,68,7,zscore
+BulkSeq_hi_53,hahn,GSM6527507,Hippocampus (anterior),Female,3,53,hi,-1.1241659414724006,68,7,zscore
+BulkSeq_hi_54,hahn,GSM6527508,Hippocampus (anterior),Female,15,54,hi,-0.12850695421261882,68,7,zscore
+BulkSeq_hi_55,hahn,GSM6527509,Hippocampus (anterior),Female,18,55,hi,0.1483201734272527,68,7,zscore
+BulkSeq_hi_56,hahn,GSM6527510,Hippocampus (anterior),Female,21,56,hi,0.8179764923916704,68,7,zscore
+BulkSeq_hi_57,hahn,GSM6527511,Hippocampus (anterior),Male,28,57,hi,2.37192399032511,68,7,zscore
+BulkSeq_hi_58,hahn,GSM6527513,Hippocampus (anterior),Male,28,58,hi,2.2523349984946757,68,7,zscore
+BulkSeq_hi_59,hahn,GSM6527514,Hippocampus (anterior),Male,28,59,hi,2.6809902464457505,68,7,zscore
+BulkSeq_hi_6,hahn,GSM6527515,Hippocampus (anterior),Male,12,6,hi,-0.32930628380439886,68,7,zscore
+BulkSeq_hi_7,hahn,GSM6527516,Hippocampus (anterior),Female,12,7,hi,-1.2571267316352117,68,7,zscore
+BulkSeq_hi_8,hahn,GSM6527517,Hippocampus (anterior),Male,26,8,hi,0.0360285207207246,68,7,zscore
+BulkSeq_hi_9,hahn,GSM6527519,Hippocampus (anterior),Male,12,9,hi,-1.345410226739303,68,7,zscore
+BulkSeq_hi2_1,hahn,GSM6527384,Hippocampus (posterior),Female,12,1,hi2,-1.1261567636025074,67,7,zscore
+BulkSeq_hi2_10,hahn,GSM6527385,Hippocampus (posterior),Female,12,10,hi2,0.06780946206106397,67,7,zscore
+BulkSeq_hi2_11,hahn,GSM6527386,Hippocampus (posterior),Male,26,11,hi2,1.4750800628399112,67,7,zscore
+BulkSeq_hi2_12,hahn,GSM6527387,Hippocampus (posterior),Male,12,12,hi2,-0.28677986653170107,67,7,zscore
+BulkSeq_hi2_13,hahn,GSM6527388,Hippocampus (posterior),Female,12,13,hi2,-1.17898887069507,67,7,zscore
+BulkSeq_hi2_14,hahn,GSM6527389,Hippocampus (posterior),Male,26,14,hi2,1.8606553208719905,67,7,zscore
+BulkSeq_hi2_15,hahn,GSM6527391,Hippocampus (posterior),Male,12,15,hi2,-0.8031766823647087,67,7,zscore
+BulkSeq_hi2_16,hahn,GSM6527392,Hippocampus (posterior),Male,21,16,hi2,0.9683743828852007,67,7,zscore
+BulkSeq_hi2_17,hahn,GSM6527393,Hippocampus (posterior),Male,3,17,hi2,-2.912044935248684,67,7,zscore
+BulkSeq_hi2_18,hahn,GSM6527394,Hippocampus (posterior),Male,15,18,hi2,-0.3122350320841659,67,7,zscore
+BulkSeq_hi2_19,hahn,GSM6527395,Hippocampus (posterior),Male,18,19,hi2,0.42509290097884656,67,7,zscore
+BulkSeq_hi2_2,hahn,GSM6527396,Hippocampus (posterior),Male,26,2,hi2,0.5153942661612563,67,7,zscore
+BulkSeq_hi2_20,hahn,GSM6527398,Hippocampus (posterior),Male,21,20,hi2,1.6594893535968127,67,7,zscore
+BulkSeq_hi2_21,hahn,GSM6527399,Hippocampus (posterior),Male,3,21,hi2,-1.2474267474091958,67,7,zscore
+BulkSeq_hi2_22,hahn,GSM6527400,Hippocampus (posterior),Male,15,22,hi2,-0.5551843967707136,67,7,zscore
+BulkSeq_hi2_23,hahn,GSM6527401,Hippocampus (posterior),Male,18,23,hi2,0.46003182344942084,67,7,zscore
+BulkSeq_hi2_24,hahn,GSM6527402,Hippocampus (posterior),Male,21,24,hi2,1.110532029930937,67,7,zscore
+BulkSeq_hi2_25,hahn,GSM6527404,Hippocampus (posterior),Male,3,25,hi2,-2.7919008769693123,67,7,zscore
+BulkSeq_hi2_26,hahn,GSM6527405,Hippocampus (posterior),Male,15,26,hi2,-0.7248474006504932,67,7,zscore
+BulkSeq_hi2_27,hahn,GSM6527406,Hippocampus (posterior),Male,18,27,hi2,0.06070553030648569,67,7,zscore
+BulkSeq_hi2_28,hahn,GSM6527407,Hippocampus (posterior),Male,21,28,hi2,0.7284500957270118,67,7,zscore
+BulkSeq_hi2_29,hahn,GSM6527408,Hippocampus (posterior),Male,3,29,hi2,-1.9158818685203602,67,7,zscore
+BulkSeq_hi2_3,hahn,GSM6527410,Hippocampus (posterior),Male,12,3,hi2,-0.9731446754141644,67,7,zscore
+BulkSeq_hi2_30,hahn,GSM6527411,Hippocampus (posterior),Male,15,30,hi2,-0.08844021970905659,67,7,zscore
+BulkSeq_hi2_31,hahn,GSM6527412,Hippocampus (posterior),Male,18,31,hi2,0.4630347142001421,67,7,zscore
+BulkSeq_hi2_32,hahn,GSM6527413,Hippocampus (posterior),Male,21,32,hi2,0.6940165418731448,67,7,zscore
+BulkSeq_hi2_33,hahn,GSM6527414,Hippocampus (posterior),Male,3,33,hi2,-2.0604597201110426,67,7,zscore
+BulkSeq_hi2_34,hahn,GSM6527416,Hippocampus (posterior),Male,15,34,hi2,-1.1106578913712366,67,7,zscore
+BulkSeq_hi2_35,hahn,GSM6527417,Hippocampus (posterior),Male,18,35,hi2,0.6809047218699791,67,7,zscore
+BulkSeq_hi2_36,hahn,GSM6527418,Hippocampus (posterior),Male,21,36,hi2,1.7188779433757695,67,7,zscore
+BulkSeq_hi2_37,hahn,GSM6527419,Hippocampus (posterior),Female,3,37,hi2,-1.4932010060160508,67,7,zscore
+BulkSeq_hi2_38,hahn,GSM6527420,Hippocampus (posterior),Female,15,38,hi2,-0.6999398099752108,67,7,zscore
+BulkSeq_hi2_39,hahn,GSM6527421,Hippocampus (posterior),Female,18,39,hi2,1.0651987232439084,67,7,zscore
+BulkSeq_hi2_4,hahn,GSM6527423,Hippocampus (posterior),Female,12,4,hi2,-0.3207675663662436,67,7,zscore
+BulkSeq_hi2_40,hahn,GSM6527424,Hippocampus (posterior),Female,21,40,hi2,1.1336400592201543,67,7,zscore
+BulkSeq_hi2_41,hahn,GSM6527425,Hippocampus (posterior),Female,3,41,hi2,-1.6193815426844065,67,7,zscore
+BulkSeq_hi2_42,hahn,GSM6527426,Hippocampus (posterior),Female,15,42,hi2,0.5703412096925348,67,7,zscore
+BulkSeq_hi2_43,hahn,GSM6527427,Hippocampus (posterior),Female,18,43,hi2,0.07367747972487096,67,7,zscore
+BulkSeq_hi2_44,hahn,GSM6527428,Hippocampus (posterior),Female,21,44,hi2,0.22197617223063515,67,7,zscore
+BulkSeq_hi2_45,hahn,GSM6527430,Hippocampus (posterior),Female,3,45,hi2,-1.3069231636900542,67,7,zscore
+BulkSeq_hi2_46,hahn,GSM6527431,Hippocampus (posterior),Female,15,46,hi2,-0.10982753513353191,67,7,zscore
+BulkSeq_hi2_47,hahn,GSM6527432,Hippocampus (posterior),Female,18,47,hi2,0.9341096074592602,67,7,zscore
+BulkSeq_hi2_49,hahn,GSM6527433,Hippocampus (posterior),Female,3,49,hi2,-1.9193505413592762,67,7,zscore
+BulkSeq_hi2_5,hahn,GSM6527434,Hippocampus (posterior),Male,26,5,hi2,2.184395444538792,67,7,zscore
+BulkSeq_hi2_50,hahn,GSM6527436,Hippocampus (posterior),Female,15,50,hi2,0.353648416668847,67,7,zscore
+BulkSeq_hi2_51,hahn,GSM6527437,Hippocampus (posterior),Female,18,51,hi2,0.9535496014418797,67,7,zscore
+BulkSeq_hi2_52,hahn,GSM6527438,Hippocampus (posterior),Female,21,52,hi2,1.0807249657981433,67,7,zscore
+BulkSeq_hi2_53,hahn,GSM6527439,Hippocampus (posterior),Female,3,53,hi2,-1.6803582736725902,67,7,zscore
+BulkSeq_hi2_54,hahn,GSM6527440,Hippocampus (posterior),Female,15,54,hi2,0.12806894250356762,67,7,zscore
+BulkSeq_hi2_55,hahn,GSM6527442,Hippocampus (posterior),Female,18,55,hi2,0.7560557530451005,67,7,zscore
+BulkSeq_hi2_56,hahn,GSM6527443,Hippocampus (posterior),Female,21,56,hi2,0.6954466708609777,67,7,zscore
+BulkSeq_hi2_57,hahn,GSM6527444,Hippocampus (posterior),Male,28,57,hi2,2.108530444589965,67,7,zscore
+BulkSeq_hi2_58,hahn,GSM6527445,Hippocampus (posterior),Male,28,58,hi2,1.8386922015541347,67,7,zscore
+BulkSeq_hi2_59,hahn,GSM6527446,Hippocampus (posterior),Male,28,59,hi2,3.1785437981540823,67,7,zscore
+BulkSeq_hi2_6,hahn,GSM6527448,Hippocampus (posterior),Male,12,6,hi2,-0.6794113766651125,67,7,zscore
+BulkSeq_hi2_7,hahn,GSM6527449,Hippocampus (posterior),Female,12,7,hi2,-1.7815885072226485,67,7,zscore
+BulkSeq_hi2_8,hahn,GSM6527450,Hippocampus (posterior),Male,26,8,hi2,0.7855300432926471,67,7,zscore
+BulkSeq_hi2_9,hahn,GSM6527451,Hippocampus (posterior),Male,12,9,hi2,-1.2525034139101456,67,7,zscore
+BulkSeq_hy_1,hahn,GSM6527520,Hypothalamus,Female,12,1,hy,-1.2098296717402655,69,7,zscore
+BulkSeq_hy_10,hahn,GSM6527521,Hypothalamus,Female,12,10,hy,-0.6043582284147805,69,7,zscore
+BulkSeq_hy_11,hahn,GSM6527522,Hypothalamus,Male,26,11,hy,1.9227521608537295,69,7,zscore
+BulkSeq_hy_12,hahn,GSM6527523,Hypothalamus,Male,12,12,hy,-0.05506183307503431,69,7,zscore
+BulkSeq_hy_14,hahn,GSM6527524,Hypothalamus,Male,26,14,hy,1.7174996953445374,69,7,zscore
+BulkSeq_hy_15,hahn,GSM6527525,Hypothalamus,Male,12,15,hy,-1.384470977462092,69,7,zscore
+BulkSeq_hy_16,hahn,GSM6527527,Hypothalamus,Male,21,16,hy,0.9179982373105704,69,7,zscore
+BulkSeq_hy_17,hahn,GSM6527528,Hypothalamus,Male,3,17,hy,-2.9214356873244043,69,7,zscore
+BulkSeq_hy_18,hahn,GSM6527529,Hypothalamus,Male,15,18,hy,-0.7317408022547878,69,7,zscore
+BulkSeq_hy_19,hahn,GSM6527530,Hypothalamus,Male,18,19,hy,0.31551618400166853,69,7,zscore
+BulkSeq_hy_2,hahn,GSM6527531,Hypothalamus,Male,26,2,hy,1.1801065807182458,69,7,zscore
+BulkSeq_hy_20,hahn,GSM6527532,Hypothalamus,Male,21,20,hy,0.7381366498517681,69,7,zscore
+BulkSeq_hy_21,hahn,GSM6527534,Hypothalamus,Male,3,21,hy,-1.2096867290053912,69,7,zscore
+BulkSeq_hy_22,hahn,GSM6527535,Hypothalamus,Male,15,22,hy,-1.8176859819626234,69,7,zscore
+BulkSeq_hy_23,hahn,GSM6527536,Hypothalamus,Male,18,23,hy,0.5562528246963803,69,7,zscore
+BulkSeq_hy_24,hahn,GSM6527537,Hypothalamus,Male,21,24,hy,0.3745515604573869,69,7,zscore
+BulkSeq_hy_25,hahn,GSM6527538,Hypothalamus,Male,3,25,hy,-2.5765309338314273,69,7,zscore
+BulkSeq_hy_26,hahn,GSM6527539,Hypothalamus,Male,15,26,hy,-1.1904462173349728,69,7,zscore
+BulkSeq_hy_27,hahn,GSM6527541,Hypothalamus,Male,18,27,hy,0.9856821068264845,69,7,zscore
+BulkSeq_hy_28,hahn,GSM6527542,Hypothalamus,Male,21,28,hy,0.5228967356244449,69,7,zscore
+BulkSeq_hy_3,hahn,GSM6527543,Hypothalamus,Male,12,3,hy,-1.2758283729316946,69,7,zscore
+BulkSeq_hy_30,hahn,GSM6527544,Hypothalamus,Male,15,30,hy,0.5791355493706244,69,7,zscore
+BulkSeq_hy_31,hahn,GSM6527545,Hypothalamus,Male,18,31,hy,1.2438320643116123,69,7,zscore
+BulkSeq_hy_32,hahn,GSM6527547,Hypothalamus,Male,21,32,hy,0.6981770823311878,69,7,zscore
+BulkSeq_hy_33,hahn,GSM6527548,Hypothalamus,Male,3,33,hy,-2.516406628962662,69,7,zscore
+BulkSeq_hy_34,hahn,GSM6527549,Hypothalamus,Male,15,34,hy,-1.3335432783184484,69,7,zscore
+BulkSeq_hy_35,hahn,GSM6527550,Hypothalamus,Male,18,35,hy,0.7817269645781333,69,7,zscore
+BulkSeq_hy_36,hahn,GSM6527551,Hypothalamus,Male,21,36,hy,1.1911650291749973,69,7,zscore
+BulkSeq_hy_37,hahn,GSM6527553,Hypothalamus,Female,3,37,hy,-1.95956600837489,69,7,zscore
+BulkSeq_hy_38,hahn,GSM6527554,Hypothalamus,Female,15,38,hy,0.3242435885094146,69,7,zscore
+BulkSeq_hy_39,hahn,GSM6527555,Hypothalamus,Female,18,39,hy,0.6639868322548623,69,7,zscore
+BulkSeq_hy_4,hahn,GSM6527556,Hypothalamus,Female,12,4,hy,0.20027296227578495,69,7,zscore
+BulkSeq_hy_40,hahn,GSM6527557,Hypothalamus,Female,21,40,hy,1.2096687284766254,69,7,zscore
+BulkSeq_hy_41,hahn,GSM6527558,Hypothalamus,Female,3,41,hy,-1.386804029175749,69,7,zscore
+BulkSeq_hy_42,hahn,GSM6527560,Hypothalamus,Female,15,42,hy,1.335410024445852,69,7,zscore
+BulkSeq_hy_43,hahn,GSM6527561,Hypothalamus,Female,18,43,hy,0.2637644769796306,69,7,zscore
+BulkSeq_hy_44,hahn,GSM6527562,Hypothalamus,Female,21,44,hy,-0.013382876163780089,69,7,zscore
+BulkSeq_hy_45,hahn,GSM6527563,Hypothalamus,Female,3,45,hy,-1.7598731767541609,69,7,zscore
+BulkSeq_hy_46,hahn,GSM6527564,Hypothalamus,Female,15,46,hy,-0.3821009246826006,69,7,zscore
+BulkSeq_hy_47,hahn,GSM6527565,Hypothalamus,Female,18,47,hy,0.9939234156272994,69,7,zscore
+BulkSeq_hy_48,hahn,GSM6527567,Hypothalamus,Female,21,48,hy,0.7978593061232326,69,7,zscore
+BulkSeq_hy_49,hahn,GSM6527568,Hypothalamus,Female,3,49,hy,-1.9356229103462137,69,7,zscore
+BulkSeq_hy_50,hahn,GSM6527569,Hypothalamus,Female,15,50,hy,0.72273674875036,69,7,zscore
+BulkSeq_hy_51,hahn,GSM6527570,Hypothalamus,Female,18,51,hy,0.5695238461669108,69,7,zscore
+BulkSeq_hy_52,hahn,GSM6527571,Hypothalamus,Female,21,52,hy,1.426876991965069,69,7,zscore
+BulkSeq_hy_53,hahn,GSM6527572,Hypothalamus,Female,3,53,hy,-1.7178640690224687,69,7,zscore
+BulkSeq_hy_54,hahn,GSM6527574,Hypothalamus,Female,15,54,hy,0.46757268573862676,69,7,zscore
+BulkSeq_hy_55,hahn,GSM6527575,Hypothalamus,Female,18,55,hy,0.4195833299531547,69,7,zscore
+BulkSeq_hy_56,hahn,GSM6527576,Hypothalamus,Female,21,56,hy,1.6531033068174033,69,7,zscore
+BulkSeq_hy_57,hahn,GSM6527577,Hypothalamus,Male,28,57,hy,2.03193498375295,69,7,zscore
+BulkSeq_hy_58,hahn,GSM6527578,Hypothalamus,Male,28,58,hy,2.3638846036408467,69,7,zscore
+BulkSeq_hy_6,hahn,GSM6527580,Hypothalamus,Male,12,6,hy,0.2694029324620578,69,7,zscore
+BulkSeq_hy_7,hahn,GSM6527581,Hypothalamus,Female,12,7,hy,-1.077635576776575,69,7,zscore
+BulkSeq_hy_8,hahn,GSM6527582,Hypothalamus,Male,26,8,hy,0.4891571751518385,69,7,zscore
+BulkSeq_hy_9,hahn,GSM6527583,Hypothalamus,Male,12,9,hy,-0.868460450628686,69,7,zscore
+BulkSeq_med_1,hahn,GSM6527584,Medulla,Female,12,1,med,-0.7167181663874491,75,7,zscore
+BulkSeq_med_10,hahn,GSM6527586,Medulla,Female,12,10,med,-0.9120575767191867,75,7,zscore
+BulkSeq_med_11,hahn,GSM6527587,Medulla,Male,26,11,med,1.9092105863560775,75,7,zscore
+BulkSeq_med_12,hahn,GSM6527588,Medulla,Male,12,12,med,-0.003215264036255938,75,7,zscore
+BulkSeq_med_13,hahn,GSM6527589,Medulla,Female,12,13,med,-0.7420362847604279,75,7,zscore
+BulkSeq_med_14,hahn,GSM6527590,Medulla,Male,26,14,med,1.901396407937538,75,7,zscore
+BulkSeq_med_15,hahn,GSM6527592,Medulla,Male,12,15,med,-1.0329372914874113,75,7,zscore
+BulkSeq_med_16,hahn,GSM6527593,Medulla,Male,21,16,med,0.8580537704688489,75,7,zscore
+BulkSeq_med_17,hahn,GSM6527594,Medulla,Male,3,17,med,-3.520817678407476,75,7,zscore
+BulkSeq_med_18,hahn,GSM6527595,Medulla,Male,15,18,med,-0.23634078786077556,75,7,zscore
+BulkSeq_med_19,hahn,GSM6527596,Medulla,Male,18,19,med,1.005272230225684,75,7,zscore
+BulkSeq_med_2,hahn,GSM6527597,Medulla,Male,26,2,med,1.7454812835444389,75,7,zscore
+BulkSeq_med_20,hahn,GSM6527599,Medulla,Male,21,20,med,0.8109955432390472,75,7,zscore
+BulkSeq_med_21,hahn,GSM6527600,Medulla,Male,3,21,med,-1.7517839398281785,75,7,zscore
+BulkSeq_med_22,hahn,GSM6527601,Medulla,Male,15,22,med,-0.7814158633099998,75,7,zscore
+BulkSeq_med_23,hahn,GSM6527602,Medulla,Male,18,23,med,0.7330119047881773,75,7,zscore
+BulkSeq_med_24,hahn,GSM6527603,Medulla,Male,21,24,med,0.9516651771712324,75,7,zscore
+BulkSeq_med_25,hahn,GSM6527604,Medulla,Male,3,25,med,-3.33131277931987,75,7,zscore
+BulkSeq_med_26,hahn,GSM6527606,Medulla,Male,15,26,med,-1.1595527227429772,75,7,zscore
+BulkSeq_med_27,hahn,GSM6527607,Medulla,Male,18,27,med,0.5122769454033326,75,7,zscore
+BulkSeq_med_28,hahn,GSM6527608,Medulla,Male,21,28,med,1.2557611667388675,75,7,zscore
+BulkSeq_med_29,hahn,GSM6527609,Medulla,Male,3,29,med,-1.5664255750868175,75,7,zscore
+BulkSeq_med_3,hahn,GSM6527610,Medulla,Male,12,3,med,-1.2497649795225847,75,7,zscore
+BulkSeq_med_30,hahn,GSM6527611,Medulla,Male,15,30,med,-0.9685286723023622,75,7,zscore
+BulkSeq_med_31,hahn,GSM6527613,Medulla,Male,18,31,med,0.12698940305583234,75,7,zscore
+BulkSeq_med_32,hahn,GSM6527614,Medulla,Male,21,32,med,1.1810668482958178,75,7,zscore
+BulkSeq_med_33,hahn,GSM6527615,Medulla,Male,3,33,med,-2.860339731085134,75,7,zscore
+BulkSeq_med_34,hahn,GSM6527616,Medulla,Male,15,34,med,-0.437561163450475,75,7,zscore
+BulkSeq_med_35,hahn,GSM6527617,Medulla,Male,18,35,med,1.3319368109430987,75,7,zscore
+BulkSeq_med_36,hahn,GSM6527619,Medulla,Male,21,36,med,1.8062386516094489,75,7,zscore
+BulkSeq_med_37,hahn,GSM6527620,Medulla,Female,3,37,med,-2.441669003822292,75,7,zscore
+BulkSeq_med_38,hahn,GSM6527621,Medulla,Female,15,38,med,-0.3005033653484351,75,7,zscore
+BulkSeq_med_39,hahn,GSM6527622,Medulla,Female,18,39,med,0.9312733703405536,75,7,zscore
+BulkSeq_med_40,hahn,GSM6527623,Medulla,Female,21,40,med,1.127459340950379,75,7,zscore
+BulkSeq_med_41,hahn,GSM6527625,Medulla,Female,3,41,med,-1.6439609765300427,75,7,zscore
+BulkSeq_med_42,hahn,GSM6527626,Medulla,Female,15,42,med,0.7286376687714972,75,7,zscore
+BulkSeq_med_43,hahn,GSM6527627,Medulla,Female,18,43,med,-0.0926425272031487,75,7,zscore
+BulkSeq_med_44,hahn,GSM6527628,Medulla,Female,21,44,med,0.8576035171074248,75,7,zscore
+BulkSeq_med_45,hahn,GSM6527629,Medulla,Female,3,45,med,-1.3544078379225546,75,7,zscore
+BulkSeq_med_46,hahn,GSM6527631,Medulla,Female,15,46,med,0.19406040541840333,75,7,zscore
+BulkSeq_med_47,hahn,GSM6527632,Medulla,Female,18,47,med,1.445726658868448,75,7,zscore
+BulkSeq_med_48,hahn,GSM6527633,Medulla,Female,21,48,med,0.9822121414751901,75,7,zscore
+BulkSeq_med_49,hahn,GSM6527634,Medulla,Female,3,49,med,-2.024494485635833,75,7,zscore
+BulkSeq_med_5,hahn,GSM6527635,Medulla,Male,26,5,med,1.7172777879586265,75,7,zscore
+BulkSeq_med_50,hahn,GSM6527636,Medulla,Female,15,50,med,0.5201121171824894,75,7,zscore
+BulkSeq_med_51,hahn,GSM6527638,Medulla,Female,18,51,med,0.15892273783953914,75,7,zscore
+BulkSeq_med_52,hahn,GSM6527639,Medulla,Female,21,52,med,1.0341062724827172,75,7,zscore
+BulkSeq_med_53,hahn,GSM6527640,Medulla,Female,3,53,med,-1.3978254210152956,75,7,zscore
+BulkSeq_med_54,hahn,GSM6527641,Medulla,Female,15,54,med,-0.3321340664054176,75,7,zscore
+BulkSeq_med_55,hahn,GSM6527642,Medulla,Female,18,55,med,0.40035908022334227,75,7,zscore
+BulkSeq_med_56,hahn,GSM6527643,Medulla,Female,21,56,med,0.9941320929024157,75,7,zscore
+BulkSeq_med_57,hahn,GSM6527645,Medulla,Male,28,57,med,2.151511247502828,75,7,zscore
+BulkSeq_med_58,hahn,GSM6527646,Medulla,Male,28,58,med,1.8558491762926437,75,7,zscore
+BulkSeq_med_59,hahn,GSM6527647,Medulla,Male,28,59,med,1.7161565161628451,75,7,zscore
+BulkSeq_med_6,hahn,GSM6527648,Medulla,Male,12,6,med,-0.5757773850660879,75,7,zscore
+BulkSeq_med_7,hahn,GSM6527649,Medulla,Female,12,7,med,-1.257187952170221,75,7,zscore
+BulkSeq_med_8,hahn,GSM6527650,Medulla,Male,26,8,med,0.8480215215183315,75,7,zscore
+BulkSeq_med_9,hahn,GSM6527652,Medulla,Male,12,9,med,-1.1013668853482974,75,7,zscore
+BulkSeq_olf_1,hahn,GSM6527653,Olfactory bulb,Female,12,1,olf,-0.4772577071202369,68,7,zscore
+BulkSeq_olf_10,hahn,GSM6527654,Olfactory bulb,Female,12,10,olf,-0.6875623184974623,68,7,zscore
+BulkSeq_olf_11,hahn,GSM6527655,Olfactory bulb,Male,26,11,olf,2.314935301239173,68,7,zscore
+BulkSeq_olf_12,hahn,GSM6527656,Olfactory bulb,Male,12,12,olf,-0.3978053349228956,68,7,zscore
+BulkSeq_olf_13,hahn,GSM6527658,Olfactory bulb,Female,12,13,olf,-1.5959849333219176,68,7,zscore
+BulkSeq_olf_14,hahn,GSM6527659,Olfactory bulb,Male,26,14,olf,1.5399770843054954,68,7,zscore
+BulkSeq_olf_15,hahn,GSM6527660,Olfactory bulb,Male,12,15,olf,-1.1860832474808418,68,7,zscore
+BulkSeq_olf_16,hahn,GSM6527661,Olfactory bulb,Male,21,16,olf,0.6876667204453369,68,7,zscore
+BulkSeq_olf_17,hahn,GSM6527662,Olfactory bulb,Male,3,17,olf,-3.5505621941153347,68,7,zscore
+BulkSeq_olf_18,hahn,GSM6527664,Olfactory bulb,Male,15,18,olf,-0.5440463100173377,68,7,zscore
+BulkSeq_olf_19,hahn,GSM6527665,Olfactory bulb,Male,18,19,olf,0.45670353396520946,68,7,zscore
+BulkSeq_olf_2,hahn,GSM6527666,Olfactory bulb,Male,26,2,olf,0.3552319714591099,68,7,zscore
+BulkSeq_olf_20,hahn,GSM6527667,Olfactory bulb,Male,21,20,olf,0.843750485209777,68,7,zscore
+BulkSeq_olf_21,hahn,GSM6527668,Olfactory bulb,Male,3,21,olf,-0.7018366949473064,68,7,zscore
+BulkSeq_olf_22,hahn,GSM6527670,Olfactory bulb,Male,15,22,olf,-1.614576733533504,68,7,zscore
+BulkSeq_olf_23,hahn,GSM6527671,Olfactory bulb,Male,18,23,olf,0.23951589193192108,68,7,zscore
+BulkSeq_olf_24,hahn,GSM6527672,Olfactory bulb,Male,21,24,olf,0.8624740697022085,68,7,zscore
+BulkSeq_olf_25,hahn,GSM6527673,Olfactory bulb,Male,3,25,olf,-3.022859763050412,68,7,zscore
+BulkSeq_olf_26,hahn,GSM6527674,Olfactory bulb,Male,15,26,olf,-1.2016843062457296,68,7,zscore
+BulkSeq_olf_27,hahn,GSM6527675,Olfactory bulb,Male,18,27,olf,0.1665391369601224,68,7,zscore
+BulkSeq_olf_28,hahn,GSM6527677,Olfactory bulb,Male,21,28,olf,1.1588547350108902,68,7,zscore
+BulkSeq_olf_29,hahn,GSM6527678,Olfactory bulb,Male,3,29,olf,-1.1104706407122658,68,7,zscore
+BulkSeq_olf_3,hahn,GSM6527679,Olfactory bulb,Male,12,3,olf,-1.0542019575424348,68,7,zscore
+BulkSeq_olf_30,hahn,GSM6527680,Olfactory bulb,Male,15,30,olf,0.16132220453836935,68,7,zscore
+BulkSeq_olf_31,hahn,GSM6527681,Olfactory bulb,Male,18,31,olf,0.5919918429323223,68,7,zscore
+BulkSeq_olf_33,hahn,GSM6527682,Olfactory bulb,Male,3,33,olf,-0.008079977208377054,68,7,zscore
+BulkSeq_olf_34,hahn,GSM6527683,Olfactory bulb,Male,15,34,olf,-0.6852449926341226,68,7,zscore
+BulkSeq_olf_35,hahn,GSM6527685,Olfactory bulb,Male,18,35,olf,1.3779785651016978,68,7,zscore
+BulkSeq_olf_36,hahn,GSM6527686,Olfactory bulb,Male,21,36,olf,1.5775312124807073,68,7,zscore
+BulkSeq_olf_37,hahn,GSM6527687,Olfactory bulb,Female,3,37,olf,-1.8399446190499988,68,7,zscore
+BulkSeq_olf_38,hahn,GSM6527688,Olfactory bulb,Female,15,38,olf,-0.7039331017480492,68,7,zscore
+BulkSeq_olf_39,hahn,GSM6527689,Olfactory bulb,Female,18,39,olf,0.5367143281931216,68,7,zscore
+BulkSeq_olf_4,hahn,GSM6527690,Olfactory bulb,Female,12,4,olf,0.12182416116031503,68,7,zscore
+BulkSeq_olf_40,hahn,GSM6527692,Olfactory bulb,Female,21,40,olf,0.9400224935801069,68,7,zscore
+BulkSeq_olf_41,hahn,GSM6527693,Olfactory bulb,Female,3,41,olf,-0.7943582580062621,68,7,zscore
+BulkSeq_olf_42,hahn,GSM6527694,Olfactory bulb,Female,15,42,olf,0.8771817777336514,68,7,zscore
+BulkSeq_olf_43,hahn,GSM6527695,Olfactory bulb,Female,18,43,olf,-0.13463305841021744,68,7,zscore
+BulkSeq_olf_44,hahn,GSM6527696,Olfactory bulb,Female,21,44,olf,-1.1812647002295384,68,7,zscore
+BulkSeq_olf_45,hahn,GSM6527698,Olfactory bulb,Female,3,45,olf,-1.285344974908004,68,7,zscore
+BulkSeq_olf_46,hahn,GSM6527699,Olfactory bulb,Female,15,46,olf,0.8535235859119084,68,7,zscore
+BulkSeq_olf_47,hahn,GSM6527700,Olfactory bulb,Female,18,47,olf,0.5249245286900399,68,7,zscore
+BulkSeq_olf_48,hahn,GSM6527701,Olfactory bulb,Female,21,48,olf,0.38114016752641167,68,7,zscore
+BulkSeq_olf_49,hahn,GSM6527702,Olfactory bulb,Female,3,49,olf,-0.9043846836972529,68,7,zscore
+BulkSeq_olf_5,hahn,GSM6527704,Olfactory bulb,Male,26,5,olf,0.9998188814176404,68,7,zscore
+BulkSeq_olf_50,hahn,GSM6527705,Olfactory bulb,Female,15,50,olf,0.40161367941998904,68,7,zscore
+BulkSeq_olf_51,hahn,GSM6527706,Olfactory bulb,Female,18,51,olf,1.8587615374455224,68,7,zscore
+BulkSeq_olf_52,hahn,GSM6527707,Olfactory bulb,Female,21,52,olf,1.3500523861248266,68,7,zscore
+BulkSeq_olf_53,hahn,GSM6527708,Olfactory bulb,Female,3,53,olf,-1.1907752833075107,68,7,zscore
+BulkSeq_olf_54,hahn,GSM6527710,Olfactory bulb,Female,15,54,olf,-0.22646030137976375,68,7,zscore
+BulkSeq_olf_55,hahn,GSM6527711,Olfactory bulb,Female,18,55,olf,0.11690669827973278,68,7,zscore
+BulkSeq_olf_56,hahn,GSM6527712,Olfactory bulb,Female,21,56,olf,0.345983961357459,68,7,zscore
+BulkSeq_olf_57,hahn,GSM6527713,Olfactory bulb,Male,28,57,olf,2.2690395696030716,68,7,zscore
+BulkSeq_olf_58,hahn,GSM6527714,Olfactory bulb,Male,28,58,olf,1.9631505281830932,68,7,zscore
+BulkSeq_olf_59,hahn,GSM6527715,Olfactory bulb,Male,28,59,olf,2.1234514840897396,68,7,zscore
+BulkSeq_olf_6,hahn,GSM6527717,Olfactory bulb,Male,12,6,olf,-0.5345834912638529,68,7,zscore
+BulkSeq_olf_7,hahn,GSM6527718,Olfactory bulb,Female,12,7,olf,-0.5665729429608785,68,7,zscore
+BulkSeq_olf_8,hahn,GSM6527719,Olfactory bulb,Male,26,8,olf,0.30296690802943516,68,7,zscore
+BulkSeq_olf_9,hahn,GSM6527720,Olfactory bulb,Male,12,9,olf,-1.1010369057168576,68,7,zscore
+BulkSeq_plx_10,hahn,GSM6527721,Choroid Plexus,Female,12,10,plx,-1.22476661954386,73,7,zscore
+BulkSeq_plx_11,hahn,GSM6527722,Choroid Plexus,Male,26,11,plx,1.18706385121461,73,7,zscore
+BulkSeq_plx_12,hahn,GSM6527724,Choroid Plexus,Male,12,12,plx,-1.0097194013855375,73,7,zscore
+BulkSeq_plx_13,hahn,GSM6527725,Choroid Plexus,Female,12,13,plx,-0.9711440222464365,73,7,zscore
+BulkSeq_plx_14,hahn,GSM6527726,Choroid Plexus,Male,26,14,plx,2.868985793161075,73,7,zscore
+BulkSeq_plx_15,hahn,GSM6527727,Choroid Plexus,Male,12,15,plx,-2.0405729706094684,73,7,zscore
+BulkSeq_plx_16,hahn,GSM6527728,Choroid Plexus,Male,21,16,plx,1.1797880882727356,73,7,zscore
+BulkSeq_plx_17,hahn,GSM6527729,Choroid Plexus,Male,3,17,plx,-3.852806960990839,73,7,zscore
+BulkSeq_plx_18,hahn,GSM6527731,Choroid Plexus,Male,15,18,plx,-0.6213583650785424,73,7,zscore
+BulkSeq_plx_19,hahn,GSM6527732,Choroid Plexus,Male,18,19,plx,0.44956113528269526,73,7,zscore
+BulkSeq_plx_2,hahn,GSM6527733,Choroid Plexus,Male,26,2,plx,0.2955893710368581,73,7,zscore
+BulkSeq_plx_20,hahn,GSM6527734,Choroid Plexus,Male,21,20,plx,0.97797037803273,73,7,zscore
+BulkSeq_plx_21,hahn,GSM6527735,Choroid Plexus,Male,3,21,plx,-1.7105308984660614,73,7,zscore
+BulkSeq_plx_22,hahn,GSM6527737,Choroid Plexus,Male,15,22,plx,-1.36192520611994,73,7,zscore
+BulkSeq_plx_23,hahn,GSM6527738,Choroid Plexus,Male,18,23,plx,1.1892444898032544,73,7,zscore
+BulkSeq_plx_24,hahn,GSM6527739,Choroid Plexus,Male,21,24,plx,1.123901941859068,73,7,zscore
+BulkSeq_plx_25,hahn,GSM6527740,Choroid Plexus,Male,3,25,plx,-2.6211217803152658,73,7,zscore
+BulkSeq_plx_26,hahn,GSM6527741,Choroid Plexus,Male,15,26,plx,-1.043664016223499,73,7,zscore
+BulkSeq_plx_27,hahn,GSM6527743,Choroid Plexus,Male,18,27,plx,-0.40584545719440995,73,7,zscore
+BulkSeq_plx_28,hahn,GSM6527744,Choroid Plexus,Male,21,28,plx,1.065973054471114,73,7,zscore
+BulkSeq_plx_29,hahn,GSM6527745,Choroid Plexus,Male,3,29,plx,-1.839268441939525,73,7,zscore
+BulkSeq_plx_3,hahn,GSM6527746,Choroid Plexus,Male,12,3,plx,-1.6208922365142342,73,7,zscore
+BulkSeq_plx_30,hahn,GSM6527747,Choroid Plexus,Male,15,30,plx,-0.41401752487949783,73,7,zscore
+BulkSeq_plx_31,hahn,GSM6527749,Choroid Plexus,Male,18,31,plx,0.9649495972068518,73,7,zscore
+BulkSeq_plx_32,hahn,GSM6527750,Choroid Plexus,Male,21,32,plx,1.723873990053063,73,7,zscore
+BulkSeq_plx_33,hahn,GSM6527751,Choroid Plexus,Male,3,33,plx,-3.092947651820701,73,7,zscore
+BulkSeq_plx_34,hahn,GSM6527752,Choroid Plexus,Male,15,34,plx,-1.0783762123172163,73,7,zscore
+BulkSeq_plx_35,hahn,GSM6527753,Choroid Plexus,Male,18,35,plx,0.41969752795275794,73,7,zscore
+BulkSeq_plx_36,hahn,GSM6527754,Choroid Plexus,Male,21,36,plx,1.3514497214512566,73,7,zscore
+BulkSeq_plx_37,hahn,GSM6527756,Choroid Plexus,Female,3,37,plx,-1.0188738060870857,73,7,zscore
+BulkSeq_plx_38,hahn,GSM6527757,Choroid Plexus,Female,15,38,plx,-0.06336500410028215,73,7,zscore
+BulkSeq_plx_39,hahn,GSM6527758,Choroid Plexus,Female,18,39,plx,0.7049982923104494,73,7,zscore
+BulkSeq_plx_4,hahn,GSM6527759,Choroid Plexus,Female,12,4,plx,-0.7120862759403528,73,7,zscore
+BulkSeq_plx_40,hahn,GSM6527760,Choroid Plexus,Female,21,40,plx,0.6380069012936834,73,7,zscore
+BulkSeq_plx_41,hahn,GSM6527761,Choroid Plexus,Female,3,41,plx,-1.8883616987756873,73,7,zscore
+BulkSeq_plx_42,hahn,GSM6527763,Choroid Plexus,Female,15,42,plx,0.506324991642837,73,7,zscore
+BulkSeq_plx_43,hahn,GSM6527764,Choroid Plexus,Female,18,43,plx,-0.21820471732134264,73,7,zscore
+BulkSeq_plx_44,hahn,GSM6527765,Choroid Plexus,Female,21,44,plx,0.31379537988690787,73,7,zscore
+BulkSeq_plx_45,hahn,GSM6527766,Choroid Plexus,Female,3,45,plx,-1.776912835286481,73,7,zscore
+BulkSeq_plx_46,hahn,GSM6527767,Choroid Plexus,Female,15,46,plx,0.45047384134571156,73,7,zscore
+BulkSeq_plx_47,hahn,GSM6527768,Choroid Plexus,Female,18,47,plx,2.1576442467051145,73,7,zscore
+BulkSeq_plx_48,hahn,GSM6527770,Choroid Plexus,Female,21,48,plx,2.239357698938525,73,7,zscore
+BulkSeq_plx_49,hahn,GSM6527771,Choroid Plexus,Female,3,49,plx,-1.7875892269561895,73,7,zscore
+BulkSeq_plx_5,hahn,GSM6527772,Choroid Plexus,Male,26,5,plx,0.8335580942152941,73,7,zscore
+BulkSeq_plx_50,hahn,GSM6527773,Choroid Plexus,Female,15,50,plx,0.773416745748528,73,7,zscore
+BulkSeq_plx_51,hahn,GSM6527774,Choroid Plexus,Female,18,51,plx,0.0886471742449909,73,7,zscore
+BulkSeq_plx_52,hahn,GSM6527776,Choroid Plexus,Female,21,52,plx,2.075029757001032,73,7,zscore
+BulkSeq_plx_53,hahn,GSM6527777,Choroid Plexus,Female,3,53,plx,-1.8601492972560152,73,7,zscore
+BulkSeq_plx_54,hahn,GSM6527778,Choroid Plexus,Female,15,54,plx,-0.06429855510196786,73,7,zscore
+BulkSeq_plx_55,hahn,GSM6527779,Choroid Plexus,Female,18,55,plx,1.6177065293116148,73,7,zscore
+BulkSeq_plx_56,hahn,GSM6527780,Choroid Plexus,Female,21,56,plx,1.5321070691359386,73,7,zscore
+BulkSeq_plx_57,hahn,GSM6527782,Choroid Plexus,Male,28,57,plx,1.7202080902657182,73,7,zscore
+BulkSeq_plx_58,hahn,GSM6527783,Choroid Plexus,Male,28,58,plx,2.2977786437363394,73,7,zscore
+BulkSeq_plx_59,hahn,GSM6527784,Choroid Plexus,Male,28,59,plx,2.54452892865696,73,7,zscore
+BulkSeq_plx_7,hahn,GSM6527785,Choroid Plexus,Female,12,7,plx,-1.2398844607797967,73,7,zscore
+BulkSeq_plx_8,hahn,GSM6527786,Choroid Plexus,Male,26,8,plx,1.5349314949159019,73,7,zscore
+BulkSeq_plx_9,hahn,GSM6527788,Choroid Plexus,Male,12,9,plx,-1.2878791759030896,73,7,zscore
+BulkSeq_pon_1,hahn,GSM6527789,Pons,Female,12,1,pon,0.3720332255992541,75,7,zscore
+BulkSeq_pon_10,hahn,GSM6527790,Pons,Female,12,10,pon,-1.3616546472246975,75,7,zscore
+BulkSeq_pon_11,hahn,GSM6527791,Pons,Male,26,11,pon,1.6254969730946702,75,7,zscore
+BulkSeq_pon_12,hahn,GSM6527792,Pons,Male,12,12,pon,-0.6132511496900871,75,7,zscore
+BulkSeq_pon_15,hahn,GSM6527793,Pons,Male,12,15,pon,-1.2569143076055282,75,7,zscore
+BulkSeq_pon_16,hahn,GSM6527795,Pons,Male,21,16,pon,0.696557649660279,75,7,zscore
+BulkSeq_pon_17,hahn,GSM6527796,Pons,Male,3,17,pon,-3.6440009169677,75,7,zscore
+BulkSeq_pon_18,hahn,GSM6527797,Pons,Male,15,18,pon,-0.23774746462267263,75,7,zscore
+BulkSeq_pon_19,hahn,GSM6527798,Pons,Male,18,19,pon,0.2735684513971037,75,7,zscore
+BulkSeq_pon_2,hahn,GSM6527799,Pons,Male,26,2,pon,0.914342298459616,75,7,zscore
+BulkSeq_pon_20,hahn,GSM6527800,Pons,Male,21,20,pon,0.7125180860030658,75,7,zscore
+BulkSeq_pon_21,hahn,GSM6527802,Pons,Male,3,21,pon,-2.0513054302223646,75,7,zscore
+BulkSeq_pon_22,hahn,GSM6527803,Pons,Male,15,22,pon,-0.3031168780475444,75,7,zscore
+BulkSeq_pon_23,hahn,GSM6527804,Pons,Male,18,23,pon,0.5154003071304232,75,7,zscore
+BulkSeq_pon_24,hahn,GSM6527805,Pons,Male,21,24,pon,1.1437162921175292,75,7,zscore
+BulkSeq_pon_25,hahn,GSM6527806,Pons,Male,3,25,pon,-2.05083301439593,75,7,zscore
+BulkSeq_pon_26,hahn,GSM6527807,Pons,Male,15,26,pon,-0.6265627391859014,75,7,zscore
+BulkSeq_pon_28,hahn,GSM6527809,Pons,Male,21,28,pon,1.1865623311266935,75,7,zscore
+BulkSeq_pon_29,hahn,GSM6527810,Pons,Male,3,29,pon,-1.7269592701099437,75,7,zscore
+BulkSeq_pon_3,hahn,GSM6527811,Pons,Male,12,3,pon,-0.8926704202149609,75,7,zscore
+BulkSeq_pon_30,hahn,GSM6527812,Pons,Male,15,30,pon,-0.5881291224391986,75,7,zscore
+BulkSeq_pon_31,hahn,GSM6527813,Pons,Male,18,31,pon,0.6360842580263183,75,7,zscore
+BulkSeq_pon_32,hahn,GSM6527815,Pons,Male,21,32,pon,1.564244319220347,75,7,zscore
+BulkSeq_pon_34,hahn,GSM6527816,Pons,Male,15,34,pon,-0.7821754386124721,75,7,zscore
+BulkSeq_pon_35,hahn,GSM6527817,Pons,Male,18,35,pon,0.7465846360117911,75,7,zscore
+BulkSeq_pon_36,hahn,GSM6527818,Pons,Male,21,36,pon,1.266809348296305,75,7,zscore
+BulkSeq_pon_37,hahn,GSM6527819,Pons,Female,3,37,pon,-2.087015154640984,75,7,zscore
+BulkSeq_pon_38,hahn,GSM6527821,Pons,Female,15,38,pon,-0.5583362014046515,75,7,zscore
+BulkSeq_pon_39,hahn,GSM6527822,Pons,Female,18,39,pon,0.4002581295156531,75,7,zscore
+BulkSeq_pon_40,hahn,GSM6527823,Pons,Female,21,40,pon,0.865919963499192,75,7,zscore
+BulkSeq_pon_41,hahn,GSM6527824,Pons,Female,3,41,pon,-2.18621889226825,75,7,zscore
+BulkSeq_pon_42,hahn,GSM6527825,Pons,Female,15,42,pon,-0.1463959012017801,75,7,zscore
+BulkSeq_pon_43,hahn,GSM6527826,Pons,Female,18,43,pon,0.14928857330106732,75,7,zscore
+BulkSeq_pon_44,hahn,GSM6527827,Pons,Female,21,44,pon,0.17209130618205537,75,7,zscore
+BulkSeq_pon_45,hahn,GSM6527828,Pons,Female,3,45,pon,-1.8463816068102594,75,7,zscore
+BulkSeq_pon_47,hahn,GSM6527829,Pons,Female,18,47,pon,1.2477720940867925,75,7,zscore
+BulkSeq_pon_48,hahn,GSM6527830,Pons,Female,21,48,pon,0.7323002098044864,75,7,zscore
+BulkSeq_pon_49,hahn,GSM6527831,Pons,Female,3,49,pon,-1.9919229334617257,75,7,zscore
+BulkSeq_pon_5,hahn,GSM6527832,Pons,Male,26,5,pon,1.2180226058867887,75,7,zscore
+BulkSeq_pon_50,hahn,GSM6527833,Pons,Female,15,50,pon,0.9471460014072026,75,7,zscore
+BulkSeq_pon_51,hahn,GSM6527834,Pons,Female,18,51,pon,0.06264106030455258,75,7,zscore
+BulkSeq_pon_52,hahn,GSM6527835,Pons,Female,21,52,pon,1.5392837573372926,75,7,zscore
+BulkSeq_pon_53,hahn,GSM6527836,Pons,Female,3,53,pon,-1.4015822033409548,75,7,zscore
+BulkSeq_pon_54,hahn,GSM6527837,Pons,Female,15,54,pon,0.41929398760492387,75,7,zscore
+BulkSeq_pon_55,hahn,GSM6527838,Pons,Female,18,55,pon,-0.19283379049192906,75,7,zscore
+BulkSeq_pon_56,hahn,GSM6527839,Pons,Female,21,56,pon,1.2749491053812738,75,7,zscore
+BulkSeq_pon_57,hahn,GSM6527840,Pons,Male,28,57,pon,2.22570234715433,75,7,zscore
+BulkSeq_pon_58,hahn,GSM6527841,Pons,Male,28,58,pon,1.9273971713715938,75,7,zscore
+BulkSeq_pon_59,hahn,GSM6527842,Pons,Male,28,59,pon,2.31584225351303,75,7,zscore
+BulkSeq_pon_7,hahn,GSM6527843,Pons,Female,12,7,pon,-0.9505747974335688,75,7,zscore
+BulkSeq_pon_8,hahn,GSM6527844,Pons,Male,26,8,pon,0.3447555378995618,75,7,zscore
+BulkSeq_svz_1,hahn,GSM6527845,Subventricular zone,Female,12,1,svz,-0.9195849194550153,70,7,zscore
+BulkSeq_svz_10,hahn,GSM6527846,Subventricular zone,Female,12,10,svz,-0.6015314440176626,70,7,zscore
+BulkSeq_svz_11,hahn,GSM6527847,Subventricular zone,Male,26,11,svz,3.526573906921328,70,7,zscore
+BulkSeq_svz_12,hahn,GSM6527848,Subventricular zone,Male,12,12,svz,0.04325086517467347,70,7,zscore
+BulkSeq_svz_13,hahn,GSM6527849,Subventricular zone,Female,12,13,svz,-1.0642505370541384,70,7,zscore
+BulkSeq_svz_14,hahn,GSM6527850,Subventricular zone,Male,26,14,svz,1.5051841436165543,70,7,zscore
+BulkSeq_svz_15,hahn,GSM6527851,Subventricular zone,Male,12,15,svz,-0.6890792696183494,70,7,zscore
+BulkSeq_svz_16,hahn,GSM6527852,Subventricular zone,Male,21,16,svz,1.3875787994284843,70,7,zscore
+BulkSeq_svz_17,hahn,GSM6527853,Subventricular zone,Male,3,17,svz,-3.0134631148421347,70,7,zscore
+BulkSeq_svz_18,hahn,GSM6527854,Subventricular zone,Male,15,18,svz,-0.2917634375646547,70,7,zscore
+BulkSeq_svz_20,hahn,GSM6527855,Subventricular zone,Male,21,20,svz,0.09200984697188716,70,7,zscore
+BulkSeq_svz_21,hahn,GSM6527856,Subventricular zone,Male,3,21,svz,-1.4395070020058172,70,7,zscore
+BulkSeq_svz_22,hahn,GSM6527857,Subventricular zone,Male,15,22,svz,-0.7458224770035615,70,7,zscore
+BulkSeq_svz_23,hahn,GSM6527858,Subventricular zone,Male,18,23,svz,-0.03609917641770505,70,7,zscore
+BulkSeq_svz_24,hahn,GSM6527859,Subventricular zone,Male,21,24,svz,1.6982247171719569,70,7,zscore
+BulkSeq_svz_25,hahn,GSM6527860,Subventricular zone,Male,3,25,svz,-2.58940424152534,70,7,zscore
+BulkSeq_svz_26,hahn,GSM6527861,Subventricular zone,Male,15,26,svz,-1.286857352538317,70,7,zscore
+BulkSeq_svz_27,hahn,GSM6527862,Subventricular zone,Male,18,27,svz,0.9169550827824724,70,7,zscore
+BulkSeq_svz_28,hahn,GSM6527863,Subventricular zone,Male,21,28,svz,1.3210303877219634,70,7,zscore
+BulkSeq_svz_29,hahn,GSM6527864,Subventricular zone,Male,3,29,svz,-1.6319958835037114,70,7,zscore
+BulkSeq_svz_3,hahn,GSM6527865,Subventricular zone,Male,12,3,svz,-0.9101014431408828,70,7,zscore
+BulkSeq_svz_30,hahn,GSM6527866,Subventricular zone,Male,15,30,svz,0.08770095629075592,70,7,zscore
+BulkSeq_svz_31,hahn,GSM6527867,Subventricular zone,Male,18,31,svz,-0.048022179561131584,70,7,zscore
+BulkSeq_svz_32,hahn,GSM6527868,Subventricular zone,Male,21,32,svz,0.5074346902532701,70,7,zscore
+BulkSeq_svz_33,hahn,GSM6527869,Subventricular zone,Male,3,33,svz,-2.186188846289799,70,7,zscore
+BulkSeq_svz_34,hahn,GSM6527870,Subventricular zone,Male,15,34,svz,-0.8724196787561513,70,7,zscore
+BulkSeq_svz_35,hahn,GSM6527871,Subventricular zone,Male,18,35,svz,1.494551484981839,70,7,zscore
+BulkSeq_svz_36,hahn,GSM6527872,Subventricular zone,Male,21,36,svz,0.7757389407006587,70,7,zscore
+BulkSeq_svz_37,hahn,GSM6527873,Subventricular zone,Female,3,37,svz,-1.0309809825517426,70,7,zscore
+BulkSeq_svz_38,hahn,GSM6527874,Subventricular zone,Female,15,38,svz,-0.9467504057645149,70,7,zscore
+BulkSeq_svz_39,hahn,GSM6527875,Subventricular zone,Female,18,39,svz,0.24979015323865209,70,7,zscore
+BulkSeq_svz_40,hahn,GSM6527876,Subventricular zone,Female,21,40,svz,0.43978785066884546,70,7,zscore
+BulkSeq_svz_41,hahn,GSM6527877,Subventricular zone,Female,3,41,svz,-1.4049430502230595,70,7,zscore
+BulkSeq_svz_42,hahn,GSM6527878,Subventricular zone,Female,15,42,svz,0.0862892056849231,70,7,zscore
+BulkSeq_svz_43,hahn,GSM6527879,Subventricular zone,Female,18,43,svz,0.264585741592531,70,7,zscore
+BulkSeq_svz_44,hahn,GSM6527880,Subventricular zone,Female,21,44,svz,0.15976502475697407,70,7,zscore
+BulkSeq_svz_45,hahn,GSM6527881,Subventricular zone,Female,3,45,svz,-1.656415966911184,70,7,zscore
+BulkSeq_svz_46,hahn,GSM6527882,Subventricular zone,Female,15,46,svz,-0.17914023996882644,70,7,zscore
+BulkSeq_svz_47,hahn,GSM6527883,Subventricular zone,Female,18,47,svz,0.7453289151269502,70,7,zscore
+BulkSeq_svz_49,hahn,GSM6527884,Subventricular zone,Female,3,49,svz,-1.0690071565862334,70,7,zscore
+BulkSeq_svz_5,hahn,GSM6527885,Subventricular zone,Male,26,5,svz,1.3907098521138312,70,7,zscore
+BulkSeq_svz_50,hahn,GSM6527886,Subventricular zone,Female,15,50,svz,-0.28507030553772195,70,7,zscore
+BulkSeq_svz_51,hahn,GSM6527887,Subventricular zone,Female,18,51,svz,0.742071009827006,70,7,zscore
+BulkSeq_svz_52,hahn,GSM6527888,Subventricular zone,Female,21,52,svz,0.5902139859447593,70,7,zscore
+BulkSeq_svz_53,hahn,GSM6527889,Subventricular zone,Female,3,53,svz,-1.7686390799180844,70,7,zscore
+BulkSeq_svz_54,hahn,GSM6527890,Subventricular zone,Female,15,54,svz,1.0099547016349255,70,7,zscore
+BulkSeq_svz_55,hahn,GSM6527891,Subventricular zone,Female,18,55,svz,0.3006791538390789,70,7,zscore
+BulkSeq_svz_56,hahn,GSM6527892,Subventricular zone,Female,21,56,svz,0.48723189102109343,70,7,zscore
+BulkSeq_svz_57,hahn,GSM6527893,Subventricular zone,Male,28,57,svz,2.0001807291904137,70,7,zscore
+BulkSeq_svz_58,hahn,GSM6527894,Subventricular zone,Male,28,58,svz,2.1341024712420302,70,7,zscore
+BulkSeq_svz_59,hahn,GSM6527895,Subventricular zone,Male,28,59,svz,3.128926012802392,70,7,zscore
+BulkSeq_svz_6,hahn,GSM6527896,Subventricular zone,Male,12,6,svz,-0.6966995989760746,70,7,zscore
+BulkSeq_svz_7,hahn,GSM6527897,Subventricular zone,Female,12,7,svz,-0.3700984899245093,70,7,zscore
+BulkSeq_svz_8,hahn,GSM6527898,Subventricular zone,Male,26,8,svz,1.1010900591011,70,7,zscore
+BulkSeq_svz_9,hahn,GSM6527899,Subventricular zone,Male,12,9,svz,-0.4531043001449302,70,7,zscore
+BulkSeq_th_1,hahn,GSM6527900,Thalamus,Female,12,1,th,-1.2491799648525603,67,7,zscore
+BulkSeq_th_10,hahn,GSM6527901,Thalamus,Female,12,10,th,-0.5656288277172822,67,7,zscore
+BulkSeq_th_11,hahn,GSM6527902,Thalamus,Male,26,11,th,1.416247808538118,67,7,zscore
+BulkSeq_th_12,hahn,GSM6527903,Thalamus,Male,12,12,th,-0.5623600696853501,67,7,zscore
+BulkSeq_th_13,hahn,GSM6527904,Thalamus,Female,12,13,th,-0.9336017560117587,67,7,zscore
+BulkSeq_th_14,hahn,GSM6527905,Thalamus,Male,26,14,th,1.777160205465444,67,7,zscore
+BulkSeq_th_15,hahn,GSM6527906,Thalamus,Male,12,15,th,-1.3787648734133464,67,7,zscore
+BulkSeq_th_16,hahn,GSM6527907,Thalamus,Male,21,16,th,1.7905089991336998,67,7,zscore
+BulkSeq_th_17,hahn,GSM6527908,Thalamus,Male,3,17,th,-3.958161648427616,67,7,zscore
+BulkSeq_th_18,hahn,GSM6527909,Thalamus,Male,15,18,th,-0.42653275226544385,67,7,zscore
+BulkSeq_th_19,hahn,GSM6527910,Thalamus,Male,18,19,th,0.08736695239340216,67,7,zscore
+BulkSeq_th_2,hahn,GSM6527911,Thalamus,Male,26,2,th,1.387291575543879,67,7,zscore
+BulkSeq_th_20,hahn,GSM6527912,Thalamus,Male,21,20,th,0.7016240423376092,67,7,zscore
+BulkSeq_th_21,hahn,GSM6527913,Thalamus,Male,3,21,th,-1.4738833847586386,67,7,zscore
+BulkSeq_th_22,hahn,GSM6527914,Thalamus,Male,15,22,th,-1.0310142561415305,67,7,zscore
+BulkSeq_th_23,hahn,GSM6527915,Thalamus,Male,18,23,th,1.1414552519261443,67,7,zscore
+BulkSeq_th_24,hahn,GSM6527916,Thalamus,Male,21,24,th,0.5918266165734793,67,7,zscore
+BulkSeq_th_25,hahn,GSM6527917,Thalamus,Male,3,25,th,-2.8749287656304956,67,7,zscore
+BulkSeq_th_26,hahn,GSM6527918,Thalamus,Male,15,26,th,-0.959378112448381,67,7,zscore
+BulkSeq_th_27,hahn,GSM6527919,Thalamus,Male,18,27,th,0.7437862815399022,67,7,zscore
+BulkSeq_th_28,hahn,GSM6527920,Thalamus,Male,21,28,th,1.6651567544863537,67,7,zscore
+BulkSeq_th_29,hahn,GSM6527921,Thalamus,Male,3,29,th,-1.7792961620698096,67,7,zscore
+BulkSeq_th_3,hahn,GSM6527922,Thalamus,Male,12,3,th,-1.0501013144457991,67,7,zscore
+BulkSeq_th_30,hahn,GSM6527923,Thalamus,Male,15,30,th,0.34692764052983316,67,7,zscore
+BulkSeq_th_31,hahn,GSM6527924,Thalamus,Male,18,31,th,0.09666914354923611,67,7,zscore
+BulkSeq_th_32,hahn,GSM6527925,Thalamus,Male,21,32,th,1.7813348195181284,67,7,zscore
+BulkSeq_th_33,hahn,GSM6527926,Thalamus,Male,3,33,th,-2.743392664650563,67,7,zscore
+BulkSeq_th_34,hahn,GSM6527927,Thalamus,Male,15,34,th,-0.5799703185336598,67,7,zscore
+BulkSeq_th_35,hahn,GSM6527928,Thalamus,Male,18,35,th,1.3116744584060802,67,7,zscore
+BulkSeq_th_36,hahn,GSM6527929,Thalamus,Male,21,36,th,1.162260273751195,67,7,zscore
+BulkSeq_th_37,hahn,GSM6527930,Thalamus,Female,3,37,th,-1.9942732103613368,67,7,zscore
+BulkSeq_th_38,hahn,GSM6527931,Thalamus,Female,15,38,th,-0.1662417431896997,67,7,zscore
+BulkSeq_th_39,hahn,GSM6527932,Thalamus,Female,18,39,th,0.9541011418804293,67,7,zscore
+BulkSeq_th_4,hahn,GSM6527933,Thalamus,Female,12,4,th,-0.13947463591396564,67,7,zscore
+BulkSeq_th_40,hahn,GSM6527934,Thalamus,Female,21,40,th,0.9876731571612039,67,7,zscore
+BulkSeq_th_41,hahn,GSM6527935,Thalamus,Female,3,41,th,-1.565295006921807,67,7,zscore
+BulkSeq_th_42,hahn,GSM6527936,Thalamus,Female,15,42,th,0.4485503475230812,67,7,zscore
+BulkSeq_th_43,hahn,GSM6527937,Thalamus,Female,18,43,th,0.0269838278344669,67,7,zscore
+BulkSeq_th_44,hahn,GSM6527938,Thalamus,Female,21,44,th,-0.04306032969733353,67,7,zscore
+BulkSeq_th_45,hahn,GSM6527939,Thalamus,Female,3,45,th,-1.8562389181470238,67,7,zscore
+BulkSeq_th_46,hahn,GSM6527940,Thalamus,Female,15,46,th,-0.02668190979652102,67,7,zscore
+BulkSeq_th_47,hahn,GSM6527941,Thalamus,Female,18,47,th,1.4546356276290844,67,7,zscore
+BulkSeq_th_48,hahn,GSM6527942,Thalamus,Female,21,48,th,1.813731979871779,67,7,zscore
+BulkSeq_th_49,hahn,GSM6527943,Thalamus,Female,3,49,th,-2.2238308276711933,67,7,zscore
+BulkSeq_th_5,hahn,GSM6527944,Thalamus,Male,26,5,th,1.551978879267634,67,7,zscore
+BulkSeq_th_50,hahn,GSM6527945,Thalamus,Female,15,50,th,0.14742227073247655,67,7,zscore
+BulkSeq_th_51,hahn,GSM6527946,Thalamus,Female,18,51,th,0.7587417809228705,67,7,zscore
+BulkSeq_th_52,hahn,GSM6527947,Thalamus,Female,21,52,th,1.2483186832052118,67,7,zscore
+BulkSeq_th_53,hahn,GSM6527948,Thalamus,Female,3,53,th,-1.613214572136938,67,7,zscore
+BulkSeq_th_54,hahn,GSM6527949,Thalamus,Female,15,54,th,-0.010397613532473288,67,7,zscore
+BulkSeq_th_55,hahn,GSM6527950,Thalamus,Female,18,55,th,0.36996008275252634,67,7,zscore
+BulkSeq_th_56,hahn,GSM6527951,Thalamus,Female,21,56,th,1.4591063245783786,67,7,zscore
+BulkSeq_th_57,hahn,GSM6527952,Thalamus,Male,28,57,th,1.790283420782699,67,7,zscore
+BulkSeq_th_58,hahn,GSM6527953,Thalamus,Male,28,58,th,1.791293997026504,67,7,zscore
+BulkSeq_th_59,hahn,GSM6527954,Thalamus,Male,28,59,th,2.0457054417879856,67,7,zscore
+BulkSeq_th_6,hahn,GSM6527955,Thalamus,Male,12,6,th,-0.03620687099752005,67,7,zscore
+BulkSeq_th_7,hahn,GSM6527956,Thalamus,Female,12,7,th,-0.6445312628386632,67,7,zscore
+BulkSeq_th_8,hahn,GSM6527957,Thalamus,Male,26,8,th,0.2513665520340898,67,7,zscore
+BulkSeq_th_9,hahn,GSM6527958,Thalamus,Male,12,9,th,-1.2155025664262809,67,7,zscore
+BulkSeq_vis_1,hahn,GSM6527959,Visual Cortex,Female,12,1,vis,-0.7662510331642085,66,7,zscore
+BulkSeq_vis_10,hahn,GSM6527960,Visual Cortex,Female,12,10,vis,-0.5680862905052826,66,7,zscore
+BulkSeq_vis_11,hahn,GSM6527961,Visual Cortex,Male,26,11,vis,2.027672174631685,66,7,zscore
+BulkSeq_vis_13,hahn,GSM6527962,Visual Cortex,Female,12,13,vis,-0.607197679345291,66,7,zscore
+BulkSeq_vis_14,hahn,GSM6527963,Visual Cortex,Male,26,14,vis,2.0446045169632727,66,7,zscore
+BulkSeq_vis_15,hahn,GSM6527964,Visual Cortex,Male,12,15,vis,-0.7398960849129015,66,7,zscore
+BulkSeq_vis_16,hahn,GSM6527965,Visual Cortex,Male,21,16,vis,0.9551023707947528,66,7,zscore
+BulkSeq_vis_17,hahn,GSM6527966,Visual Cortex,Male,3,17,vis,-2.2159844290821917,66,7,zscore
+BulkSeq_vis_18,hahn,GSM6527967,Visual Cortex,Male,15,18,vis,-0.10378956204207375,66,7,zscore
+BulkSeq_vis_19,hahn,GSM6527968,Visual Cortex,Male,18,19,vis,-0.6110233858244203,66,7,zscore
+BulkSeq_vis_2,hahn,GSM6527969,Visual Cortex,Male,26,2,vis,0.6042164026956511,66,7,zscore
+BulkSeq_vis_20,hahn,GSM6527970,Visual Cortex,Male,21,20,vis,0.7834866494136489,66,7,zscore
+BulkSeq_vis_21,hahn,GSM6527971,Visual Cortex,Male,3,21,vis,-0.6236727847319535,66,7,zscore
+BulkSeq_vis_22,hahn,GSM6527972,Visual Cortex,Male,15,22,vis,-1.0541062547353826,66,7,zscore
+BulkSeq_vis_23,hahn,GSM6527973,Visual Cortex,Male,18,23,vis,0.6876027286638818,66,7,zscore
+BulkSeq_vis_24,hahn,GSM6527974,Visual Cortex,Male,21,24,vis,1.142752831536167,66,7,zscore
+BulkSeq_vis_25,hahn,GSM6527975,Visual Cortex,Male,3,25,vis,-1.8200564393735255,66,7,zscore
+BulkSeq_vis_26,hahn,GSM6527976,Visual Cortex,Male,15,26,vis,-0.9099951236122932,66,7,zscore
+BulkSeq_vis_27,hahn,GSM6527977,Visual Cortex,Male,18,27,vis,0.4343073758867624,66,7,zscore
+BulkSeq_vis_28,hahn,GSM6527978,Visual Cortex,Male,21,28,vis,0.9445398396897449,66,7,zscore
+BulkSeq_vis_29,hahn,GSM6527979,Visual Cortex,Male,3,29,vis,-1.852586777808364,66,7,zscore
+BulkSeq_vis_3,hahn,GSM6527980,Visual Cortex,Male,12,3,vis,-0.6488336448968876,66,7,zscore
+BulkSeq_vis_30,hahn,GSM6527981,Visual Cortex,Male,15,30,vis,-0.22243318805612894,66,7,zscore
+BulkSeq_vis_31,hahn,GSM6527982,Visual Cortex,Male,18,31,vis,0.7131258982333737,66,7,zscore
+BulkSeq_vis_32,hahn,GSM6527983,Visual Cortex,Male,21,32,vis,0.9972097562161863,66,7,zscore
+BulkSeq_vis_33,hahn,GSM6527984,Visual Cortex,Male,3,33,vis,-1.5658469767159753,66,7,zscore
+BulkSeq_vis_34,hahn,GSM6527985,Visual Cortex,Male,15,34,vis,-0.7212846632495686,66,7,zscore
+BulkSeq_vis_35,hahn,GSM6527986,Visual Cortex,Male,18,35,vis,0.46621994923967386,66,7,zscore
+BulkSeq_vis_36,hahn,GSM6527987,Visual Cortex,Male,21,36,vis,0.8615133872462536,66,7,zscore
+BulkSeq_vis_37,hahn,GSM6527988,Visual Cortex,Female,3,37,vis,-1.7545476887295797,66,7,zscore
+BulkSeq_vis_38,hahn,GSM6527989,Visual Cortex,Female,15,38,vis,-0.5732463656060773,66,7,zscore
+BulkSeq_vis_39,hahn,GSM6527990,Visual Cortex,Female,18,39,vis,0.3259601533830485,66,7,zscore
+BulkSeq_vis_4,hahn,GSM6527991,Visual Cortex,Female,12,4,vis,-0.9497740990965591,66,7,zscore
+BulkSeq_vis_40,hahn,GSM6527992,Visual Cortex,Female,21,40,vis,0.7701244028237053,66,7,zscore
+BulkSeq_vis_41,hahn,GSM6527993,Visual Cortex,Female,3,41,vis,-0.7820742408231601,66,7,zscore
+BulkSeq_vis_42,hahn,GSM6527994,Visual Cortex,Female,15,42,vis,0.8885389185208095,66,7,zscore
+BulkSeq_vis_43,hahn,GSM6527995,Visual Cortex,Female,18,43,vis,0.23648012556444598,66,7,zscore
+BulkSeq_vis_44,hahn,GSM6527996,Visual Cortex,Female,21,44,vis,-0.4734330670609003,66,7,zscore
+BulkSeq_vis_45,hahn,GSM6527997,Visual Cortex,Female,3,45,vis,-0.7261260582878646,66,7,zscore
+BulkSeq_vis_46,hahn,GSM6527998,Visual Cortex,Female,15,46,vis,-0.7780456616835053,66,7,zscore
+BulkSeq_vis_47,hahn,GSM6527999,Visual Cortex,Female,18,47,vis,-0.04785638030034617,66,7,zscore
+BulkSeq_vis_48,hahn,GSM6528000,Visual Cortex,Female,21,48,vis,2.0119217780864305,66,7,zscore
+BulkSeq_vis_49,hahn,GSM6528001,Visual Cortex,Female,3,49,vis,-1.3893636657070165,66,7,zscore
+BulkSeq_vis_50,hahn,GSM6528002,Visual Cortex,Female,15,50,vis,0.04896094758073408,66,7,zscore
+BulkSeq_vis_51,hahn,GSM6528003,Visual Cortex,Female,18,51,vis,0.41343842329859337,66,7,zscore
+BulkSeq_vis_52,hahn,GSM6528004,Visual Cortex,Female,21,52,vis,0.6066839112639756,66,7,zscore
+BulkSeq_vis_53,hahn,GSM6528005,Visual Cortex,Female,3,53,vis,-1.361645462728982,66,7,zscore
+BulkSeq_vis_54,hahn,GSM6528006,Visual Cortex,Female,15,54,vis,0.40233735424681377,66,7,zscore
+BulkSeq_vis_55,hahn,GSM6528007,Visual Cortex,Female,18,55,vis,0.39510323818487597,66,7,zscore
+BulkSeq_vis_56,hahn,GSM6528008,Visual Cortex,Female,21,56,vis,0.13229768232001676,66,7,zscore
+BulkSeq_vis_57,hahn,GSM6528009,Visual Cortex,Male,28,57,vis,1.2947232079583983,66,7,zscore
+BulkSeq_vis_58,hahn,GSM6528010,Visual Cortex,Male,28,58,vis,1.093193703348509,66,7,zscore
+BulkSeq_vis_59,hahn,GSM6528011,Visual Cortex,Male,28,59,vis,2.52421233953236,66,7,zscore
+BulkSeq_vis_6,hahn,GSM6528012,Visual Cortex,Male,12,6,vis,-0.32393352609597,66,7,zscore
+BulkSeq_vis_7,hahn,GSM6528013,Visual Cortex,Female,12,7,vis,-0.6049621760890198,66,7,zscore
+BulkSeq_vis_8,hahn,GSM6528014,Visual Cortex,Male,26,8,vis,0.9897226429417556,66,7,zscore

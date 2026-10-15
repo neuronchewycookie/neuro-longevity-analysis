@@ -38,10 +38,24 @@ data:
     counts_glob: "GSM*.counts.txt"
     series_matrix: data/raw/GSE214267_human_cud/GSE214267_series_matrix.txt.gz
 
+qc:
+  pca_top_genes: 500       # most variable genes per region used for PCA
+  outlier_robust_z: 3.5    # flag (never drop): PCA isolation (kNN distance) or low library size beyond this robust z
+
 cas:
-  method: mean_diff        # mean(z[UP]) - mean(z[DOWN]); switch after checking Hahn STAR Methods
+  # vision: Hahn 2023 / VISION signed score, z-normalized per sample vs random signatures (paper)
+  # zscore: PIPELINE_SPEC draft, mean(z[UP]) - mean(z[DOWN]) with genes z-scored within a region
+  method: vision
   expected_n_up: 75
   expected_n_down: 7
   min_mean_count: 10       # drop genes with mean count < this within a region
+  min_mean_value: 1.0      # same filter for non-count data (rat FPKM)
   n_permutations: 1000
   n_bootstrap: 1000
+
+positive_control:  # Hahn et al. 2023 findings our CAS implementation must reproduce
+  fdr: 0.05                       # every region's slope must be > 0 at this FDR
+  fastest_region: cc              # corpus callosum is the fastest region in the paper; it must not be
+  tie_alpha: 0.05                 # significantly slower than our fastest region (p >= tie_alpha = tied)
+  fast_regions: [cp, cer]         # caudate putamen and cerebellum also rank high
+  fast_regions_max_rank: 7        # i.e. upper half of 15 regions
