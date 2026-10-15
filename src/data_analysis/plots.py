@@ -315,3 +315,74 @@ def human_cud_panels(scores: pd.DataFrame, title: str) -> plt.Figure:
     fig.suptitle(title, fontsize=11, color=TEXT)
     fig.tight_layout()
     return fig
+
+
+def _paired_dot_ci(ax, rows: list[tuple[str, float, float, float, str, str]], legend: list[tuple[str, str, str]],
+                   title: str, xlabel: str) -> None:
+    """Draw (label, est, lo, hi, color, marker) rows; consecutive rows sharing a label are offset."""
+    from matplotlib.lines import Line2D
+
+    labels = list(dict.fromkeys(r[0] for r in rows))
+    per_label = {lab: [r for r in rows if r[0] == lab] for lab in labels}
+    for y0, lab in enumerate(labels):
+        group = per_label[lab]
+        offsets = np.linspace(-0.2, 0.2, len(group)) if len(group) > 1 else [0.0]
+        for off, (_, est, lo, hi, color, marker) in zip(offsets, group):
+            ax.hlines(y0 + off, lo, hi, color=color, linewidth=2)
+            ax.scatter(est, y0 + off, s=60 if marker == "D" else 40, marker=marker, color=color,
+                       edgecolors="white", linewidths=1.2, zorder=3)
+    ax.set_yticks(range(len(labels)), labels, fontsize=8)
+    ax.set_ylim(len(labels) - 0.5, -0.5)
+    ax.axvline(0, color=TEXT_MUTED, linewidth=0.8)
+    _style_axes(ax)
+    ax.grid(axis="x", color=GRID, linewidth=0.6)
+    ax.grid(axis="y", visible=False)
+    ax.set_title(title, fontsize=10, color=TEXT)
+    ax.set_xlabel(xlabel, fontsize=9, color=TEXT_MUTED)
+    ax.legend(handles=[Line2D([], [], marker=m, linestyle="", color=c, label=l) for l, c, m in legend],
+              frameon=False, fontsize=8, loc="lower right")
+
+
+def exploratory_forest(models: pd.DataFrame, meta: pd.DataFrame, designs: list[str]) -> plt.Figure:
+    """Pooled-region mixed-model effects per drug and their fixed-effect meta-analysis, per design."""
+    color = {"cocaine": SERIES[0], "heroin": SERIES[1]}
+    rows = []
+    for design in designs:
+        m = meta[meta["design"] == design].iloc[0]
+        label = f"{design}  (I² {m['i2']:.0%})"
+        for drug in ("cocaine", "heroin"):
+            r = models[(models["design"] == design) & (models["drug"] == drug)].iloc[0]
+            rows.append((label, r["estimate"], r["ci_low"], r["ci_high"], color[drug], "o"))
+        rows.append((label, m["fixed_estimate"], m["fixed_ci_low"], m["fixed_ci_high"], TEXT, "D"))
+    fig, ax = plt.subplots(figsize=(8, 0.75 * len(designs) + 1.6))
+    _paired_dot_ci(ax, rows, [("cocaine", SERIES[0], "o"), ("heroin", SERIES[1], "o"), ("pooled", TEXT, "D")],
+                   "EXPLORATORY (post hoc): all regions pooled, cocaine + heroin meta-analysis",
+                   "Treatment effect on CAS (SD units, 95% CI)")
+    fig.tight_layout()
+    return fig
+
+
+def exploratory_specificity(spec: pd.DataFrame, designs: list[str]) -> plt.Figure:
+    """Left: CAS effect before/after adjusting for marker scores. Right: drug effect on marker scores."""
+    left, right = [], []
+    for design in designs:
+        for drug in ("cocaine", "heroin"):
+            sub = spec[(spec["design"] == design) & (spec["drug"] == drug)].set_index("model")
+            label = f"{design} | {drug}"
+            for model, color, marker in (("(b) CAS unadjusted (= A)", NEUTRAL, "o"),
+                                         ("(b) CAS adjusted for microglia + inflammation", SERIES[0], "D")):
+                r = sub.loc[model]
+                left.append((label, r["estimate"], r["ci_low"], r["ci_high"], color, marker))
+            for model, color in (("(a) drug effect on microglia score", SERIES[2]),
+                                 ("(a) drug effect on inflammation score", SERIES[1])):
+                r = sub.loc[model]
+                right.append((label, r["estimate"], r["ci_low"], r["ci_high"], color, "o"))
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(13, 0.42 * len(designs) * 2 + 1.8), sharey=True)
+    _paired_dot_ci(ax1, left, [("unadjusted", NEUTRAL, "o"), ("adjusted", SERIES[0], "D")],
+                   "CAS effect: unadjusted vs adjusted for marker scores", "Effect on CAS (SD units, 95% CI)")
+    _paired_dot_ci(ax2, right, [("microglia score", SERIES[2], "o"), ("inflammation score", SERIES[1], "o")],
+                   "Drug effect on marker scores", "Effect on marker score (SD units, 95% CI)")
+    fig.suptitle("EXPLORATORY (post hoc): is the CAS change explained by microglia or inflammation?",
+                 fontsize=11, color=TEXT)
+    fig.tight_layout()
+    return fig

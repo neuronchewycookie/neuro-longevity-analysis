@@ -1,0 +1,193 @@
+dataset,region,marker_set,gene,used,reason
+walker,BLA,microglia,P2ry12,True,
+walker,BLA,microglia,Tmem119,True,
+walker,BLA,microglia,Csf1r,True,
+walker,BLA,microglia,Sall1,True,
+walker,BLA,microglia,Siglech,True,
+walker,BLA,microglia,Olfml3,True,
+walker,BLA,microglia,Fcrls,True,
+walker,BLA,microglia,Gpr34,True,
+walker,BLA,inflammation,Il1b,False,low expression
+walker,BLA,inflammation,Tnf,False,low expression
+walker,BLA,inflammation,Ccl2,False,low expression
+walker,BLA,inflammation,Ccl3,False,low expression
+walker,BLA,inflammation,Ccl4,False,low expression
+walker,BLA,inflammation,Cxcl10,False,low expression
+walker,BLA,inflammation,Nfkbia,True,
+walker,BLA,inflammation,Socs3,True,
+walker,Cpu,microglia,P2ry12,True,
+walker,Cpu,microglia,Tmem119,True,
+walker,Cpu,microglia,Csf1r,True,
+walker,Cpu,microglia,Sall1,True,
+walker,Cpu,microglia,Siglech,True,
+walker,Cpu,microglia,Olfml3,True,
+walker,Cpu,microglia,Fcrls,True,
+walker,Cpu,microglia,Gpr34,True,
+walker,Cpu,inflammation,Il1b,False,low expression
+walker,Cpu,inflammation,Tnf,False,low expression
+walker,Cpu,inflammation,Ccl2,False,low expression
+walker,Cpu,inflammation,Ccl3,False,low expression
+walker,Cpu,inflammation,Ccl4,False,low expression
+walker,Cpu,inflammation,Cxcl10,False,low expression
+walker,Cpu,inflammation,Nfkbia,True,
+walker,Cpu,inflammation,Socs3,True,
+walker,Hipp,microglia,P2ry12,True,
+walker,Hipp,microglia,Tmem119,True,
+walker,Hipp,microglia,Csf1r,True,
+walker,Hipp,microglia,Sall1,True,
+walker,Hipp,microglia,Siglech,True,
+walker,Hipp,microglia,Olfml3,True,
+walker,Hipp,microglia,Fcrls,True,
+walker,Hipp,microglia,Gpr34,True,
+walker,Hipp,inflammation,Il1b,False,low expression
+walker,Hipp,inflammation,Tnf,False,low expression
+walker,Hipp,inflammation,Ccl2,False,low expression
+walker,Hipp,inflammation,Ccl3,False,low expression
+walker,Hipp,inflammation,Ccl4,False,low expression
+walker,Hipp,inflammation,Cxcl10,False,low expression
+walker,Hipp,inflammation,Nfkbia,True,
+walker,Hipp,inflammation,Socs3,True,
+walker,NAc,microglia,P2ry12,True,
+walker,NAc,microglia,Tmem119,True,
+walker,NAc,microglia,Csf1r,True,
+walker,NAc,microglia,Sall1,True,
+walker,NAc,microglia,Siglech,True,
+walker,NAc,microglia,Olfml3,True,
+walker,NAc,microglia,Fcrls,True,
+walker,NAc,microglia,Gpr34,True,
+walker,NAc,inflammation,Il1b,False,low expression
+walker,NAc,inflammation,Tnf,False,low expression
+walker,NAc,inflammation,Ccl2,False,low expression
+walker,NAc,inflammation,Ccl3,False,low expression
+walker,NAc,inflammation,Ccl4,False,low expression
+walker,NAc,inflammation,Cxcl10,False,low expression
+walker,NAc,inflammation,Nfkbia,True,
+walker,NAc,inflammation,Socs3,True,
+walker,PFC,microglia,P2ry12,True,
+walker,PFC,microglia,Tmem119,True,
+walker,PFC,microglia,Csf1r,True,
+walker,PFC,microglia,Sall1,True,
+walker,PFC,microglia,Siglech,True,
+walker,PFC,microglia,Olfml3,True,
+walker,PFC,microglia,Fcrls,True,
+walker,PFC,microglia,Gpr34,True,
+walker,PFC,inflammation,Il1b,False,low expression
+walker,PFC,inflammation,Tnf,False,low expression
+walker,PFC,inflammation,Ccl2,False,low expression
+walker,PFC,inflammation,Ccl3,False,low expression
+walker,PFC,inflammation,Ccl4,False,low expression
+walker,PFC,inflammation,Cxcl10,False,low expression
+walker,PFC,inflammation,Nfkbia,True,
+walker,PFC,inflammation,Socs3,True,
+walker,VTA,microglia,P2ry12,True,
+walker,VTA,microglia,Tmem119,True,
+walker,VTA,microglia,Csf1r,True,
+walker,VTA,microglia,Sall1,True,
+walker,VTA,microglia,Siglech,True,
+walker,VTA,microglia,Olfml3,True,
+walker,VTA,microglia,Fcrls,True,
+walker,VTA,microglia,Gpr34,True,
+walker,VTA,inflammation,Il1b,False,low expression
+walker,VTA,inflammation,Tnf,False,low expression
+walker,VTA,inflammation,Ccl2,False,low expression
+walker,VTA,inflammation,Ccl3,False,low expression
+walker,VTA,inflammation,Ccl4,False,low expression
+walker,VTA,inflammation,Cxcl10,False,low expression
+walker,VTA,inflammation,Nfkbia,True,
+walker,VTA,inflammation,Socs3,True,
+heroin,BLA,microglia,P2ry12,True,
+heroin,BLA,microglia,Tmem119,True,
+heroin,BLA,microglia,Csf1r,True,
+heroin,BLA,microglia,Sall1,True,
+heroin,BLA,microglia,Siglech,True,
+heroin,BLA,microglia,Olfml3,True,
+heroin,BLA,microglia,Fcrls,True,
+heroin,BLA,microglia,Gpr34,True,
+heroin,BLA,inflammation,Il1b,False,low expression
+heroin,BLA,inflammation,Tnf,False,low expression
+heroin,BLA,inflammation,Ccl2,False,low expression
+heroin,BLA,inflammation,Ccl3,False,low expression
+heroin,BLA,inflammation,Ccl4,False,low expression
+heroin,BLA,inflammation,Cxcl10,False,low expression
+heroin,BLA,inflammation,Nfkbia,True,
+heroin,BLA,inflammation,Socs3,True,
+heroin,NAc,microglia,P2ry12,True,
+heroin,NAc,microglia,Tmem119,True,
+heroin,NAc,microglia,Csf1r,True,
+heroin,NAc,microglia,Sall1,True,
+heroin,NAc,microglia,Siglech,True,
+heroin,NAc,microglia,Olfml3,True,
+heroin,NAc,microglia,Fcrls,True,
+heroin,NAc,microglia,Gpr34,True,
+heroin,NAc,inflammation,Il1b,False,low expression
+heroin,NAc,inflammation,Tnf,False,low expression
+heroin,NAc,inflammation,Ccl2,False,low expression
+heroin,NAc,inflammation,Ccl3,False,low expression
+heroin,NAc,inflammation,Ccl4,False,low expression
+heroin,NAc,inflammation,Cxcl10,False,low expression
+heroin,NAc,inflammation,Nfkbia,True,
+heroin,NAc,inflammation,Socs3,True,
+heroin,PFC,microglia,P2ry12,True,
+heroin,PFC,microglia,Tmem119,True,
+heroin,PFC,microglia,Csf1r,True,
+heroin,PFC,microglia,Sall1,True,
+heroin,PFC,microglia,Siglech,True,
+heroin,PFC,microglia,Olfml3,True,
+heroin,PFC,microglia,Fcrls,True,
+heroin,PFC,microglia,Gpr34,True,
+heroin,PFC,inflammation,Il1b,False,low expression
+heroin,PFC,inflammation,Tnf,False,low expression
+heroin,PFC,inflammation,Ccl2,False,low expression
+heroin,PFC,inflammation,Ccl3,False,low expression
+heroin,PFC,inflammation,Ccl4,False,low expression
+heroin,PFC,inflammation,Cxcl10,False,low expression
+heroin,PFC,inflammation,Nfkbia,True,
+heroin,PFC,inflammation,Socs3,True,
+heroin,VTA,microglia,P2ry12,True,
+heroin,VTA,microglia,Tmem119,True,
+heroin,VTA,microglia,Csf1r,True,
+heroin,VTA,microglia,Sall1,True,
+heroin,VTA,microglia,Siglech,True,
+heroin,VTA,microglia,Olfml3,True,
+heroin,VTA,microglia,Fcrls,True,
+heroin,VTA,microglia,Gpr34,True,
+heroin,VTA,inflammation,Il1b,False,low expression
+heroin,VTA,inflammation,Tnf,False,low expression
+heroin,VTA,inflammation,Ccl2,False,low expression
+heroin,VTA,inflammation,Ccl3,False,low expression
+heroin,VTA,inflammation,Ccl4,False,low expression
+heroin,VTA,inflammation,Cxcl10,False,low expression
+heroin,VTA,inflammation,Nfkbia,True,
+heroin,VTA,inflammation,Socs3,True,
+heroin,dStri,microglia,P2ry12,True,
+heroin,dStri,microglia,Tmem119,True,
+heroin,dStri,microglia,Csf1r,True,
+heroin,dStri,microglia,Sall1,True,
+heroin,dStri,microglia,Siglech,True,
+heroin,dStri,microglia,Olfml3,True,
+heroin,dStri,microglia,Fcrls,True,
+heroin,dStri,microglia,Gpr34,True,
+heroin,dStri,inflammation,Il1b,False,low expression
+heroin,dStri,inflammation,Tnf,False,low expression
+heroin,dStri,inflammation,Ccl2,False,low expression
+heroin,dStri,inflammation,Ccl3,False,low expression
+heroin,dStri,inflammation,Ccl4,False,low expression
+heroin,dStri,inflammation,Cxcl10,False,low expression
+heroin,dStri,inflammation,Nfkbia,True,
+heroin,dStri,inflammation,Socs3,True,
+heroin,vHPC,microglia,P2ry12,True,
+heroin,vHPC,microglia,Tmem119,True,
+heroin,vHPC,microglia,Csf1r,True,
+heroin,vHPC,microglia,Sall1,True,
+heroin,vHPC,microglia,Siglech,True,
+heroin,vHPC,microglia,Olfml3,True,
+heroin,vHPC,microglia,Fcrls,True,
+heroin,vHPC,microglia,Gpr34,True,
+heroin,vHPC,inflammation,Il1b,False,low expression
+heroin,vHPC,inflammation,Tnf,False,low expression
+heroin,vHPC,inflammation,Ccl2,False,low expression
+heroin,vHPC,inflammation,Ccl3,False,low expression
+heroin,vHPC,inflammation,Ccl4,False,low expression
+heroin,vHPC,inflammation,Cxcl10,False,low expression
+heroin,vHPC,inflammation,Nfkbia,True,
+heroin,vHPC,inflammation,Socs3,True,
