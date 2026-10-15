@@ -9,8 +9,13 @@ authors = [
 requires-python = ">=3.12"
 dependencies = [
     "matplotlib>=3.11.2",
+    "mygene>=3.2.2",
     "numpy>=2.5.3",
+    "openpyxl>=3.1.5",
     "pandas>=3.0.6",
+    "pyarrow>=26.0.0",
+    "pydeseq2>=0.5.4",
+    "pyyaml>=6.0.3",
     "scipy>=1.18.1",
     "seaborn>=0.13.2",
     "statsmodels>=0.15.0",
@@ -28,4 +33,5 @@ dev = [
     "ipykernel>=7.4.0",
     "jupyter>=1.1.1",
     "nbstripout>=0.9.1",
+    "pytest>=9.1.1",
 ]
