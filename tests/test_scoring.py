@@ -58,3 +58,16 @@ def test_matched_random_signatures_keep_size_split_and_bins(log_expr):
         assert (len(u), len(d)) == (4, 1)
         assert not set(u + d) & set(up + down)
         assert list(bins[u + d]) == list(bins[up + down])
+
+
+def test_mouse_signature_uses_retired_ids_and_drops_absent():
+    from data_analysis.scoring import mouse_signature
+
+    genes = pd.DataFrame({"gene": ["Lilrb4a", "Gfap", "Nope"], "direction": ["up", "up", "down"]})
+    ids = pd.DataFrame({"gene": ["Lilrb4a", "Gfap", "Nope"],
+                        "ensembl_gene_id": ["ENSMUSG00000112148", "ENSMUSG01", "ENSMUSG02"],
+                        "retired_ensembl_ids": ["ENSMUSG00000062593", None, None]})
+    sig = mouse_signature(genes, ids, "walker", present={"ENSMUSG00000062593", "ENSMUSG01"})
+    assert (sig.up, sig.down) == (["ENSMUSG00000062593", "ENSMUSG01"], [])
+    hahn = mouse_signature(genes, ids, "hahn", present={"Gfap"})
+    assert hahn.up == ["Gfap"]
