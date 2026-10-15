@@ -142,3 +142,47 @@ def direction_concordance(lfc: pd.DataFrame, by: list[str]) -> pd.DataFrame:
     out = pd.DataFrame(rows)
     out["binom_fdr"] = bh_fdr(out["binom_p"])
     return out
+
+
+def mixed_term(data: pd.DataFrame, formula: str, groups: str, term: str, reml: bool = True):
+    """Fit a random-intercept MixedLM and return (fit, estimate, SE, CI low, CI high, p) for `term`."""
+    fit = smf.mixedlm(formula, data=data, groups=data[groups]).fit(reml=reml)
+    ci = fit.conf_int().loc[term]
+    return fit, float(fit.params[term]), float(fit.bse[term]), float(ci[0]), float(ci[1]), float(fit.pvalues[term])
+
+
+def lrt_pvalue(full, reduced) -> tuple[float, int]:
+    """Likelihood-ratio test of two nested ML fits; returns (p, df)."""
+    df = len(full.fe_params) - len(reduced.fe_params)
+    stat = 2 * (full.llf - reduced.llf)
+    return float(stats.chi2.sf(max(stat, 0.0), df)), int(df)
+
+
+def fixed_effect_meta(estimates: np.ndarray, ses: np.ndarray) -> dict:
+    """Inverse-variance fixed-effect pooling with Cochran's Q, I^2 and DerSimonian-Laird random effects."""
+    est, se = np.asarray(estimates, float), np.asarray(ses, float)
+    w = 1 / se**2
+    pooled = float(np.sum(w * est) / np.sum(w))
+    pooled_se = float(np.sqrt(1 / np.sum(w)))
+    q = float(np.sum(w * (est - pooled) ** 2))
+    k = len(est)
+    i2 = max(0.0, (q - (k - 1)) / q) if q > 0 else 0.0
+    tau2 = max(0.0, (q - (k - 1)) / (np.sum(w) - np.sum(w**2) / np.sum(w)))
+    w_re = 1 / (se**2 + tau2)
+    re = float(np.sum(w_re * est) / np.sum(w_re))
+    re_se = float(np.sqrt(1 / np.sum(w_re)))
+    z = pooled / pooled_se
+    return {
+        "k": k,
+        "fixed_estimate": pooled, "fixed_se": pooled_se,
+        "fixed_ci_low": pooled - 1.96 * pooled_se, "fixed_ci_high": pooled + 1.96 * pooled_se,
+        "fixed_p": float(2 * stats.norm.sf(abs(z))),
+        "q": q, "q_p": float(stats.chi2.sf(q, k - 1)) if k > 1 else np.nan, "i2": i2, "tau2": float(tau2),
+        "random_estimate": re, "random_ci_low": re - 1.96 * re_se, "random_ci_high": re + 1.96 * re_se,
+        "random_p": float(2 * stats.norm.sf(abs(re / re_se))),
+    }
+
+
+def hedges_g_variance(g: float, n1: int, n2: int) -> float:
+    """Large-sample variance of Hedges' g."""
+    return (n1 + n2) / (n1 * n2) + g**2 / (2 * (n1 + n2))
