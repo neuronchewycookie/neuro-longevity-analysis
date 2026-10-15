@@ -8,6 +8,7 @@ Per tissue:
   - Spearman CAS vs age (10-year bin midpoints), BH FDR over the 3 tissues
   - OLS  CAS ~ age + sex + RIN + ischemic time + Hardy scale
   - the same Spearman restricted to 20-49 years (the CUD cohort's range)
+  - Hardy-scale sensitivity: the age effect within donors with similar death circumstances
 Across tissues (donors gave up to 3 tissues):
   - mixed model  CAS_z ~ age + tissue + sex + RIN + ischemic time + Hardy + (1 | donor)
 Decision rule, fixed before running: the human CAS "tracks age" if the Spearman rho is positive
@@ -59,6 +60,31 @@ def score_tissues(ds, signature, cas_cfg: dict) -> tuple[pd.DataFrame, pd.DataFr
         genes.append({"region": tissue, "n_up": len(up), "n_down": len(down),
                       "n_signature_mapped": len(signature.up) + len(signature.down)})
     return pd.concat(frames), pd.DataFrame(genes)
+
+
+HARDY_SUBSETS = {
+    "all donors": None,
+    "excluding ventilator deaths (Hardy 0)": ["1", "2", "3", "4", "missing"],
+    "fast deaths only (Hardy 1-2)": ["1", "2"],
+    "fast natural deaths only (Hardy 2)": ["2"],
+}
+
+
+def hardy_sensitivity(scores: pd.DataFrame) -> pd.DataFrame:
+    """Age effect within death-circumstance subsets: CAS is higher after slow or ventilator deaths,
+    and those deaths are more common in older donors, so the age effect is re-checked within
+    donors who died in similar circumstances. Covariates drop Hardy, which is fixed or near-fixed here."""
+    rows = []
+    for label, keep in HARDY_SUBSETS.items():
+        sub = scores if keep is None else scores[scores["hardy"].astype(str).isin(keep)]
+        for tissue in TISSUE_ORDER:
+            x = sub[sub["region"] == tissue]
+            rho, p = sstats.spearmanr(x["age"], x["cas"])
+            fit = smf.ols("cas ~ age + C(sex) + rin + ischemic_time",
+                          data=x.dropna(subset=["rin", "ischemic_time"])).fit()
+            rows.append({"subset": label, "region": tissue, "n": len(x), "rho": rho, "p": p,
+                         "age_coef_per_year": fit.params["age"], "age_p": fit.pvalues["age"]})
+    return pd.DataFrame(rows)
 
 
 def figure(scores: pd.DataFrame, corr: pd.DataFrame) -> plt.Figure:
@@ -122,6 +148,8 @@ def main() -> int:
                        "per_decade_sd": est * 10, "converged": bool(fit.converged)})
     models = pd.DataFrame(model_rows)
 
+    hardy = hardy_sensitivity(scores)
+
     passed = int(((corr["subset"] == "all ages") & (corr["rho"] > 0) & (corr["fdr"] < 0.05)).sum())
     verdict = {"rule": "rho > 0 and FDR < 0.05 in >= 2 of 3 tissues", "tissues_passing": passed,
                "human_cas_tracks_age": passed >= 2}
@@ -130,12 +158,14 @@ def main() -> int:
     corr.to_csv(tables / "table_gtex_age_control.csv", index=False)
     models.to_csv(tables / "table_gtex_age_models.csv", index=False)
     used.to_csv(tables / "table_gtex_cas_genes_used.csv", index=False)
+    hardy.to_csv(tables / "table_gtex_age_hardy_sensitivity.csv", index=False)
     (tables / "gtex_age_control_verdict.json").write_text(json.dumps(verdict, indent=1), encoding="utf-8")
     plots.save(figure(scores, corr), figures / "fig_gtex_age_control.png")
 
     print(used.to_string(index=False))
     print(corr.round(4).to_string(index=False))
     print(models.round(4).to_string(index=False))
+    print(hardy.round(4).to_string(index=False))
     print(scores.groupby(["region", "age_bin"])["cas"].agg(["mean", "count"]).round(2).unstack(0).to_string())
     print(json.dumps(verdict))
     return 0
