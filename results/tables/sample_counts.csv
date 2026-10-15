@@ -256,7 +256,7 @@ rat_reward,NAc_shell,Saline,Male,8
 rat_reward,NAc_shell,Morphine_D1,Female,7
 rat_reward,NAc_shell,Morphine_D1,Male,8
 rat_reward,NAc_shell,Morphine_D30,Female,8
-rat_reward,NAc_shell,Morphine_D30,Male,8
+rat_reward,NAc_shell,Morphine_D30,Male,7
 rat_reward,NAc_shell,Cue,Female,8
 rat_reward,NAc_shell,Cue,Male,7
 rat_reward,NAc_shell,Sucrose_D1,Female,8

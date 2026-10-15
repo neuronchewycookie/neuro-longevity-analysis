@@ -23,7 +23,7 @@ FILES = {
 }
 CONTROL = {"Morphine": "Saline", "Sucrose": "Cue"}
 GROUPS = ["Saline", "Morphine_D1", "Morphine_D30", "Cue", "Sucrose_D1", "Sucrose_D30"]
-N_SAMPLES = 93
+N_SAMPLES = 92  # 93 GEO samples minus one exact duplicate column (Male_Morphine 233 == 231)
 N_PER_CELL = (7, 8)
 REGION = "NAc_shell"
 
@@ -99,6 +99,25 @@ def match_columns(meta: pd.DataFrame, sex: str, reinforcer: str, columns: list[s
     return mapping
 
 
+def drop_duplicate_columns(values: pd.DataFrame, meta: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
+    """Drop sample columns that are exact copies of an earlier column (first occurrence kept).
+
+    GEO's Male_Morphine file stores animals 231 and 233 (both Morphine Day 30) with identical
+    values for every gene; counting both would treat one animal as two.
+    """
+    seen: dict[bytes, str] = {}
+    duplicates = []
+    for col in values.columns:
+        key = values[col].to_numpy().tobytes()
+        if key in seen:
+            duplicates.append(col)
+            log.warning("rat: sample %s is an exact copy of %s; dropped (kept %s)", col, seen[key], seen[key])
+        else:
+            seen[key] = col
+    keep = [c for c in values.columns if c not in duplicates]
+    return values[keep], meta.loc[keep]
+
+
 def validate(ds: Dataset) -> pd.DataFrame:
     """Check sample numbers against PIPELINE_SPEC; return the sex x group count table."""
     check_expected("rat total samples", len(ds.meta), N_SAMPLES)
@@ -110,10 +129,10 @@ def validate(ds: Dataset) -> pd.DataFrame:
 
 
 def load_rat_reward(cfg: dict) -> Dataset:
-    """Gene-level values (transcripts summed per gene_name, not log-transformed) for all 93 rats.
+    """Gene-level values (transcripts summed per gene_name, not log-transformed) for 92 rats.
 
     Sample keys are '{file key}:{column}' because animal IDs repeat across files.
-    Only genes present in all four files are kept.
+    Only genes present in all four files are kept, and exact duplicate sample columns are dropped.
     """
     paths = cfg["data"]["rat"]
     meta_all = load_metadata(paths["series_matrix"])
@@ -143,6 +162,7 @@ def load_rat_reward(cfg: dict) -> Dataset:
     meta.index.name = "sample"
     meta["region"] = REGION
     meta["group"] = pd.Categorical(meta["group"], categories=GROUPS)
+    values, meta = drop_duplicate_columns(values, meta)
     ds = Dataset("rat_reward", values, meta, gene_id="symbol", is_count=False)
     validate(ds)
     return ds

@@ -86,7 +86,7 @@ def test_heroin_design(heroin_ds):
 
 def test_rat_design(rat_ds):
     table = rat_reward.validate(rat_ds)
-    assert table.to_numpy().sum() == 93
+    assert table.to_numpy().sum() == 92
     assert not rat_ds.is_count
     assert rat_ds.meta["gsm"].is_unique
     # the same animal ID in two files stays two samples
@@ -95,7 +95,7 @@ def test_rat_design(rat_ds):
 
 def test_rat_male_morphine_column_shift_fixed(rat_ds):
     mm = rat_ds.subset(file="male_morphine")
-    assert len(mm.meta) == 24
+    assert len(mm.meta) == 23  # 24 columns in GEO, one exact duplicate dropped
     assert (mm.counts.to_numpy() >= 0).all()  # no gene names left in the value columns
 
 
@@ -118,3 +118,21 @@ def test_human_inferred_subjects_pair_regions(human_ds):
     assert (per_subject.map(len) == 2).sum() == 44
     # a donor never mixes diagnoses or ages across its two samples
     assert (human_ds.meta.groupby("subject_id")[["diagnosis", "age"]].nunique(dropna=False) == 1).all().all()
+
+
+def test_rat_duplicate_sample_dropped(rat_ds):
+    # GEO's Male_Morphine file stores 231 and 233 with identical values; only 231 is kept
+    assert "male_morphine:231" in rat_ds.meta.index
+    assert "male_morphine:233" not in rat_ds.meta.index
+    assert not rat_ds.counts.T.duplicated().any()
+    table = rat_reward.validate(rat_ds)
+    assert table.loc["Morphine_D30", "Male"] == 7
+
+
+def test_drop_duplicate_columns_keeps_first():
+    import pandas as pd
+
+    values = pd.DataFrame({"a": [1.0, 2.0], "b": [1.0, 2.0], "c": [3.0, 4.0]})
+    meta = pd.DataFrame({"region": ["x", "x", "x"]}, index=["a", "b", "c"])
+    v, m = rat_reward.drop_duplicate_columns(values, meta)
+    assert list(v.columns) == ["a", "c"] and list(m.index) == ["a", "c"]
