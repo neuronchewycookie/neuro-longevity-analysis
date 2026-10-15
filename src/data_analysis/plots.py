@@ -386,3 +386,54 @@ def exploratory_specificity(spec: pd.DataFrame, designs: list[str]) -> plt.Figur
                  fontsize=11, color=TEXT)
     fig.tight_layout()
     return fig
+
+
+def pathway_heatmap(aging: pd.DataFrame, drugs: pd.DataFrame, pathways: dict[str, list[str]],
+                    design: str, vmax: float = 3.0) -> plt.Figure:
+    """Pre-specified pathways (rows, grouped by category) x aging references and drug regions (columns).
+
+    Colour = GSEA NES; * = FDR < 0.05 within the pre-specified list of that column.
+    """
+    rows = [p for ps in pathways.values() for p in ps]
+    cols, values, fdrs = [], {}, {}
+    for ref in ("cp", "hi", "cor", "mean15"):
+        sub = aging[aging["aging_ref"] == ref].set_index("pathway")
+        label = f"aging | {ref}"
+        cols.append(label)
+        values[label], fdrs[label] = sub["nes"], sub["fdr_prespecified"]
+    for drug in ("cocaine", "heroin"):
+        sub = drugs[(drugs["drug"] == drug) & (drugs["design"] == design)]
+        for region in sorted(sub["region"].unique()):
+            r = sub[sub["region"] == region].set_index("pathway")
+            label = f"{drug} | {region}"
+            cols.append(label)
+            values[label], fdrs[label] = r["nes"], r["fdr_prespecified"]
+    mat = pd.DataFrame(values).reindex(index=rows, columns=cols)
+    sig = pd.DataFrame(fdrs).reindex(index=rows, columns=cols)
+    fig, ax = plt.subplots(figsize=(0.55 * len(cols) + 6.5, 0.36 * len(rows) + 2.2))
+    im = ax.imshow(mat.to_numpy(float), cmap=_diverging_cmap(), vmin=-vmax, vmax=vmax, aspect="auto")
+    for i in range(len(rows)):
+        for j in range(len(cols)):
+            if pd.notna(sig.iat[i, j]) and sig.iat[i, j] < 0.05:
+                ax.text(j, i, "*", ha="center", va="center", fontsize=10, color="white" if abs(mat.iat[i, j]) > 2 else TEXT)
+    labels = [p.replace("HALLMARK_", "H: ").replace("GOBP_", "GO: ").replace("_", " ").lower() for p in rows]
+    ax.set_yticks(range(len(rows)), labels, fontsize=7)
+    ax.set_xticks(range(len(cols)), cols, fontsize=7.5, rotation=60, ha="right")
+    for j in (4, 4 + len(cols[4:]) // 2):
+        ax.axvline(j - 0.5, color="white", linewidth=3)
+    start = 0
+    for category, ps in pathways.items():
+        if start:
+            ax.axhline(start - 0.5, color="white", linewidth=3)
+        ax.text(len(cols) - 0.3, start + (len(ps) - 1) / 2, f" {category}", va="center", fontsize=8, color=TEXT)
+        start += len(ps)
+    ax.tick_params(length=0, colors=TEXT_MUTED)
+    for spine in ax.spines.values():
+        spine.set_visible(False)
+    cbar = fig.colorbar(im, ax=ax, fraction=0.03, pad=0.2)
+    cbar.set_label("GSEA NES (+ = up with age / up after drug)", fontsize=8, color=TEXT_MUTED)
+    cbar.ax.tick_params(labelsize=7, colors=TEXT_MUTED)
+    ax.set_title(f"EXPLORATORY (post hoc): pathways in aging vs drug ({design})\n* FDR < 0.05 within the pre-specified list",
+                 fontsize=10, color=TEXT)
+    fig.tight_layout()
+    return fig
