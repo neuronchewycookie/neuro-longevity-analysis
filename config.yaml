@@ -1,0 +1,47 @@
+# Pipeline configuration. All paths are relative to the project root.
+# Raw data under data/raw/ is read-only; derived outputs go to data/processed/ and results/.
+
+seed: 42
+
+paths:
+  raw: data/raw
+  processed: data/processed
+  tables: results/tables
+  figures: results/figures
+
+data:
+  walker:  # GSE110344, cocaine SA, mouse (male)
+    counts: data/raw/GSE110344_cocaine/GSE110344_counttab_self_administration.txt.gz
+    series_matrix: data/raw/GSE110344_cocaine/GSE110344_series_matrix.txt.gz
+
+  hahn:  # GSE212336, brain aging, mouse
+    counts: data/raw/GSE212336_aging/GSE212336_BulkSeq_Counttable.txt.gz
+    series_matrix: data/raw/GSE212336_aging/GSE212336_series_matrix.txt.gz
+    supplement: data/raw/GSE212336_aging/NIHMS1924184-supplement-11.xlsx
+
+  heroin:  # GSE228031, heroin SA, mouse (male)
+    counts: data/raw/GSE228031_heroin/GSE228031_CountsMatrix.csv
+    annotation: data/raw/GSE228031_heroin/GSE228031_AnnotationFile.csv
+    deglists: data/raw/GSE228031_heroin/GSE228031_DEGlists.xlsx
+    series_matrix: data/raw/GSE228031_heroin/GSE228031_series_matrix.txt.gz
+
+  rat:  # GSE174737, morphine vs sucrose, rat NAc shell (file names keep GEO typos)
+    normalized:
+      male_morphine: data/raw/GSE174737_rat_reward/GSE174737_Male_Morphine_Nromalized.txt.gz
+      female_morphine: data/raw/GSE174737_rat_reward/GSE174737_Femle_Morphine_Nromalized.txt.gz
+      male_sucrose: data/raw/GSE174737_rat_reward/GSE174737_Male_SucroseNromalized.txt.gz
+      female_sucrose: data/raw/GSE174737_rat_reward/GSE174737_Female_SucroseNromalized.txt.gz
+    series_matrix: data/raw/GSE174737_rat_reward/GSE174737_series_matrix.txt.gz
+
+  human:  # GSE214267, cocaine use disorder postmortem, human
+    raw_dir: data/raw/GSE214267_human_cud
+    counts_glob: "GSM*.counts.txt"
+    series_matrix: data/raw/GSE214267_human_cud/GSE214267_series_matrix.txt.gz
+
+cas:
+  method: mean_diff        # mean(z[UP]) - mean(z[DOWN]); switch after checking Hahn STAR Methods
+  expected_n_up: 75
+  expected_n_down: 7
+  min_mean_count: 10       # drop genes with mean count < this within a region
+  n_permutations: 1000
+  n_bootstrap: 1000
