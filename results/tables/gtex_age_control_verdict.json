@@ -1,0 +1,5 @@
+{
+ "rule": "rho > 0 and FDR < 0.05 in >= 2 of 3 tissues",
+ "tissues_passing": 3,
+ "human_cas_tracks_age": true
+}
