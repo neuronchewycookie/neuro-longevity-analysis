@@ -1,0 +1,35 @@
+{
+ "passed": true,
+ "checks": {
+  "all_slopes_positive_fdr": true,
+  "all_spearman_positive_fdr": true,
+  "cc_tied_with_fastest": true,
+  "cp_rank_le_7": true,
+  "cer_rank_le_7": true
+ },
+ "ranks": {
+  "pon": 1,
+  "med": 2,
+  "cer": 3,
+  "cc": 4,
+  "plx": 5,
+  "cp": 6,
+  "svz": 7,
+  "hy": 8,
+  "th": 9,
+  "hi": 10,
+  "hi2": 11,
+  "cor": 12,
+  "ent": 13,
+  "olf": 14,
+  "vis": 15
+ },
+ "info": {
+  "fastest_region": "pon",
+  "fastest_minus_cc": 0.0088,
+  "tie_p": 0.618,
+  "cortex_mean_slope_over_fastest": 0.374,
+  "paper_reports_cortex_over_cc": "about 1/3"
+ },
+ "method": "vision"
+}
