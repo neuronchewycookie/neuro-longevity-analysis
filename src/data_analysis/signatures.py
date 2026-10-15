@@ -2,9 +2,13 @@
 
 from __future__ import annotations
 
+import datetime
+import logging
 from pathlib import Path
 
 import pandas as pd
+
+log = logging.getLogger(__name__)
 
 # Sheet names in NIHMS1924184-supplement-11.xlsx (note the trailing space on the DEG sheet).
 DEG_SHEET = "DEG detection across regions "
@@ -30,9 +34,29 @@ def _rho_column(columns: pd.Index) -> str:
     return matches[0]
 
 
+# Excel silently turns gene symbols like March11 / Sept4 / Dec1 into dates; month -> symbol prefix.
+EXCEL_DATE_PREFIX = {3: "March", 9: "Sept", 12: "Dec"}
+
+
+def repair_excel_dates(genes: pd.Series) -> pd.Series:
+    """Turn date cells back into the gene symbols Excel converted (e.g. 2023-03-11 -> March11)."""
+    values = genes.astype(object)
+    is_date = values.map(lambda v: isinstance(v, (pd.Timestamp, datetime.datetime)))
+    if not is_date.any():
+        return genes
+    bad = sorted({v.month for v in values[is_date]} - set(EXCEL_DATE_PREFIX))
+    if bad:
+        raise ValueError(f"date-like gene symbols with unexpected months: {bad}")
+    fixed = values[is_date].map(lambda v: f"{EXCEL_DATE_PREFIX[v.month]}{v.day}")
+    log.warning("repaired %d Excel date-mangled gene symbols: %s", int(is_date.sum()), sorted(set(fixed)))
+    values[is_date] = fixed
+    return values.astype(str)
+
+
 def load_age_correlations(supplement: str | Path) -> pd.DataFrame:
     """Return the age-correlation sheet as columns: gene, region, rho, pval, padj."""
     df = pd.read_excel(supplement, sheet_name=AGE_SHEET, header=HEADER_ROW)
+    df[GENE_COL] = repair_excel_dates(df[GENE_COL])
     df = df.rename(columns={
         GENE_COL: "gene",
         REGION_COL: "region",

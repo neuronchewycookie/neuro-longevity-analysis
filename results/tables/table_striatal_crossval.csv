@@ -1,0 +1,3 @@
+signature,n_genes,n_in_hahn_counts,sign_agreement,rho_correlation,frac_p_lt_0.05_ours
+striatal_all,498,498,1.0,0.9961594933116519,0.9959839357429718
+striatal_specific,423,423,1.0,0.9956262094360858,0.9952718676122931

@@ -157,3 +157,26 @@ def matched_random_signatures(mean_expr: pd.Series, up: list[str], down: list[st
             picked[slots] = rng.choice(pool[b], size=len(slots), replace=False)
         draws.append((list(picked[:len(up)]), list(picked[len(up):])))
     return draws
+
+
+def mouse_signature(genes: pd.DataFrame, mouse_ids: pd.DataFrame, dataset: str, present: set[str]) -> Signature:
+    """Build a Signature for a mouse dataset from (gene, direction) rows.
+
+    `mouse_ids` is the output of `idmap.map_mouse_symbols`. Hahn counts use symbols; Walker and
+    heroin use Ensembl IDs, where the first current-or-retired ID present in the data is taken.
+    Genes absent from the dataset are dropped.
+    """
+    from data_analysis.idmap import mouse_id_candidates
+
+    rows = genes.merge(mouse_ids, on="gene", how="left")
+    up, down, symbol = [], [], {}
+    for _, row in rows.iterrows():
+        if dataset == "hahn":
+            gene_id = row["gene"] if row["gene"] in present else None
+        else:
+            gene_id = next((i for i in mouse_id_candidates(row) if i in present), None)
+        if gene_id is None or gene_id in symbol:
+            continue
+        symbol[gene_id] = row["gene"]
+        (up if row["direction"] == "up" else down).append(gene_id)
+    return Signature(up, down, symbol)
