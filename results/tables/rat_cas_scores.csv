@@ -1,0 +1,93 @@
+sample,dataset,gsm,title,sex,agent,time_point,reinforcer,group,file,animal_id,region,cas
+female_morphine:194,rat_reward,GSM5325087,194,Female,Morphine,Day 30,Morphine,Morphine_D30,female_morphine,194,NAc_shell,0.1138863060299283
+female_morphine:195,rat_reward,GSM5325088,195,Female,Saline,,Morphine,Saline,female_morphine,195,NAc_shell,-0.3233753529862677
+female_morphine:222,rat_reward,GSM5325089,222,Female,Morphine,Day 30,Morphine,Morphine_D30,female_morphine,222,NAc_shell,-0.48561692781377563
+female_morphine:224,rat_reward,GSM5325090,224,Female,Morphine,Day 1,Morphine,Morphine_D1,female_morphine,224,NAc_shell,-0.463436869634284
+female_morphine:373,rat_reward,GSM5325091,373,Female,Morphine,Day 30,Morphine,Morphine_D30,female_morphine,373,NAc_shell,-1.2907823283696287
+female_morphine:385,rat_reward,GSM5325092,385,Female,Morphine,Day 30,Morphine,Morphine_D30,female_morphine,385,NAc_shell,-1.4440324497255124
+female_morphine:399,rat_reward,GSM5325093,399,Female,Morphine,Day 30,Morphine,Morphine_D30,female_morphine,399,NAc_shell,-0.8043570152639712
+female_morphine:400,rat_reward,GSM5325094,400,Female,Morphine,Day 30,Morphine,Morphine_D30,female_morphine,400,NAc_shell,-1.1550879918272545
+female_morphine:406,rat_reward,GSM5325095,406,Female,Morphine,Day 30,Morphine,Morphine_D30,female_morphine,406,NAc_shell,-0.9643086550057219
+female_morphine:413,rat_reward,GSM5325096,413,Female,Saline,,Morphine,Saline,female_morphine,413,NAc_shell,0.6367117319798637
+female_morphine:426,rat_reward,GSM5325097,426,Female,Morphine,Day 1,Morphine,Morphine_D1,female_morphine,426,NAc_shell,-1.0796780933179972
+female_morphine:427,rat_reward,GSM5325098,427,Female,Saline,,Morphine,Saline,female_morphine,427,NAc_shell,-0.7028416426552214
+female_morphine:429,rat_reward,GSM5325099,429,Female,Saline,,Morphine,Saline,female_morphine,429,NAc_shell,-0.5035474790181201
+female_morphine:430,rat_reward,GSM5325100,430,Female,Morphine,Day 30,Morphine,Morphine_D30,female_morphine,430,NAc_shell,0.15682063129571439
+female_morphine:445,rat_reward,GSM5325101,445,Female,Morphine,Day 1,Morphine,Morphine_D1,female_morphine,445,NAc_shell,-0.1467998354316537
+female_morphine:471,rat_reward,GSM5325102,471,Female,Saline,,Morphine,Saline,female_morphine,471,NAc_shell,0.5344248792481403
+female_morphine:475,rat_reward,GSM5325103,475,Female,Morphine,Day 1,Morphine,Morphine_D1,female_morphine,475,NAc_shell,-0.3720765503522133
+female_morphine:484,rat_reward,GSM5325104,484,Female,Saline,,Morphine,Saline,female_morphine,484,NAc_shell,0.2689102359552033
+female_morphine:487,rat_reward,GSM5325105,487,Female,Morphine,Day 1,Morphine,Morphine_D1,female_morphine,487,NAc_shell,-0.31424365104807594
+female_morphine:Blue13,rat_reward,GSM5325106,Blue13,Female,Saline,,Morphine,Saline,female_morphine,Blue13,NAc_shell,-0.4256839397011685
+female_morphine:Blue14,rat_reward,GSM5325107,Blue14,Female,Morphine,Day 1,Morphine,Morphine_D1,female_morphine,Blue14,NAc_shell,-0.49416868389502744
+female_morphine:Blue15,rat_reward,GSM5325108,Blue15,Female,Saline,,Morphine,Saline,female_morphine,Blue15,NAc_shell,-0.1763271092413703
+female_morphine:Blue17,rat_reward,GSM5325109,Blue17,Female,Morphine,Day 1,Morphine,Morphine_D1,female_morphine,Blue17,NAc_shell,-0.7972195444062268
+female_sucrose:545,rat_reward,GSM5325133,545,Female,Sucrose,Day 1,Sucrose,Sucrose_D1,female_sucrose,545,NAc_shell,-1.1276318867236663
+female_sucrose:550,rat_reward,GSM5325155,550,Female,Sucrose,Day 1,Sucrose,Sucrose_D1,female_sucrose,550,NAc_shell,-1.7829374838127052
+female_sucrose:615,rat_reward,GSM5325140,615,Female,Cue,,Sucrose,Cue,female_sucrose,615,NAc_shell,-0.5276954716810157
+female_sucrose:617,rat_reward,GSM5325143,617,Female,Sucrose,Day 30,Sucrose,Sucrose_D30,female_sucrose,617,NAc_shell,-1.7344241728040384
+female_sucrose:619,rat_reward,GSM5325141,619,Female,Sucrose,Day 30,Sucrose,Sucrose_D30,female_sucrose,619,NAc_shell,-1.6863207256609476
+female_sucrose:632,rat_reward,GSM5325135,632,Female,Cue,,Sucrose,Cue,female_sucrose,632,NAc_shell,-0.9256324204469129
+female_sucrose:B192,rat_reward,GSM5325146,B192,Female,Sucrose,Day 1,Sucrose,Sucrose_D1,female_sucrose,B192,NAc_shell,-0.9445190690359437
+female_sucrose:B307,rat_reward,GSM5325150,B307,Female,Cue,,Sucrose,Cue,female_sucrose,B307,NAc_shell,-0.8878837326150063
+female_sucrose:B308,rat_reward,GSM5325138,B308,Female,Cue,,Sucrose,Cue,female_sucrose,B308,NAc_shell,-0.9344041984464604
+female_sucrose:B309,rat_reward,GSM5325145,B309,Female,Sucrose,Day 1,Sucrose,Sucrose_D1,female_sucrose,B309,NAc_shell,-1.14063416244842
+female_sucrose:B323,rat_reward,GSM5325132,B323,Female,Sucrose,Day 30,Sucrose,Sucrose_D30,female_sucrose,B323,NAc_shell,-0.5391606697325773
+female_sucrose:B326,rat_reward,GSM5325136,B326,Female,Sucrose,Day 1,Sucrose,Sucrose_D1,female_sucrose,B326,NAc_shell,-1.774328552103046
+female_sucrose:G58,rat_reward,GSM5325137,G58,Female,Sucrose,Day 30,Sucrose,Sucrose_D30,female_sucrose,G58,NAc_shell,-0.9008671115357453
+female_sucrose:G59,rat_reward,GSM5325144,G59,Female,Sucrose,Day 1,Sucrose,Sucrose_D1,female_sucrose,G59,NAc_shell,-0.4552711084948103
+female_sucrose:T100,rat_reward,GSM5325149,T100,Female,Cue,,Sucrose,Cue,female_sucrose,T100,NAc_shell,-1.4255147370158714
+female_sucrose:T106,rat_reward,GSM5325151,T106,Female,Sucrose,Day 1,Sucrose,Sucrose_D1,female_sucrose,T106,NAc_shell,-2.0728630196069746
+female_sucrose:T108,rat_reward,GSM5325154,T108,Female,Cue,,Sucrose,Cue,female_sucrose,T108,NAc_shell,-1.1791663137158175
+female_sucrose:T21,rat_reward,GSM5325148,T21,Female,Sucrose,Day 30,Sucrose,Sucrose_D30,female_sucrose,T21,NAc_shell,-0.30597739261712764
+female_sucrose:T45,rat_reward,GSM5325134,T45,Female,Sucrose,Day 30,Sucrose,Sucrose_D30,female_sucrose,T45,NAc_shell,-0.6086555760020899
+female_sucrose:T50,rat_reward,GSM5325147,T50,Female,Cue,,Sucrose,Cue,female_sucrose,T50,NAc_shell,-0.9803934566984912
+female_sucrose:T58,rat_reward,GSM5325139,T58,Female,Cue,,Sucrose,Cue,female_sucrose,T58,NAc_shell,-1.5669624764903372
+female_sucrose:T72,rat_reward,GSM5325152,T72,Female,Sucrose,Day 1,Sucrose,Sucrose_D1,female_sucrose,T72,NAc_shell,-1.3882613483732373
+female_sucrose:T76,rat_reward,GSM5325153,T76,Female,Sucrose,Day 30,Sucrose,Sucrose_D30,female_sucrose,T76,NAc_shell,-1.3782786891194339
+female_sucrose:T77,rat_reward,GSM5325142,T77,Female,Sucrose,Day 30,Sucrose,Sucrose_D30,female_sucrose,T77,NAc_shell,-2.235715841747172
+male_morphine:101,rat_reward,GSM5325084,101,Male,Saline,,Morphine,Saline,male_morphine,101,NAc_shell,-0.3740537107544559
+male_morphine:103,rat_reward,GSM5325068,103,Male,Morphine,Day 1,Morphine,Morphine_D1,male_morphine,103,NAc_shell,-0.18729912096529058
+male_morphine:106,rat_reward,GSM5325069,106,Male,Morphine,Day 1,Morphine,Morphine_D1,male_morphine,106,NAc_shell,-1.2058522141585644
+male_morphine:178,rat_reward,GSM5325075,178,Male,Morphine,Day 30,Morphine,Morphine_D30,male_morphine,178,NAc_shell,-0.24702227271636415
+male_morphine:206,rat_reward,GSM5325085,206,Male,Saline,,Morphine,Saline,male_morphine,206,NAc_shell,-0.7415817577852527
+male_morphine:211,rat_reward,GSM5325074,211,Male,Morphine,Day 30,Morphine,Morphine_D30,male_morphine,211,NAc_shell,-0.2930648530286441
+male_morphine:212,rat_reward,GSM5325076,212,Male,Morphine,Day 30,Morphine,Morphine_D30,male_morphine,212,NAc_shell,-0.1925777964986923
+male_morphine:231,rat_reward,GSM5325078,231,Male,Morphine,Day 30,Morphine,Morphine_D30,male_morphine,231,NAc_shell,-0.3132050751380163
+male_morphine:321,rat_reward,GSM5325080,321,Male,Saline,,Morphine,Saline,male_morphine,321,NAc_shell,-1.0053870502754174
+male_morphine:322,rat_reward,GSM5325063,322,Male,Morphine,Day 1,Morphine,Morphine_D1,male_morphine,322,NAc_shell,-1.3393318282059523
+male_morphine:323,rat_reward,GSM5325070,323,Male,Morphine,Day 1,Morphine,Morphine_D1,male_morphine,323,NAc_shell,-1.5751369340906498
+male_morphine:329,rat_reward,GSM5325086,329,Male,Saline,,Morphine,Saline,male_morphine,329,NAc_shell,-0.5190173628655514
+male_morphine:330,rat_reward,GSM5325079,330,Male,Saline,,Morphine,Saline,male_morphine,330,NAc_shell,-0.4913483675587968
+male_morphine:333,rat_reward,GSM5325066,333,Male,Morphine,Day 1,Morphine,Morphine_D1,male_morphine,333,NAc_shell,-1.3967227576173797
+male_morphine:435,rat_reward,GSM5325081,435,Male,Saline,,Morphine,Saline,male_morphine,435,NAc_shell,-0.6984099199939369
+male_morphine:451,rat_reward,GSM5325065,451,Male,Morphine,Day 1,Morphine,Morphine_D1,male_morphine,451,NAc_shell,-0.4701544535655496
+male_morphine:453,rat_reward,GSM5325064,453,Male,Morphine,Day 1,Morphine,Morphine_D1,male_morphine,453,NAc_shell,0.48577926165102436
+male_morphine:511,rat_reward,GSM5325071,511,Male,Morphine,Day 30,Morphine,Morphine_D30,male_morphine,511,NAc_shell,-0.1781864573065965
+male_morphine:512,rat_reward,GSM5325073,512,Male,Morphine,Day 30,Morphine,Morphine_D30,male_morphine,512,NAc_shell,-1.8762963307733178
+male_morphine:560,rat_reward,GSM5325082,560,Male,Saline,,Morphine,Saline,male_morphine,560,NAc_shell,-1.001272554635963
+male_morphine:Blue16,rat_reward,GSM5325077,Blue16,Male,Morphine,Day 30,Morphine,Morphine_D30,male_morphine,Blue16,NAc_shell,-0.6491040431896372
+male_morphine:Blue20,rat_reward,GSM5325083,Blue20,Male,Saline,,Morphine,Saline,male_morphine,Blue20,NAc_shell,-0.5628243950211209
+male_morphine:Blue4,rat_reward,GSM5325067,Blue4,Male,Morphine,Day 1,Morphine,Morphine_D1,male_morphine,Blue4,NAc_shell,0.7529258108521149
+male_sucrose:135,rat_reward,GSM5325123,135,Male,Sucrose,Day 1,Sucrose,Sucrose_D1,male_sucrose,135,NAc_shell,-1.0736643188839614
+male_sucrose:167,rat_reward,GSM5325130,167,Male,Sucrose,Day 30,Sucrose,Sucrose_D30,male_sucrose,167,NAc_shell,-0.986725862363684
+male_sucrose:214,rat_reward,GSM5325117,214,Male,Sucrose,Day 30,Sucrose,Sucrose_D30,male_sucrose,214,NAc_shell,-0.803422026141396
+male_sucrose:216,rat_reward,GSM5325113,216,Male,Cue,,Sucrose,Cue,male_sucrose,216,NAc_shell,-0.38668840478974553
+male_sucrose:220,rat_reward,GSM5325115,220,Male,Sucrose,Day 1,Sucrose,Sucrose_D1,male_sucrose,220,NAc_shell,-0.95933823895006
+male_sucrose:287,rat_reward,GSM5325131,287,Male,Sucrose,Day 30,Sucrose,Sucrose_D30,male_sucrose,287,NAc_shell,-1.2850774137477408
+male_sucrose:290,rat_reward,GSM5325120,290,Male,Sucrose,Day 30,Sucrose,Sucrose_D30,male_sucrose,290,NAc_shell,-0.3035910730424748
+male_sucrose:291,rat_reward,GSM5325116,291,Male,Sucrose,Day 1,Sucrose,Sucrose_D1,male_sucrose,291,NAc_shell,-0.7294698464058765
+male_sucrose:294,rat_reward,GSM5325127,294,Male,Sucrose,Day 1,Sucrose,Sucrose_D1,male_sucrose,294,NAc_shell,-0.390496915580541
+male_sucrose:295,rat_reward,GSM5325118,295,Male,Sucrose,Day 30,Sucrose,Sucrose_D30,male_sucrose,295,NAc_shell,-0.9120945271190498
+male_sucrose:361,rat_reward,GSM5325129,361,Male,Sucrose,Day 30,Sucrose,Sucrose_D30,male_sucrose,361,NAc_shell,-0.5768831031461997
+male_sucrose:379,rat_reward,GSM5325112,379,Male,Cue,,Sucrose,Cue,male_sucrose,379,NAc_shell,-2.0060193473076318
+male_sucrose:380,rat_reward,GSM5325114,380,Male,Cue,,Sucrose,Cue,male_sucrose,380,NAc_shell,-1.738078598841892
+male_sucrose:394,rat_reward,GSM5325121,394,Male,Cue,,Sucrose,Cue,male_sucrose,394,NAc_shell,-1.1925617525567747
+male_sucrose:421,rat_reward,GSM5325119,421,Male,Sucrose,Day 30,Sucrose,Sucrose_D30,male_sucrose,421,NAc_shell,0.053077114488103205
+male_sucrose:422,rat_reward,GSM5325110,422,Male,Cue,,Sucrose,Cue,male_sucrose,422,NAc_shell,-0.40950217881100065
+male_sucrose:Blue1,rat_reward,GSM5325111,Blue1,Male,Cue,,Sucrose,Cue,male_sucrose,Blue1,NAc_shell,-1.160089619065824
+male_sucrose:Blue10,rat_reward,GSM5325124,Blue10,Male,Sucrose,Day 1,Sucrose,Sucrose_D1,male_sucrose,Blue10,NAc_shell,-1.2143297246606237
+male_sucrose:Blue12,rat_reward,GSM5325126,Blue12,Male,Sucrose,Day 1,Sucrose,Sucrose_D1,male_sucrose,Blue12,NAc_shell,-1.5819624855381382
+male_sucrose:Blue2,rat_reward,GSM5325122,Blue2,Male,Cue,,Sucrose,Cue,male_sucrose,Blue2,NAc_shell,-0.8486114875808326
+male_sucrose:Blue4,rat_reward,GSM5325125,Blue4_Suc,Male,Sucrose,Day 1,Sucrose,Sucrose_D1,male_sucrose,Blue4,NAc_shell,-1.713615471018308
+male_sucrose:Blue9,rat_reward,GSM5325128,Blue9,Male,Sucrose,Day 30,Sucrose,Sucrose_D30,male_sucrose,Blue9,NAc_shell,-0.5507028772931309

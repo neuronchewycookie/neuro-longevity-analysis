@@ -240,3 +240,39 @@ def gene_lfc_heatmap(lfc: pd.DataFrame, gene_order: list[str], col_order: list[s
     ax.set_title(f"{title}\n↑/↓ = direction with age in Hahn 2023", fontsize=10, color=TEXT)
     fig.tight_layout()
     return fig
+
+
+def rat_reward_panels(stats: pd.DataFrame, delta: pd.DataFrame, title: str) -> plt.Figure:
+    """Left: Hedges' g with 95% CI per reinforcer x time, by sex. Right: control-standardized CAS change."""
+    order = ["Morphine D1", "Morphine D30", "Sucrose D1", "Sucrose D30"]
+    sexes = ["Male", "Female"]
+    colors = dict(zip(sexes, SERIES))
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(11, 4.2))
+    for k, sex in enumerate(sexes):
+        sub = stats[stats["sex"] == sex].set_index("label").reindex(order)
+        y = [i + (k - 0.5) * 0.25 for i in range(len(order))]
+        ax1.hlines(y, sub["g_ci_low"], sub["g_ci_high"], color=colors[sex], linewidth=2)
+        ax1.scatter(sub["g"], y, s=40, color=colors[sex], edgecolors="white", linewidths=1.5, zorder=3, label=sex)
+    ax1.axvline(0, color=TEXT_MUTED, linewidth=0.8)
+    ax1.set_yticks(range(len(order)), [f"{o} vs ctrl" for o in order], fontsize=8)
+    ax1.invert_yaxis()
+    ax1.set_xlabel("Hedges' g (95% bootstrap CI)", fontsize=9, color=TEXT_MUTED)
+    ax1.set_title("CAS change vs same-file control", fontsize=10, color=TEXT)
+    _style_axes(ax1)
+    ax1.grid(axis="x", color=GRID, linewidth=0.6)
+    ax1.grid(axis="y", visible=False)
+    ax1.legend(frameon=False, fontsize=8)
+    for k, sex in enumerate(sexes):
+        for i, lab in enumerate(order):
+            vals = delta.loc[(delta["sex"] == sex) & (delta["label"] == lab), "delta_z"]
+            x = [i + (k - 0.5) * 0.3 + (j % 5 - 2) * 0.03 for j in range(len(vals))]
+            ax2.scatter(x, vals, s=14, color=colors[sex], alpha=0.8, linewidths=0)
+            ax2.hlines(vals.mean(), i + (k - 0.5) * 0.3 - 0.1, i + (k - 0.5) * 0.3 + 0.1, color=TEXT, linewidth=2)
+    ax2.axhline(0, color=TEXT_MUTED, linewidth=0.8)
+    ax2.set_xticks(range(len(order)), order, fontsize=8)
+    ax2.set_ylabel("CAS change (SD of same-file control)", fontsize=9, color=TEXT_MUTED)
+    ax2.set_title("Per animal; bar = mean", fontsize=10, color=TEXT)
+    _style_axes(ax2)
+    fig.suptitle(title, fontsize=11, color=TEXT)
+    fig.tight_layout()
+    return fig
