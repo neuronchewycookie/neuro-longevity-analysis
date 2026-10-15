@@ -41,3 +41,13 @@ def test_striatal_signature_excluding_cas(cfg, cas):
     assert (full["padj"] < 0.05).all()
     assert len(specific) < len(full)
     assert not set(specific["gene"]) & set(cas["gene"])
+
+
+def test_cas_gene_groups_only_name_cas_genes(cas):
+    from data_analysis.signatures import CAS_GENE_GROUPS, OTHER_GROUP, cas_gene_group
+
+    listed = [g for genes in CAS_GENE_GROUPS.values() for g in genes]
+    assert len(listed) == len(set(listed))
+    assert set(listed) <= set(cas["gene"])
+    assert cas_gene_group("Gpr17") == OTHER_GROUP
+    assert cas_gene_group("Hsph1") == "chaperone / proteostasis"

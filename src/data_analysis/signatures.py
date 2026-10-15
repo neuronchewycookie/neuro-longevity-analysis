@@ -128,3 +128,27 @@ def load_striatal_signature(
         cp = cp[~cp["gene"].isin(exclude_genes)]
     cp["direction"] = _direction_from_rho(cp["rho"])
     return cp[["gene", "direction", "rho", "padj"]].reset_index(drop=True)
+
+
+# Approximate functional groups for displaying CAS genes (after Hahn 2023 Fig. 2C GO terms).
+# Hand-assigned for figures only; not used in any statistic.
+CAS_GENE_GROUPS = {
+    "antigen presentation": ["H2-Q6", "H2-K1", "H2-Q7", "H2-D1", "H2-DMb1", "H2-M3", "B2m", "Psmb8"],
+    "complement": ["C1qa", "C1qb", "C1qc", "C4b", "C3ar1"],
+    "microglia / immune": [
+        "Ctss", "Ctsz", "Tyrobp", "Aif1", "Cd52", "Cd68", "Cd84", "Csf3r", "Fcer1g", "Fcgr2b", "Hvcn1",
+        "Itgb2", "Lag3", "Laptm5", "Lyz2", "Pld4", "Ptpn6", "Slc11a1", "Ccl6", "Cd22", "Cd300c2", "Cd37",
+        "Cd48", "Cst7", "Cx3cr1", "Cyba", "Gpnmb", "Hexb", "Irf8", "Itgax", "Lgals3bp", "Lilrb4a", "Lpcat2",
+        "Lsp1", "Ly86", "Mpeg1", "Myo1f", "Plek", "Slamf9", "Trem2", "Unc93b1", "Bcl2a1b", "Zc3hav1",
+    ],
+    "chaperone / proteostasis": ["Hsph1", "Dnajb1", "Ahsa1", "Chordc1", "P4ha1", "Cirbp", "Rbm3"],
+}
+OTHER_GROUP = "other (glia, adhesion, misc.)"
+
+
+def cas_gene_group(gene: str) -> str:
+    """Display group of a CAS gene; genes not listed fall into OTHER_GROUP."""
+    for group, genes in CAS_GENE_GROUPS.items():
+        if gene in genes:
+            return group
+    return OTHER_GROUP

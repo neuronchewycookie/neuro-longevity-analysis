@@ -206,3 +206,37 @@ def group_boxplots(scores: pd.DataFrame, regions: list[str], groups: list[str], 
     fig.suptitle(title, fontsize=11, color=TEXT)
     fig.tight_layout(rect=(0, 0, 0.95, 1))
     return fig
+
+
+def gene_lfc_heatmap(lfc: pd.DataFrame, gene_order: list[str], col_order: list[str], gene_group: dict[str, str],
+                     gene_direction: dict[str, str], title: str, vmax: float = 1.0) -> plt.Figure:
+    """Genes x (region | comparison) log2FC heatmap; rows grouped by function, aging direction marked."""
+    mat = lfc.pivot(index="gene", columns="column", values="log2FoldChange").reindex(index=gene_order, columns=col_order)
+    fig, ax = plt.subplots(figsize=(0.32 * len(col_order) + 4, 0.16 * len(gene_order) + 2))
+    im = ax.imshow(mat.to_numpy(float), cmap=_diverging_cmap(), vmin=-vmax, vmax=vmax, aspect="auto",
+                   interpolation="nearest")
+    labels = [f"{g} {'↑' if gene_direction[g] == 'up' else '↓'}" for g in gene_order]
+    ax.set_yticks(range(len(gene_order)), labels, fontsize=5.5)
+    ax.set_xticks(range(len(col_order)), col_order, fontsize=6.5, rotation=90)
+    groups = [gene_group[g] for g in gene_order]
+    for i in range(1, len(groups)):
+        if groups[i] != groups[i - 1]:
+            ax.axhline(i - 0.5, color="white", linewidth=2.5)
+    starts = {}
+    for i, grp in enumerate(groups):
+        starts.setdefault(grp, [i, i])[1] = i
+    for grp, (a, b) in starts.items():
+        ax.text(len(col_order) - 0.3, (a + b) / 2, f" {grp}", va="center", ha="left", fontsize=7, color=TEXT)
+    regions = [c.split(" | ")[0] for c in col_order]
+    for j in range(1, len(regions)):
+        if regions[j] != regions[j - 1]:
+            ax.axvline(j - 0.5, color="white", linewidth=2.5)
+    ax.tick_params(length=0, colors=TEXT_MUTED)
+    for spine in ax.spines.values():
+        spine.set_visible(False)
+    cbar = fig.colorbar(im, ax=ax, fraction=0.025, pad=0.16)
+    cbar.set_label(f"log2 fold change (clipped at ±{vmax})", fontsize=7, color=TEXT_MUTED)
+    cbar.ax.tick_params(labelsize=6, colors=TEXT_MUTED)
+    ax.set_title(f"{title}\n↑/↓ = direction with age in Hahn 2023", fontsize=10, color=TEXT)
+    fig.tight_layout()
+    return fig

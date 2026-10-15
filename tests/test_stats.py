@@ -53,3 +53,15 @@ def test_group_slopes_and_difference_recover_truth():
     assert np.isclose(slopes.loc["a", "slope"], 2, atol=0.05)
     diff, p = slope_difference(df, "y", "x", "g", "a", "b")
     assert np.isclose(diff, 1.5, atol=0.05) and p < 1e-6
+
+
+def test_direction_concordance_counts_aging_like_genes():
+    from data_analysis.stats import direction_concordance
+
+    lfc = pd.DataFrame({
+        "region": ["A"] * 4,
+        "log2FoldChange": [1.0, 0.5, -0.2, -1.0],
+        "direction": ["up", "up", "up", "down"],
+    })
+    out = direction_concordance(lfc, ["region"]).iloc[0]
+    assert (out["n_genes"], out["n_aging_like"]) == (4, 3)
