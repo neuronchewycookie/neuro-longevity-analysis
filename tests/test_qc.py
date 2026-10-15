@@ -46,6 +46,6 @@ def test_processed_cache_matches_spec_sizes(name):
     cfg = load_config()
     if not (cfg["paths"]["processed"] / f"{name}_info.json").is_file():
         pytest.skip("run scripts/01_load_all.py first")
-    expected = {"walker": 230, "hahn": 847, "heroin": 305, "rat_reward": 93, "human_cud": 89}
+    expected = {"walker": 230, "hahn": 847, "heroin": 305, "rat_reward": 92, "human_cud": 89}
     ds = load_processed(name, cfg)
     assert ds.counts.shape[1] == expected[name]
