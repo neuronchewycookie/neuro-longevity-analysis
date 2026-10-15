@@ -122,3 +122,23 @@ def empirical_p(observed: float, null: np.ndarray) -> float:
     null = np.asarray(null, float)
     null = null[np.isfinite(null)]
     return (1 + np.sum(np.abs(null) >= abs(observed))) / (1 + len(null))
+
+
+def direction_concordance(lfc: pd.DataFrame, by: list[str]) -> pd.DataFrame:
+    """Share of genes moving in their aging direction, with a two-sided binomial test vs 0.5.
+
+    `lfc` needs columns log2FoldChange and direction ('up'/'down'). Genes are treated as
+    independent, which co-regulated CAS genes are not, so p-values are optimistic.
+    """
+    data = lfc.dropna(subset=["log2FoldChange"]).copy()
+    sign = np.where(data["direction"] == "up", 1, -1)
+    data["aging_like"] = np.sign(data["log2FoldChange"]) == sign
+    rows = []
+    for key, sub in data.groupby(by, observed=True):
+        k, n = int(sub["aging_like"].sum()), len(sub)
+        rows.append({**dict(zip(by, key if isinstance(key, tuple) else (key,))),
+                     "n_genes": n, "n_aging_like": k, "frac_aging_like": k / n,
+                     "binom_p": stats.binomtest(k, n, 0.5).pvalue})
+    out = pd.DataFrame(rows)
+    out["binom_fdr"] = bh_fdr(out["binom_p"])
+    return out
