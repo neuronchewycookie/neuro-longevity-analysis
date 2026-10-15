@@ -6,6 +6,7 @@ import math
 from pathlib import Path
 
 import matplotlib.pyplot as plt
+import numpy as np
 import pandas as pd
 
 # Reference categorical palette (dataviz skill, light mode), used in this fixed order.
@@ -273,6 +274,44 @@ def rat_reward_panels(stats: pd.DataFrame, delta: pd.DataFrame, title: str) -> p
     ax2.set_ylabel("CAS change (SD of same-file control)", fontsize=9, color=TEXT_MUTED)
     ax2.set_title("Per animal; bar = mean", fontsize=10, color=TEXT)
     _style_axes(ax2)
+    fig.suptitle(title, fontsize=11, color=TEXT)
+    fig.tight_layout()
+    return fig
+
+
+def human_cud_panels(scores: pd.DataFrame, title: str) -> plt.Figure:
+    """Left: CAS by diagnosis per region. Right: CAS vs age per region, by diagnosis, with OLS lines."""
+    regions = ["Caudate", "NAc"]
+    dx = ["Control", "CUD"]
+    colors = {"Control": NEUTRAL, "CUD": SERIES[1]}
+    fig, axes = plt.subplots(1, 3, figsize=(13, 4), gridspec_kw={"width_ratios": [1, 1.4, 1.4]})
+    ax = axes[0]
+    for i, region in enumerate(regions):
+        for k, d in enumerate(dx):
+            vals = scores.loc[(scores["region"] == region) & (scores["diagnosis"] == d), "cas"]
+            pos = i * 2.6 + k
+            ax.boxplot([vals], positions=[pos], widths=0.6, showfliers=False,
+                       medianprops={"color": TEXT, "linewidth": 1.5}, boxprops={"color": TEXT_MUTED},
+                       whiskerprops={"color": TEXT_MUTED}, capprops={"color": TEXT_MUTED})
+            ax.scatter([pos + (j % 5 - 2) * 0.06 for j in range(len(vals))], vals, s=14,
+                       color=colors[d], linewidths=0, alpha=0.85, zorder=3)
+    ax.set_xticks([0.5, 3.1], regions)
+    ax.set_ylabel("CAS", fontsize=9, color=TEXT_MUTED)
+    ax.set_title("CAS by diagnosis", fontsize=10, color=TEXT)
+    _style_axes(ax)
+    for ax, region in zip(axes[1:], regions):
+        sub = scores[scores["region"] == region]
+        for d in dx:
+            s = sub[sub["diagnosis"] == d]
+            ax.scatter(s["age"], s["cas"], s=18, color=colors[d], linewidths=0, alpha=0.85, label=d)
+            if len(s) > 2:
+                b, a = np.polyfit(s["age"], s["cas"], 1)
+                xs = np.array([s["age"].min(), s["age"].max()])
+                ax.plot(xs, a + b * xs, color=colors[d], linewidth=2)
+        ax.set_xlabel("Age (years)", fontsize=9, color=TEXT_MUTED)
+        ax.set_title(f"{region}: CAS vs age", fontsize=10, color=TEXT)
+        _style_axes(ax)
+    axes[2].legend(frameon=False, fontsize=8)
     fig.suptitle(title, fontsize=11, color=TEXT)
     fig.tight_layout()
     return fig
