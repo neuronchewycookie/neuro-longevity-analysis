@@ -51,3 +51,20 @@ def test_cas_gene_groups_only_name_cas_genes(cas):
     assert set(listed) <= set(cas["gene"])
     assert cas_gene_group("Gpr17") == OTHER_GROUP
     assert cas_gene_group("Hsph1") == "chaperone / proteostasis"
+
+
+def test_repair_excel_dates_restores_gene_symbols():
+    import datetime
+
+    import pandas as pd
+
+    from data_analysis.signatures import repair_excel_dates
+
+    genes = pd.Series(["Gfap", datetime.datetime(2023, 3, 11), datetime.datetime(2023, 9, 4)], dtype=object)
+    assert repair_excel_dates(genes).tolist() == ["Gfap", "March11", "Sept4"]
+
+
+def test_striatal_signature_has_no_date_symbols(cfg):
+    sig = load_striatal_signature(cfg["data"]["hahn"]["supplement"])
+    assert "March11" in set(sig["gene"])
+    assert not sig["gene"].str.contains(":").any()
